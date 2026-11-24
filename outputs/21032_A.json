@@ -1,0 +1,3300 @@
+{
+ "sid": "21032",
+ "system": "A",
+ "items": [
+  {
+   "id": "TOP 32",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Tarifautonomie durch die Sicherung von Tariftreue bei der Vergabe öffentlicher Aufträge des Bundes (Tariftreuegesetz) (Drucksache 21/1941)",
+   "notes": [
+    "Der Bundestag beriet den Gesetzentwurf in erster Lesung. Für die Aussprache waren 60 Minuten vereinbart."
+   ],
+   "speeches": [
+    {
+     "speaker": "Bärbel Bas",
+     "group": "Bundesministerin für Arbeit und Soziales",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "stellte den Entwurf vor: „Deshalb hat die Bundesregierung ein Tariftreuegesetz vorgelegt.“ „Konkret bedeutet das: Wer Aufträge des Bundes ab einem bestimmten Schwellenwert ausführen möchte, muss für tarifliche Arbeitsbedingungen sorgen.“ „Häufig reicht schon die Vorlage einer Lohnabrechnung, um nachzuweisen, dass die Pflichten erfüllt sind.“ „Umgekehrt gilt: Wer sich nicht an die Regeln hält, kann den Auftrag auch schnell verlieren.“ „Wer in einem tarifgebundenen Betrieb arbeitet, verdient in Vollzeit durchschnittlich rund 4 900 Euro brutto im Monat.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deshalb hat die Bundesregierung ein Tariftreuegesetz vorgelegt.",
+       "verb": "stellte vor",
+       "source": "llm",
+       "lead": "stellte den Entwurf vor:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Konkret bedeutet das: Wer Aufträge des Bundes ab einem bestimmten Schwellenwert ausführen möchte, muss für tarifliche Arbeitsbedingungen sorgen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Häufig reicht schon die Vorlage einer Lohnabrechnung, um nachzuweisen, dass die Pflichten erfüllt sind.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Umgekehrt gilt: Wer sich nicht an die Regeln hält, kann den Auftrag auch schnell verlieren.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wer in einem tarifgebundenen Betrieb arbeitet, verdient in Vollzeit durchschnittlich rund 4 900 Euro brutto im Monat.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Hans-Jürgen Goßner",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Es schafft neue Meldepflichten, Prüfinstanzen und Haftungsfälle, natürlich alles unter dem moralischen Zeigefinger der Regierung.“ „Die Leidtragenden sind die kleinen und mittleren Betriebe, die ohnehin ums Überleben kämpfen.“ „Dieses Tariftreuegesetz ist ein Anschlag auf die Freiheit des Unternehmers, auf die Eigenverantwortung und auf die Vernunft.“ Er sagte, die CDU lasse sich von der SPD am Gängelband führen, und griff die Regierung auch persönlich scharf an.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es schafft neue Meldepflichten, Prüfinstanzen und Haftungsfälle, natürlich alles unter dem moralischen Zeigefinger der Regierung.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Die Leidtragenden sind die kleinen und mittleren Betriebe, die ohnehin ums Überleben kämpfen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Dieses Tariftreuegesetz ist ein Anschlag auf die Freiheit des Unternehmers, auf die Eigenverantwortung und auf die Vernunft.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Er sagte, die CDU lasse sich von der SPD am Gängelband führen, und griff die Regierung auch persönlich scharf an.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Wilfried Oellers",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Das Tariftreuegesetz muss klarmachen, dass alle Tarifverträge, die es in unserem Land gibt, im Rahmen des Tariftreuegesetzes auch als Tarifverträge gelten, die anerkannt werden, wenn es um die Vergabe von Aufträgen geht.“ „Weiter ist ein ganz wichtiger Punkt, dass das Tariftreuegesetz auch möglichst unbürokratisch umgesetzt wird.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das Tariftreuegesetz muss klarmachen, dass alle Tarifverträge, die es in unserem Land gibt, im Rahmen des Tariftreuegesetzes auch als Tarifverträge gelten, die anerkannt werden, wenn es um die Vergabe von Aufträgen geht.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Weiter ist ein ganz wichtiger Punkt, dass das Tariftreuegesetz auch möglichst unbürokratisch umgesetzt wird.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Ricarda Lang",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Die erste ist, dass der Schwellenwert mit 50 000 Euro viel zu hoch ist.“ „Für uns ist aber ganz klar: Bürokratieabbau darf kein Deckmantel für den Abbau von Arbeitnehmer/-innenrechten sein, und Bürokratieabbau darf niemals auf dem Rücken der Beschäftigten ausgetragen werden.“ „Es braucht eine wirksame Durchsetzung dieses Gesetzes.“ Sie sagte, die AfD hetze gegen die Rechte von Arbeitnehmern und sei die unsozialste Partei im Bundestag.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die erste ist, dass der Schwellenwert mit 50 000 Euro viel zu hoch ist.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Für uns ist aber ganz klar: Bürokratieabbau darf kein Deckmantel für den Abbau von Arbeitnehmer/-innenrechten sein, und Bürokratieabbau darf niemals auf dem Rücken der Beschäftigten ausgetragen werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Es braucht eine wirksame Durchsetzung dieses Gesetzes.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Sie sagte, die AfD hetze gegen die Rechte von Arbeitnehmern und sei die unsozialste Partei im Bundestag.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Pascal Meiser",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Für die Deckung der Bedarfe der Bundeswehr, selbst der zivilen, soll das Gesetz allen Ernstes bis 2032 überhaupt keine Anwendung finden, also gerade in dem Bereich, in dem in den kommenden Jahren das meiste Geld fließen soll.“ „Es braucht dringend auch verdachtsunabhängige und robuste Vor-Ort-Kontrollen.“ „Die Prüfstelle muss Sanktionen bei Verstößen auch selbst direkt verhängen können.“ Er sagte, die Linke habe ein solches Gesetz seit 20 Jahren gefordert, und warf der SPD vor, bei der Aufrüstung Lohndumping hinzunehmen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Für die Deckung der Bedarfe der Bundeswehr, selbst der zivilen, soll das Gesetz allen Ernstes bis 2032 überhaupt keine Anwendung finden, also gerade in dem Bereich, in dem in den kommenden Jahren das meiste Geld fließen soll.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es braucht dringend auch verdachtsunabhängige und robuste Vor-Ort-Kontrollen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Prüfstelle muss Sanktionen bei Verstößen auch selbst direkt verhängen können.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Er sagte, die Linke habe ein solches Gesetz seit 20 Jahren gefordert, und warf der SPD vor, bei der Aufrüstung Lohndumping hinzunehmen.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dagmar Schmidt",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "betonte: „Und überall dort, wo Bundesmittel fließen, wird es künftig heißen: Nur wer Tariflöhne zahlt, kann diese Aufträge auch erhalten.“ „2024 waren nur noch 49 Prozent der Beschäftigten in Deutschland tarifgebunden angestellt.“ „Wettbewerb darf eben nicht denjenigen Unternehmen das Leben schwer machen, die anständig zahlen und gute Arbeitsbedingungen gewährleisten.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und überall dort, wo Bundesmittel fließen, wird es künftig heißen: Nur wer Tariflöhne zahlt, kann diese Aufträge auch erhalten.",
+       "verb": "betonte",
+       "source": "llm",
+       "lead": "betonte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "2024 waren nur noch 49 Prozent der Beschäftigten in Deutschland tarifgebunden angestellt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wettbewerb darf eben nicht denjenigen Unternehmen das Leben schwer machen, die anständig zahlen und gute Arbeitsbedingungen gewährleisten.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Peter Bohnhof",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Die Regierung will bei öffentlichen Aufträgen nur noch Firmen berücksichtigen, die ein sogenanntes Tariftreueversprechen abgeben.“ „Dieses Gesetz ist eben keine Stärkung der Tarifautonomie.“ „Das Vergaberecht könnte durch das Gesetz unterlaufen werden, ebenso EU-Regeln zur Dienstleistungsfreiheit.“ Er sagte, die Regierung habe ihre Versprechen gebrochen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Regierung will bei öffentlichen Aufträgen nur noch Firmen berücksichtigen, die ein sogenanntes Tariftreueversprechen abgeben.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Dieses Gesetz ist eben keine Stärkung der Tarifautonomie.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Das Vergaberecht könnte durch das Gesetz unterlaufen werden, ebenso EU-Regeln zur Dienstleistungsfreiheit.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Er sagte, die Regierung habe ihre Versprechen gebrochen.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Sandra Carstensen",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "warnte: „Nach seinem Wortlaut gelten nämlich sogar Unternehmen, die bereits eine Tarifbindung haben, nicht automatisch als tariftreu im Sinne des Gesetzes.“ „Ich fürchte nur, der gegenwärtige Entwurf ist so noch nicht dazu geeignet, das eine oder das andere zu erreichen.“ Sie verwies auf das Struck'sche Gesetz, wonach kein Gesetz so aus dem Parlament komme, wie es eingebracht worden sei.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Nach seinem Wortlaut gelten nämlich sogar Unternehmen, die bereits eine Tarifbindung haben, nicht automatisch als tariftreu im Sinne des Gesetzes.",
+       "verb": "warnte",
+       "source": "llm",
+       "lead": "warnte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Ich fürchte nur, der gegenwärtige Entwurf ist so noch nicht dazu geeignet, das eine oder das andere zu erreichen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "warnte: „…“ „…“ Sie verwies auf das Struck'sche Gesetz, wonach kein Gesetz so aus dem Parlament komme, wie es eingebracht worden sei.",
+       "verb": "warnte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Armin Grau",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Entgegen der Kritik von konservativer Seite verstößt dieses Gesetz nicht gegen die negative Koalitionsfreiheit: Niemand ist gezwungen, sich auf einen öffentlichen Auftrag zu bewerben, und von einem Tarifzwang kann keine Rede sein.“ „Der Schwellenwert muss deutlich gesenkt werden.“ „Das zweite große Manko sind die Ausnahmen für die Bundeswehr und allgemein für verteidigungs- und sicherheitspolitisch spezifische öffentliche Aufträge.“ „Geben Sie ihm ein paar gesunde Zähne, und verbessern Sie dieses Gesetz!“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Entgegen der Kritik von konservativer Seite verstößt dieses Gesetz nicht gegen die negative Koalitionsfreiheit: Niemand ist gezwungen, sich auf einen öffentlichen Auftrag zu bewerben, und von einem Tarifzwang kann keine Rede sein.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Der Schwellenwert muss deutlich gesenkt werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Das zweite große Manko sind die Ausnahmen für die Bundeswehr und allgemein für verteidigungs- und sicherheitspolitisch spezifische öffentliche Aufträge.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Geben Sie ihm ein paar gesunde Zähne, und verbessern Sie dieses Gesetz!",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Nora Seitz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Aber: Ebenfalls vereinbart war, dass wir bei diesem Gesetz Bürokratie, Nachweispflichten und Kontrollen auf ein Minimum beschränken.“ „Leider ist dies im aktuellen Entwurf nur bedingt der Fall.“ „Aufwand und Nutzen stehen hier in keinem vernünftigen Verhältnis, gerade für die kleinen Betriebe, und es bedarf daher einer mittelstandsgerechten Anhebung beim Auftragsvolumen.“ Sie schilderte am Beispiel der Fassadensanierung eines Bundesgebäudes, dass ein Handwerker je nach Auftrag unterschiedliche Löhne erhalten könne.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber: Ebenfalls vereinbart war, dass wir bei diesem Gesetz Bürokratie, Nachweispflichten und Kontrollen auf ein Minimum beschränken.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Leider ist dies im aktuellen Entwurf nur bedingt der Fall.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Aufwand und Nutzen stehen hier in keinem vernünftigen Verhältnis, gerade für die kleinen Betriebe, und es bedarf daher einer mittelstandsgerechten Anhebung beim Auftragsvolumen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Sie schilderte am Beispiel der Fassadensanierung eines Bundesgebäudes, dass ein Handwerker je nach Auftrag unterschiedliche Löhne erhalten könne.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Leif-Erik Holm",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Punkt eins: Dieses Gesetz ist einfach nur Unfug.“ „Es schadet den kleinen und mittleren Unternehmen in unserem Land.“ „Es ist der nächste Klotz am Bein unserer ohnehin gebeutelten Unternehmen.“ „Niemand braucht dieses Tariftreuegesetz!“ Er sagte, die Regierung habe keine einheitliche Linie, und griff Kanzler Merz scharf an.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Punkt eins: Dieses Gesetz ist einfach nur Unfug.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es schadet den kleinen und mittleren Unternehmen in unserem Land.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Es ist der nächste Klotz am Bein unserer ohnehin gebeutelten Unternehmen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Niemand braucht dieses Tariftreuegesetz!",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ „…“ „…“ Er sagte, die Regierung habe keine einheitliche Linie, und griff Kanzler Merz scharf an.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Peter Aumer",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "betonte: „Aber wir wollen ein Gesetz mit Augenmaß.“ „Das Bundestariftreuegesetz soll Tarifautonomie fördern, nicht ersetzen.“ „Wir wollen Tarifbindung, wir wollen aber nicht mehr Bürokratie.“ Er sagte, die Tarifbindung sinke, weil sich die Wirtschaft verändere, und widersprach damit den Darstellungen von Lang und Grau.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber wir wollen ein Gesetz mit Augenmaß.",
+       "verb": "betonte",
+       "source": "llm",
+       "lead": "betonte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Das Bundestariftreuegesetz soll Tarifautonomie fördern, nicht ersetzen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir wollen Tarifbindung, wir wollen aber nicht mehr Bürokratie.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "betonte: „…“ „…“ „…“ Er sagte, die Tarifbindung sinke, weil sich die Wirtschaft verändere, und widersprach damit den Darstellungen von Lang und Grau.",
+       "verb": "betonte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Jan Dieren",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „In den Branchen, wo es Tarifverträge gibt, sollen Arbeitgeber/-innen bei öffentlichen Aufträgen die Löhne zahlen und die Arbeitsbedingungen garantieren, die in Tarifverträgen stehen; so einfach ist das.“ „Für diejenigen, die jetzt schon ordentliche Tarifverträge haben, bedeutet das kein bisschen mehr Aufwand.“ Er schilderte die harte Arbeit von Straßenbauern, Reinigungskräften und anderen Beschäftigten bei der Modernisierung der Infrastruktur.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "In den Branchen, wo es Tarifverträge gibt, sollen Arbeitgeber/-innen bei öffentlichen Aufträgen die Löhne zahlen und die Arbeitsbedingungen garantieren, die in Tarifverträgen stehen; so einfach ist das.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Für diejenigen, die jetzt schon ordentliche Tarifverträge haben, bedeutet das kein bisschen mehr Aufwand.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Er schilderte die harte Arbeit von Straßenbauern, Reinigungskräften und anderen Beschäftigten bei der Modernisierung der Infrastruktur.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Elisabeth Winkelmeier-Becker",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Wir haben im Koa-Vertrag vereinbart, das Tariftreuegesetz maximal bürokratiearm, einfach, schlicht und zugleich wirksam zu gestalten.“ „Wir sollten alle Tarifverträge gleichermaßen berücksichtigen.“ „Wenn ein Unternehmen schon nach Tarif bezahlt, dann ist doch das Ziel erreicht und dann muss das auch reichen.“ Sie verwies auf § 72 SGB XI als gutes Beispiel für eine solche Regelung.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben im Koa-Vertrag vereinbart, das Tariftreuegesetz maximal bürokratiearm, einfach, schlicht und zugleich wirksam zu gestalten.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir sollten alle Tarifverträge gleichermaßen berücksichtigen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wenn ein Unternehmen schon nach Tarif bezahlt, dann ist doch das Ziel erreicht und dann muss das auch reichen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "forderte: „…“ „…“ „…“ Sie verwies auf § 72 SGB XI als gutes Beispiel für eine solche Regelung.",
+       "verb": "forderte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss die Überweisung an:",
+     "decision": "",
+     "outcome": "Überweisung"
+    }
+   ],
+   "referrals": [
+    "Ausschuss für Arbeit und Soziales (federführend)",
+    "Ausschuss für Wirtschaft und Energie",
+    "Verkehrsausschuss",
+    "Haushaltsausschuss (auch gemäß § 96 der Geschäftsordnung)"
+   ],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 32 – Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Tarifautonomie durch die Sicherung von Tariftreue bei der Vergabe öffentlicher Aufträge des Bundes (Tariftreuegesetz) (Drucksache 21/1941)"
+  },
+  {
+   "id": "TOP 33",
+   "title": "Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss) zu dem Antrag der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD: Spürbare Entlastung der heimischen Landwirtschaft – Agrardieselrückerstattung sofort rückwirkend einführen (Drucksachen 21/604, 21/…)",
+   "notes": [],
+   "speeches": [],
+   "votes": [
+    {
+     "result_sentence": "Der Punkt wurde abgesetzt.",
+     "decision": "",
+     "outcome": "abgesetzt"
+    }
+   ],
+   "referrals": [],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 33 – Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss) zu dem Antrag der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD: Spürbare Entlastung der heimischen Landwirtschaft – Agrardieselrückerstattung sofort rückwirkend einführen (Drucksachen 21/604, 21/…)"
+  },
+  {
+   "id": "TOP 34",
+   "title": "Antrag der Fraktionen der CDU/CSU und SPD: 35 Jahre Deutsche Einheit – Freiheit in Deutschland und Europa festigen (Drucksache 21/2026)",
+   "notes": [
+    "(Hinweis: Dieser Tagesordnungspunkt wurde nach ZP 11 behandelt.)",
+    "Der Bundestag beriet den Antrag. Für die Aussprache waren 30 Minuten vereinbart."
+   ],
+   "speeches": [
+    {
+     "speaker": "Dr. Wolfram Weimer",
+     "group": "Staatsminister beim Bundeskanzler",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "würdigte die Friedliche Revolution: „Es war ein Moment – sagen wir es einmal direkt –, da das Gute über das Böse siegte, die anständigen Menschen über eine schäbige, mauernde und brutale Diktatur namens DDR.“ „Es ist das Land der Aufklärung, der Einigkeit, des Rechts – und das Land der Freiheit.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es war ein Moment – sagen wir es einmal direkt –, da das Gute über das Böse siegte, die anständigen Menschen über eine schäbige, mauernde und brutale Diktatur namens DDR.",
+       "verb": null,
+       "source": "llm",
+       "lead": "würdigte die Friedliche Revolution:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es ist das Land der Aufklärung, der Einigkeit, des Rechts – und das Land der Freiheit.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Götz Frömming",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Denn Ihre Rede war würdevoll, und auch der Antrag ist hübsch geschrieben, eine rechte Sonntagsrede.“ Er sagte, die Brandmauer gleiche der Mauer der DDR, und heute herrschten Zustände wie damals.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Denn Ihre Rede war würdevoll, und auch der Antrag ist hübsch geschrieben, eine rechte Sonntagsrede.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ Er sagte, die Brandmauer gleiche der Mauer der DDR, und heute herrschten Zustände wie damals.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Elisabeth Kaiser",
+     "group": "Staatsministerin beim Bundesminister der Finanzen",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "sagte, sie halte den Vergleich des Rechtsstaats mit der DDR-Diktatur für infam.",
+     "parts": [
+      {
+       "type": "reported",
+       "text": "sagte, sie halte den Vergleich des Rechtsstaats mit der DDR-Diktatur für infam.",
+       "verb": "sagte",
+       "source": "llm"
+      },
+      {
+       "type": "quote",
+       "text": "Die Einheit ist nicht nur ein historisches Ereignis, sondern viel mehr: Sie hat privates Glück beschert.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "Sie erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb bleibt natürlich Ziel dieser Bundesregierung, die strukturellen Unterschiede zwischen Ost und West zu überwinden und für gleichwertige Lebensverhältnisse zu sorgen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Unser Land hat ja vor 35 Jahren bewiesen, dass es Wandel kann.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Katrin Göring-Eckardt",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "mahnte: „Dass wir heute, 35 Jahre später, die deutsche Einheit feiern können, ist also ein gesamtdeutsches Ereignis.“ Zur gestrichenen Ansiedlung der Deutschen Agentur für Transfer und Innovation in Erfurt sagte sie: „Das ist eine wirklich richtig falsche Entscheidung.“ „Das ist Vertrauensmissbrauch.“ Sie sagte, Frömming habe keine Ahnung davon, was Diktatur bedeute.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Dass wir heute, 35 Jahre später, die deutsche Einheit feiern können, ist also ein gesamtdeutsches Ereignis.",
+       "verb": "mahnte",
+       "source": "llm",
+       "lead": "mahnte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Das ist eine wirklich richtig falsche Entscheidung.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Das ist Vertrauensmissbrauch.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "mahnte: „…“ Zur gestrichenen Ansiedlung der Deutschen Agentur für Transfer und Innovation in Erfurt sagte sie: „…“ „…“ Sie sagte, Frömming habe keine Ahnung davon, was Diktatur bedeute.",
+       "verb": "mahnte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Mandy Eißing",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Er ist voller blinder Flecken.“ „Wir fordern Anerkennung von Lebensleistung, Respekt und Augenhöhe.“ „Die Löhne müssen rauf – 15 Euro Mindestlohn und flächendeckende Tarifverträge –, damit endlich gleicher Lohn für gleiche Arbeit gezahlt wird in Ost und West.“ Sie sagte, der Kanzler habe am Tag der Deutschen Einheit lieber über Migration als über reale Ungleichheit gesprochen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Er ist voller blinder Flecken.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir fordern Anerkennung von Lebensleistung, Respekt und Augenhöhe.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Löhne müssen rauf – 15 Euro Mindestlohn und flächendeckende Tarifverträge –, damit endlich gleicher Lohn für gleiche Arbeit gezahlt wird in Ost und West.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Sie sagte, der Kanzler habe am Tag der Deutschen Einheit lieber über Migration als über reale Ungleichheit gesprochen.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ottilie Klein",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "betonte: „Wir feierten den Erfolg der Friedlichen Revolution, die große Leistung vieler mutiger Menschen in Ostdeutschland, die das menschenverachtende SED-Regime in die Knie zwangen.“ „Und wir wollen, dass der DDR-Unrechtsstaat auch im Schulunterricht und in der politischen Bildung intensiver behandelt wird.“ „Wir sind ein Volk.“ Sie sagte, Sozialismus habe nichts mit Gerechtigkeit zu tun, entgegen dem, was die Linkspartei auf Tiktok glauben machen wolle.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir feierten den Erfolg der Friedlichen Revolution, die große Leistung vieler mutiger Menschen in Ostdeutschland, die das menschenverachtende SED-Regime in die Knie zwangen.",
+       "verb": "betonte",
+       "source": "llm",
+       "lead": "betonte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Und wir wollen, dass der DDR-Unrechtsstaat auch im Schulunterricht und in der politischen Bildung intensiver behandelt wird.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir sind ein Volk.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "betonte: „…“ „…“ „…“ Sie sagte, Sozialismus habe nichts mit Gerechtigkeit zu tun, entgegen dem, was die Linkspartei auf Tiktok glauben machen wolle.",
+       "verb": "betonte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Sven Wendorf",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Ja, Mahnmale sind wichtig.“ „Jedes Mahnmal bleibt leere Symbolik, wenn nicht auch ein Umdenken in den Köpfen stattfindet, wenn wir nicht die Mauern einreißen, die uns trennen, damit wir wieder wirklich vereint sind, vereint im Streben nach Freiheit statt Sozialismus.“ Er sagte, Einheit sei ein Zustand, Einigkeit aber eine Entscheidung, und wer heute von Brandmauern spreche, habe aus der Geschichte nichts gelernt.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ja, Mahnmale sind wichtig.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Jedes Mahnmal bleibt leere Symbolik, wenn nicht auch ein Umdenken in den Köpfen stattfindet, wenn wir nicht die Mauern einreißen, die uns trennen, damit wir wieder wirklich vereint sind, vereint im Streben nach Freiheit statt Sozialismus.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Er sagte, Einheit sei ein Zustand, Einigkeit aber eine Entscheidung, und wer heute von Brandmauern spreche, habe aus der Geschichte nichts gelernt.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Franziska Kersten",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "nannte drei Gründe, weshalb weiter über die Einheit gesprochen werden müsse.",
+     "parts": [
+      {
+       "type": "reported",
+       "text": "nannte drei Gründe, weshalb weiter über die Einheit gesprochen werden müsse.",
+       "verb": "nannte",
+       "source": "llm"
+      },
+      {
+       "type": "quote",
+       "text": "Erstens müssen wir immer wieder den mutigen Kampf der Bürgerinnen und Bürger der DDR für Einheit und Demokratie würdigen.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "Sie erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben einen tiefen Strukturwandel erfolgreich bewältigt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Seit Jahren wächst die ostdeutsche Wirtschaft stärker als die westdeutsche.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Sepp Müller",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Der Sozialismus ist beendet, und das ist gut so für unser Land.“ Er rief den Beschäftigten von Volkswagen zu: „Kämpft für einheitliche Tarifverträge in Ost wie in West, damit wir die Einheit auch bei der Bezahlung hinbekommen.“ Er sagte, wer den Rechtsstaat mit der SED-Diktatur vergleiche, habe aus der Geschichte nichts gelernt.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der Sozialismus ist beendet, und das ist gut so für unser Land.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Kämpft für einheitliche Tarifverträge in Ost wie in West, damit wir die Einheit auch bei der Bezahlung hinbekommen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ Er rief den Beschäftigten von Volkswagen zu: „…“ Er sagte, wer den Rechtsstaat mit der SED-Diktatur vergleiche, habe aus der Geschichte nichts gelernt.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss mit Mehrheit (CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN) bei Gegenstimmen (Die Linke) und Enthaltung (AfD):",
+     "decision": "Annahme des Antrags auf Drucksache 21/2026",
+     "outcome": "Annahme"
+    }
+   ],
+   "referrals": [],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 34 – Antrag der Fraktionen der CDU/CSU und SPD: 35 Jahre Deutsche Einheit – Freiheit in Deutschland und Europa festigen (Drucksache 21/2026)"
+  },
+  {
+   "id": "TOP 35",
+   "title": "Antrag der Abgeordneten Mandy Eißing, Nicole Gohlke, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke: Mindestbetrag des Elterngelds erhöhen – Familien und ihre Kinder stärken (Drucksache 21/2038)",
+   "notes": [
+    "Der Bundestag beriet den Antrag. Für die Aussprache waren 30 Minuten vorgesehen."
+   ],
+   "speeches": [
+    {
+     "speaker": "Mandy Eißing",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "stellte den Antrag vor: „Deshalb fordern wir: Der Mindestbetrag muss rauf auf 440 Euro beim Basiselterngeld und auf 220 Euro beim Elterngeld Plus.“ „Es braucht regelmäßig an die Inflation angepasste Mindest- und Höchstbeträge.“ „17 Prozent aller Eltern bekommen nur den Mindestbetrag, bei den Frauen sind es sogar 21 Prozent.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deshalb fordern wir: Der Mindestbetrag muss rauf auf 440 Euro beim Basiselterngeld und auf 220 Euro beim Elterngeld Plus.",
+       "verb": "stellte vor",
+       "source": "llm",
+       "lead": "stellte den Antrag vor:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es braucht regelmäßig an die Inflation angepasste Mindest- und Höchstbeträge.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "17 Prozent aller Eltern bekommen nur den Mindestbetrag, bei den Frauen sind es sogar 21 Prozent.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Wolfgang Dahler",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Antrag ab: „Für das Elterngeld stehen circa 7,5 Milliarden Euro bereit.“ „Eine isolierte Erhöhung des Mindestbetrags wäre teuer, einseitig und wenig treffsicher.“ „Wir brauchen eine umfassende Weiterentwicklung, keine schnelle Schlagzeile.“ „Die Bundesregierung braucht also keine Aufforderung, hier tätig zu werden; sie arbeitet längst.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Für das Elterngeld stehen circa 7,5 Milliarden Euro bereit.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Antrag ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Eine isolierte Erhöhung des Mindestbetrags wäre teuer, einseitig und wenig treffsicher.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen eine umfassende Weiterentwicklung, keine schnelle Schlagzeile.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Bundesregierung braucht also keine Aufforderung, hier tätig zu werden; sie arbeitet längst.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Birgit Bessin",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Antrag ab: „Dieser Antrag krankt im Kern vor allem daran, dass er keinerlei Maßnahmen gegen den Missbrauch des Elterngeldes aufgrund der Massenmigration in unsere Sozialsysteme enthält.“ „Schaffen wir endlich die GEZ-Zwangsgebühren ab, reduzieren wir doch einfach mal die Mehrwertsteuer für Baby- und Kinderbedarfsartikel auf 7 Prozent, und entlasten wir unsere Familien steuerlich doch endlich mal wirklich!“ Sie sagte, die CDU habe mit ihrer Familienpolitik versagt.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Dieser Antrag krankt im Kern vor allem daran, dass er keinerlei Maßnahmen gegen den Missbrauch des Elterngeldes aufgrund der Massenmigration in unsere Sozialsysteme enthält.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Antrag ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Schaffen wir endlich die GEZ-Zwangsgebühren ab, reduzieren wir doch einfach mal die Mehrwertsteuer für Baby- und Kinderbedarfsartikel auf 7 Prozent, und entlasten wir unsere Familien steuerlich doch endlich mal wirklich!",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte den Antrag ab: „…“ „…“ Sie sagte, die CDU habe mit ihrer Familienpolitik versagt.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Felix Döring",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Dass der Mindestbetrag beim Elterngeld erhöht werden muss, da stimmen wir völlig zu; auch das steht in unserem Koalitionsvertrag.“ „Aber das Elterngeld ist eben kein allein sozialpolitisches Instrument, sondern auch ein gleichstellungspolitisches.“ „Weniger als 50 Prozent der Väter beziehen überhaupt Elterngeld.“ Er schilderte die ungleiche Verteilung des Mental Load in Familien.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Dass der Mindestbetrag beim Elterngeld erhöht werden muss, da stimmen wir völlig zu; auch das steht in unserem Koalitionsvertrag.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Aber das Elterngeld ist eben kein allein sozialpolitisches Instrument, sondern auch ein gleichstellungspolitisches.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Weniger als 50 Prozent der Väter beziehen überhaupt Elterngeld.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ „…“ Er schilderte die ungleiche Verteilung des Mental Load in Familien.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Misbah Khan",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Im Koalitionsvertrag haben Sie angekündigt, den Mindest- und Höchstbetrag zu erhöhen.“ „Denn seit 2007 ist dieser Betrag nicht angepasst worden, und die Lebenshaltungskosten sind in den letzten 20 Jahren – man mag erstaunt sein – tatsächlich sehr, sehr deutlich gestiegen.“ „Auch davon ist im Haushaltsentwurf 2026 noch nichts zu erkennen.“ „Mindestens ein Drittel der Elternzeit soll von jedem Elternteil genutzt werden.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Im Koalitionsvertrag haben Sie angekündigt, den Mindest- und Höchstbetrag zu erhöhen.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Denn seit 2007 ist dieser Betrag nicht angepasst worden, und die Lebenshaltungskosten sind in den letzten 20 Jahren – man mag erstaunt sein – tatsächlich sehr, sehr deutlich gestiegen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Auch davon ist im Haushaltsentwurf 2026 noch nichts zu erkennen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Mindestens ein Drittel der Elternzeit soll von jedem Elternteil genutzt werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Konrad Körner",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Antrag ab: „Es geht um eine Lohnersatzleistung und nicht um Sozialleistungen.“ „Deshalb ist Ihr Vorschlag, den Mindest- und Höchstbetrag automatisch an den Index zu koppeln, zurzeit so nicht finanzierbar.“ „Deswegen kann Ihrem Antrag leider nicht zugestimmt werden.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es geht um eine Lohnersatzleistung und nicht um Sozialleistungen.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Antrag ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb ist Ihr Vorschlag, den Mindest- und Höchstbetrag automatisch an den Index zu koppeln, zurzeit so nicht finanzierbar.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Deswegen kann Ihrem Antrag leider nicht zugestimmt werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Anna Rathert",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Auch wir in der Alternative für Deutschland sehen das, und deshalb fordern wir sogar: Elterngeld für drei Jahre und nicht nur für ein Jahr, und zwar in Höhe von 100 Prozent des Nettoeinkommens, nicht nur 65 Prozent.“ „Aber ich sage auch: Das Konzept des Elterngelds insgesamt kann nur eine Übergangslösung sein.“ Sie sprach sich für eine Wirtschafts-, Energie-, Steuer- und Kulturpolitik aus, die das Leben mit vielen Kindern erleichtere.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Auch wir in der Alternative für Deutschland sehen das, und deshalb fordern wir sogar: Elterngeld für drei Jahre und nicht nur für ein Jahr, und zwar in Höhe von 100 Prozent des Nettoeinkommens, nicht nur 65 Prozent.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Aber ich sage auch: Das Konzept des Elterngelds insgesamt kann nur eine Übergangslösung sein.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Sie sprach sich für eine Wirtschafts-, Energie-, Steuer- und Kulturpolitik aus, die das Leben mit vielen Kindern erleichtere.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss die Überweisung an:",
+     "decision": "",
+     "outcome": "Überweisung"
+    }
+   ],
+   "referrals": [
+    "Ausschuss für Bildung"
+   ],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 35 – Antrag der Abgeordneten Mandy Eißing, Nicole Gohlke, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke: Mindestbetrag des Elterngelds erhöhen – Familien und ihre Kinder stärken (Drucksache 21/2038)"
+  },
+  {
+   "id": "TOP 37",
+   "title": "Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss) zu dem Antrag der Abgeordneten Matthias Gastel, Dr. Paula Piechotta, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Investitionen in die Erweiterung des Schienennetzes sicherstellen – Deutschlandtakt auf den Weg bringen (Drucksachen 21/1544, 21/2108)",
+   "notes": [
+    "(Hinweis: Dieser Tagesordnungspunkt wurde nach TOP 18 behandelt.)",
+    "Der Bundestag beriet diesen Punkt gemeinsam mit ZP 8 und ZP 9. Für die Aussprache waren 30 Minuten vereinbart."
+   ],
+   "speeches": [
+    {
+     "speaker": "Matthias Gastel",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Im letzten Jahr gab es erstmals seit vielen, vielen Jahren keine weitere Verschlechterung der Schieneninfrastruktur.“ „Für Aus- und Neubau stellen Sie überhaupt kein Geld zur Verfügung, was notwendig wäre.“ „Die Trassenpreise steigen von diesem auf das nächste Jahr – auch wegen Ihrer Politik – um 17 Prozent.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Im letzten Jahr gab es erstmals seit vielen, vielen Jahren keine weitere Verschlechterung der Schieneninfrastruktur.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Für Aus- und Neubau stellen Sie überhaupt kein Geld zur Verfügung, was notwendig wäre.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Trassenpreise steigen von diesem auf das nächste Jahr – auch wegen Ihrer Politik – um 17 Prozent.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Michael Donth",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Die Probleme der Deutschen Bahn sind auch hausgemacht.“ „Deshalb brauchen wir Ihre Anträge nicht und lehnen Sie fröhlich ab.“ Er sagte, die Grünen machten das Ergebnis des Koalitionsausschusses madig, obwohl ihr Parteifreund Winfried Hermann den Neubau des Albaufstiegs der A8 gefordert habe.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Probleme der Deutschen Bahn sind auch hausgemacht.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb brauchen wir Ihre Anträge nicht und lehnen Sie fröhlich ab.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Er sagte, die Grünen machten das Ergebnis des Koalitionsausschusses madig, obwohl ihr Parteifreund Winfried Hermann den Neubau des Albaufstiegs der A8 gefordert habe.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Matthias Gastel",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "opening": "fragte in einer Zwischenfrage: „Und nehmen Sie auch zur Kenntnis, dass es kein anderes Bundesland gibt, das so stark auf die Schiene setzt wie Baden-Württemberg, bei der Reaktivierung, bei der Elektrifizierung, beim Ausbau?“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und nehmen Sie auch zur Kenntnis, dass es kein anderes Bundesland gibt, das so stark auf die Schiene setzt wie Baden-Württemberg, bei der Reaktivierung, bei der Elektrifizierung, beim Ausbau?",
+       "verb": "fragte",
+       "source": "llm",
+       "lead": "fragte in einer Zwischenfrage:",
+       "inline": false
+      }
+     ]
+    },
+    {
+     "speaker": "Michael Donth",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Erwiderung",
+     "opening": "antwortete: „Wir stehen zu dem Satz, wie wir ihn im Koalitionsvertrag vereinbart haben.“ „Auch die Zahlen zeigen, dass wir Sanierung vor Neubau machen.“ Er sagte, der Bund werde für den A8-Neubau rund eine Milliarde Euro bereitstellen und erfülle damit einen Wunsch von Hermann.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir stehen zu dem Satz, wie wir ihn im Koalitionsvertrag vereinbart haben.",
+       "verb": "antwortete",
+       "source": "llm",
+       "lead": "antwortete:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Auch die Zahlen zeigen, dass wir Sanierung vor Neubau machen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "antwortete: „…“ „…“ Er sagte, der Bund werde für den A8-Neubau rund eine Milliarde Euro bereitstellen und erfülle damit einen Wunsch von Hermann.",
+       "verb": "antwortete",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Ulrich von Zons",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte die Anträge ab: „Ihr Antrag ist haushaltspolitisch unseriös und realitätsfern.“ „Die Bahn braucht keine Gremien, keine Fonds, keine Symbolpolitik.“ „Sie braucht Verantwortung statt Verwaltungswahn, Ingenieure statt Ideologen, Pragmatismus statt Planwirtschaft.“ Er sagte, die Grünen verhinderten den Schienenausbau durch Umweltauflagen und Einspruchsrechte.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ihr Antrag ist haushaltspolitisch unseriös und realitätsfern.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte die Anträge ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Die Bahn braucht keine Gremien, keine Fonds, keine Symbolpolitik.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Sie braucht Verantwortung statt Verwaltungswahn, Ingenieure statt Ideologen, Pragmatismus statt Planwirtschaft.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte die Anträge ab: „…“ „…“ „…“ Er sagte, die Grünen verhinderten den Schienenausbau durch Umweltauflagen und Einspruchsrechte.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Anja Troff-Schaffarzyk",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Unsere Priorität liegt auf der Wiederherstellung der Leistungsfähigkeit des Bestandsnetzes.“ „Es ist ganz einfach: Stabilität muss vor Geschwindigkeit kommen.“ „Die aktuelle Bundesregierung tätigt Rekordinvestitionen in die Schiene: mehr als 21 Milliarden Euro für die Bahn in 2026.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Unsere Priorität liegt auf der Wiederherstellung der Leistungsfähigkeit des Bestandsnetzes.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es ist ganz einfach: Stabilität muss vor Geschwindigkeit kommen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die aktuelle Bundesregierung tätigt Rekordinvestitionen in die Schiene: mehr als 21 Milliarden Euro für die Bahn in 2026.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Luigi Pantisano",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Daher muss endlich, erstens, die Deutsche Bahn stabil und über Jahre hinweg ausreichend finanziert werden, zweitens ein Fonds zur Sanierung der vielen maroden Schienen eingerichtet werden, müssen drittens die Trassenpreise reformiert oder, besser noch, ganz abgeschafft werden.“ „Echte Barrierefreiheit auf allen Bahnhöfen und in allen Zügen muss endlich geschaffen werden.“ „Die Deutsche Bahn ist Teil der Daseinsvorsorge und kein profitorientiertes Unternehmen.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Daher muss endlich, erstens, die Deutsche Bahn stabil und über Jahre hinweg ausreichend finanziert werden, zweitens ein Fonds zur Sanierung der vielen maroden Schienen eingerichtet werden, müssen drittens die Trassenpreise reformiert oder, besser noch, ganz abgeschafft werden.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Echte Barrierefreiheit auf allen Bahnhöfen und in allen Zügen muss endlich geschaffen werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Deutsche Bahn ist Teil der Daseinsvorsorge und kein profitorientiertes Unternehmen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Henning Rehbaum",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Insgesamt nehmen wir im Haushalt 2026 rund 25 Milliarden Euro in die Hand; das sind 50 Prozent mehr als 2024, als die Ampel noch regiert hat.“ „Damit das Geld der Steuerzahler auch wirklich effizient und zielgerichtet verbaut werden kann, muss der DB-Konzern radikal umgebaut werden.“ Er schilderte am Beispiel der Westfälischen Landeseisenbahn, wie Umweltprüfungen die Reaktivierung einer Strecke verzögerten.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Insgesamt nehmen wir im Haushalt 2026 rund 25 Milliarden Euro in die Hand; das sind 50 Prozent mehr als 2024, als die Ampel noch regiert hat.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Damit das Geld der Steuerzahler auch wirklich effizient und zielgerichtet verbaut werden kann, muss der DB-Konzern radikal umgebaut werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Er schilderte am Beispiel der Westfälischen Landeseisenbahn, wie Umweltprüfungen die Reaktivierung einer Strecke verzögerten.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Maximilian Kneller",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte die Anträge ab: „Wir fordern eine Bahnreform, damit die Bahn effizienter wird und durch den Bund gut gesteuert werden kann.“ „Wir fordern eine sichere Bahn, Sanierung der Gleise, moderne Technik.“ „Die Anträge der Grünen sind ein Schlag ins Gesicht jedes Pendlers, jeder Familie, die auf eine funktionierende Bahn hofft.“ Er sagte, am Bielefelder Hauptbahnhof fehle es an Sicherheit, und die Grünen blockierten Straßenprojekte.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir fordern eine Bahnreform, damit die Bahn effizienter wird und durch den Bund gut gesteuert werden kann.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte die Anträge ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir fordern eine sichere Bahn, Sanierung der Gleise, moderne Technik.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Anträge der Grünen sind ein Schlag ins Gesicht jedes Pendlers, jeder Familie, die auf eine funktionierende Bahn hofft.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte die Anträge ab: „…“ „…“ „…“ Er sagte, am Bielefelder Hauptbahnhof fehle es an Sicherheit, und die Grünen blockierten Straßenprojekte.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Jakob Blankenburg",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Diese Strecke Hamburg–Hannover ist das Nadelöhr des Nordens: 147 Prozent Auslastung, jede Störung im Verkehr legt den Verkehr lahm.“ „Erstens – und genau daran arbeitet diese Bundesregierung – die Bahn im Alltag stabilisieren, mit pünktlichen, mit sauberen Zügen, mit barrierefreien Bahnhöfen und verlässlichen Anschlüssen.“ „Die Anträge der Grünen greifen viele wichtige Punkte auf, und sie setzen wichtige Impulse.“ Er sagte, die AfD arbeite sich jede Sitzungswoche an einer demokratischen Fraktion ab.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Diese Strecke Hamburg–Hannover ist das Nadelöhr des Nordens: 147 Prozent Auslastung, jede Störung im Verkehr legt den Verkehr lahm.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Erstens – und genau daran arbeitet diese Bundesregierung – die Bahn im Alltag stabilisieren, mit pünktlichen, mit sauberen Zügen, mit barrierefreien Bahnhöfen und verlässlichen Anschlüssen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Anträge der Grünen greifen viele wichtige Punkte auf, und sie setzen wichtige Impulse.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ „…“ Er sagte, die AfD arbeite sich jede Sitzungswoche an einer demokratischen Fraktion ab.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Günter Baumgartner",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Wir werden Bahnstrecken sanieren und ausbauen.“ „Sinnvolles, was in den Anträgen der Grünen steht, ist von uns bereits aufs Gleis gesetzt bzw. wird nach und nach umgesetzt.“ „Daher sind diese heute zu beschließenden Anträge in ihrer Art für uns überflüssig und werden von unserer Seite auch abgelehnt.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir werden Bahnstrecken sanieren und ausbauen.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Sinnvolles, was in den Anträgen der Grünen steht, ist von uns bereits aufs Gleis gesetzt bzw. wird nach und nach umgesetzt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Daher sind diese heute zu beschließenden Anträge in ihrer Art für uns überflüssig und werden von unserer Seite auch abgelehnt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss mit Mehrheit (Union, AfD, SPD) bei Gegenstimmen (BÜNDNIS 90/DIE GRÜNEN, Die Linke):",
+     "decision": "Annahme des Buchstaben b der Beschlussempfehlung auf Drucksache 21/2108 Ablehnung des Antrags auf Drucksache 21/1544",
+     "outcome": "Ablehnung"
+    }
+   ],
+   "referrals": [],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 37 – Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss) zu dem Antrag der Abgeordneten Matthias Gastel, Dr. Paula Piechotta, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Investitionen in die Erweiterung des Schienennetzes sicherstellen – Deutschlandtakt auf den Weg bringen (Drucksachen 21/1544, 21/2108)"
+  },
+  {
+   "id": "TOP 38",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes für einen Zuschuss zu den Übertragungsnetzkosten für das Jahr 2026 (Drucksache 21/1863)",
+   "notes": [
+    "Der Bundestag beriet den Gesetzentwurf in erster Lesung. Für die Aussprache waren 30 Minuten vereinbart."
+   ],
+   "speeches": [
+    {
+     "speaker": "Katherina Reiche",
+     "group": "Bundesministerin für Wirtschaft und Energie",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "stellte den Entwurf vor: „Konkret soll in einem ersten Schritt ein Zuschuss in Höhe von 6,5 Milliarden Euro zu den Übertragungsnetzkosten im Jahr 2026 gezahlt werden, finanziert aus dem KTF.“ „Aus der Veröffentlichung der vorläufigen Übertragungsnetzentgelte am 1. Oktober lässt sich ablesen, dass die durchschnittlichen Netzentgelte der Übertragungsnetzbetreiber für das Jahr 2026 um 57 Prozent gegenüber 2025 absinken.“ „Das heißt, das Gesetzgebungsverfahren muss bis Ende November, spätestens Anfang Dezember abgeschlossen werden, damit die ÜNBs und die VNBs diese Preise auch in ihre Preisblätter integrieren können.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Konkret soll in einem ersten Schritt ein Zuschuss in Höhe von 6,5 Milliarden Euro zu den Übertragungsnetzkosten im Jahr 2026 gezahlt werden, finanziert aus dem KTF.",
+       "verb": "stellte vor",
+       "source": "llm",
+       "lead": "stellte den Entwurf vor:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Aus der Veröffentlichung der vorläufigen Übertragungsnetzentgelte am 1. Oktober lässt sich ablesen, dass die durchschnittlichen Netzentgelte der Übertragungsnetzbetreiber für das Jahr 2026 um 57 Prozent gegenüber 2025 absinken.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Das heißt, das Gesetzgebungsverfahren muss bis Ende November, spätestens Anfang Dezember abgeschlossen werden, damit die ÜNBs und die VNBs diese Preise auch in ihre Preisblätter integrieren können.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Steffen Kotré",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Also, die Übertragungsnetzbetreiber sollen jetzt 6,5 Milliarden Euro bekommen.“ „Das ist keine Zukunftsinvestition.“ „Aber für ein Vielleicht 6,5 Milliarden Euro: Das ist nicht souverän, und das ist auch nicht Stil einer guten Politik.“ „Sie schaffen das wirklich nur mit Kernenergie; alles andere ist Quatsch und funktioniert nicht.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Also, die Übertragungsnetzbetreiber sollen jetzt 6,5 Milliarden Euro bekommen.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Das ist keine Zukunftsinvestition.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Aber für ein Vielleicht 6,5 Milliarden Euro: Das ist nicht souverän, und das ist auch nicht Stil einer guten Politik.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Sie schaffen das wirklich nur mit Kernenergie; alles andere ist Quatsch und funktioniert nicht.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Daniel Walter",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "begrüßte den Entwurf: „Mit diesem Gesetzentwurf heute und hier bringen wir nun einen Zuschuss auf den Weg und entlasten die Verbraucherinnen und Verbraucher sowie die Wirtschaft und die Industrie um 6,5 Milliarden Euro.“ „Wir werden uns weiter dafür einsetzen, dass wir endlich einen Industriestrompreis bekommen.“ „Heute ist erst mal ein guter Tag; denn die Strompreise in Deutschland werden durch unsere Maßnahmen sinken.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Mit diesem Gesetzentwurf heute und hier bringen wir nun einen Zuschuss auf den Weg und entlasten die Verbraucherinnen und Verbraucher sowie die Wirtschaft und die Industrie um 6,5 Milliarden Euro.",
+       "verb": "begrüßte",
+       "source": "llm",
+       "lead": "begrüßte den Entwurf:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir werden uns weiter dafür einsetzen, dass wir endlich einen Industriestrompreis bekommen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Heute ist erst mal ein guter Tag; denn die Strompreise in Deutschland werden durch unsere Maßnahmen sinken.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Katrin Uhlig",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Die Zuschüsse zu den Übertragungsnetzentgelten sind eine denkbar ungerechte Lösung, weil nicht jeder sie auf seiner Stromrechnung wiederfinden wird.“ „Warum machen Sie dann nicht eine Stromsteuerentlastung für alle – jetzt, hier?“ „Wir sind der Meinung: Die Menschen in diesem Land sollen auf ihren Stromrechnungen wirklich sehen, dass sie entlastet werden.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Zuschüsse zu den Übertragungsnetzentgelten sind eine denkbar ungerechte Lösung, weil nicht jeder sie auf seiner Stromrechnung wiederfinden wird.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Warum machen Sie dann nicht eine Stromsteuerentlastung für alle – jetzt, hier?",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir sind der Meinung: Die Menschen in diesem Land sollen auf ihren Stromrechnungen wirklich sehen, dass sie entlastet werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Jörg Cezanne",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Mit einem einmaligen Zuschuss von 6,5 Milliarden Euro wird versucht, erst einmal Zeit zu gewinnen.“ „Eine echte Entlastung muss spürbar und langfristig sein.“ „Völlig irrwitzig ist es, dass die Regierung den Zuschuss aus dem Klima- und Transformationsfonds abzweigen will.“ „Frau Reiche, Sie sind auf dem falschen Weg.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Mit einem einmaligen Zuschuss von 6,5 Milliarden Euro wird versucht, erst einmal Zeit zu gewinnen.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Eine echte Entlastung muss spürbar und langfristig sein.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Völlig irrwitzig ist es, dass die Regierung den Zuschuss aus dem Klima- und Transformationsfonds abzweigen will.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Frau Reiche, Sie sind auf dem falschen Weg.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Tilman Kuban",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kündigte weitere Schritte an: „Für den Privathaushalt wird das eine Entlastung von bis zu 100 Euro bringen.“ „Wir werden im nächsten Schritt dafür sorgen, dass die Stromsteuer für alle gesenkt wird.“ „Wir werden dafür sorgen, dass ein Industriestrompreis eingeführt wird.“ Er sagte, die Opposition wolle ein Land der Depressiven schaffen, und warf den Grünen vor, im Wirtschaftsministerium Steuergeld versenkt zu haben.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Für den Privathaushalt wird das eine Entlastung von bis zu 100 Euro bringen.",
+       "verb": "kündigte an",
+       "source": "llm",
+       "lead": "kündigte weitere Schritte an:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir werden im nächsten Schritt dafür sorgen, dass die Stromsteuer für alle gesenkt wird.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir werden dafür sorgen, dass ein Industriestrompreis eingeführt wird.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kündigte weitere Schritte an: „…“ „…“ „…“ Er sagte, die Opposition wolle ein Land der Depressiven schaffen, und warf den Grünen vor, im Wirtschaftsministerium Steuergeld versenkt zu haben.",
+       "verb": "kündigte an",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Raimond Scheirich",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Entwurf ab: „Wer aber Strompreise aus dem Steuertopf subventioniert und teilweise sogar Schulden dafür aufnimmt, fasst dem Bürger in die eine Tasche, nur um so zu tun, als würde er ihm in die andere Tasche irgendetwas zurückgeben.“ „Das heißt ganz klar: weg mit der Subventionierung von Windrädern und PV-Anlagen, Schluss mit den unbezahlbaren Wasserstoffplänen und – ganz klar – Wiedereinstieg in die Kernenergie.“ Er sagte, die Windstromproduktion sei in den letzten Tagen fast auf null gefallen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wer aber Strompreise aus dem Steuertopf subventioniert und teilweise sogar Schulden dafür aufnimmt, fasst dem Bürger in die eine Tasche, nur um so zu tun, als würde er ihm in die andere Tasche irgendetwas zurückgeben.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Entwurf ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Das heißt ganz klar: weg mit der Subventionierung von Windrädern und PV-Anlagen, Schluss mit den unbezahlbaren Wasserstoffplänen und – ganz klar – Wiedereinstieg in die Kernenergie.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte den Entwurf ab: „…“ „…“ Er sagte, die Windstromproduktion sei in den letzten Tagen fast auf null gefallen.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss die Überweisung an:",
+     "decision": "",
+     "outcome": "Überweisung"
+    }
+   ],
+   "referrals": [
+    "Ausschuss für Wirtschaft und Energie (federführend)",
+    "Haushaltsausschuss (mitberatend und gemäß § 96 der Geschäftsordnung)"
+   ],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 38 – Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes für einen Zuschuss zu den Übertragungsnetzkosten für das Jahr 2026 (Drucksache 21/1863)"
+  },
+  {
+   "id": "TOP 18",
+   "title": "Erste Beratungen von Gesetzentwürfen der Bundesregierung zu Wirtschaftspartnerschafts- und Investitionsschutzabkommen (a bis f)",
+   "notes": [
+    "(Hinweis: Dieser Tagesordnungspunkt wurde nach TOP 35 behandelt.)",
+    "Der Bundestag beriet in erster Lesung: a) Entwurf eines Gesetzes zu dem Interims-Wirtschaftspartnerschaftsabkommen vom 26. November 2008 zwischen Côte d'Ivoire einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits (Drucksache 21/1885) b) Entwurf eines Gesetzes zu dem Interims-Wirtschaftspartnerschaftsabkommen vom 28. Juli 2016 zwischen Ghana einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits (Drucksache 21/1888) c) Entwurf eines Gesetzes zu dem Wirtschaftspartnerschaftsabkommen vom 10. Juni 2016 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und den SADC-WPA-Staaten andererseits (Drucksache 21/1887) d) Entwurf eines Gesetzes zu dem Übergangsabkommen für ein Wirtschaftspartnerschaftsabkommen vom 15. Januar 2009 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und der Vertragspartei Zentralafrika andererseits (Drucksache 21/1886) e) Entwurf eines Gesetzes zum Investitionsschutzabkommen vom 30. Juni 2019 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und der Sozialistischen Republik Vietnam andererseits (Drucksache 21/1897) f) Entwurf eines Gesetzes zum Investitionsschutzabkommen vom 19. Oktober 2018 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und der Republik Singapur andererseits (Drucksache 21/1898)",
+    "Die Punkte wurden gemeinsam mit ZP 6 beraten. Für die Aussprache waren 30 Minuten vereinbart."
+   ],
+   "speeches": [
+    {
+     "speaker": "Reem Alabali Radovan",
+     "group": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "stellte die Entwürfe vor: „Die Abkommen mit Ghana, Côte d’Ivoire, Kamerun und den Staaten der Südlichen Afrikanischen Entwicklungsgemeinschaft, SADC, sorgen dafür, dass diese Länder ihre Waren zollfrei und ohne Mengenbegrenzung in die EU exportieren können.“ „Im Gegenzug ermöglichen die EPAs europäischen Unternehmen einen geregelten Zugang zu diesen afrikanischen Märkten.“ Sie räumte ein, viele hätten sich stärkere Nachhaltigkeitsbestimmungen gewünscht, und bat um Zustimmung.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Abkommen mit Ghana, Côte d’Ivoire, Kamerun und den Staaten der Südlichen Afrikanischen Entwicklungsgemeinschaft, SADC, sorgen dafür, dass diese Länder ihre Waren zollfrei und ohne Mengenbegrenzung in die EU exportieren können.",
+       "verb": "stellte vor",
+       "source": "llm",
+       "lead": "stellte die Entwürfe vor:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Im Gegenzug ermöglichen die EPAs europäischen Unternehmen einen geregelten Zugang zu diesen afrikanischen Märkten.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "stellte die Entwürfe vor: „…“ „…“ Sie räumte ein, viele hätten sich stärkere Nachhaltigkeitsbestimmungen gewünscht, und bat um Zustimmung.",
+       "verb": "stellte vor",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Rocco Kever",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Zu beiden Vorlagen und zu den weiteren: Das sind keine Wirtschaftspartnerschaften, die wir hier machen; das sind blanke Kapitulationsurkunden.“ „Die EU öffnet ihren Markt sofort, Ghana schrittweise und weniger weitgehend.“ „Mit Ihrem Antrag drohen Überregulierung, steigende Bürokratie und paternalistische Vorgaben für Partnerländer, die für neue ökonomische und geopolitische Ungleichgewichte sorgen.“ Er sagte, die europäischen Geflügelimporte hätten die Geflügelzucht in Ghana zerstört.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Zu beiden Vorlagen und zu den weiteren: Das sind keine Wirtschaftspartnerschaften, die wir hier machen; das sind blanke Kapitulationsurkunden.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Die EU öffnet ihren Markt sofort, Ghana schrittweise und weniger weitgehend.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Mit Ihrem Antrag drohen Überregulierung, steigende Bürokratie und paternalistische Vorgaben für Partnerländer, die für neue ökonomische und geopolitische Ungleichgewichte sorgen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Er sagte, die europäischen Geflügelimporte hätten die Geflügelzucht in Ghana zerstört.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Nicolas Zippelius",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "begrüßte die Vorlagen: „Wir sprechen heute über ein Thema, das längst überfällig ist: die Ratifizierung der Wirtschaftspartnerschaftsabkommen mit afrikanischen Staaten sowie die Investitionsschutzabkommen mit Vietnam und Singapur.“ „Es geht um Rechts- und Planungssicherheit für deutsche Investoren vor Ort.“ „Wir haben einfach keine Zeit mehr.“ Er verwies auf die neuen chinesischen Exportkontrollen bei seltenen Erden.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir sprechen heute über ein Thema, das längst überfällig ist: die Ratifizierung der Wirtschaftspartnerschaftsabkommen mit afrikanischen Staaten sowie die Investitionsschutzabkommen mit Vietnam und Singapur.",
+       "verb": "begrüßte",
+       "source": "llm",
+       "lead": "begrüßte die Vorlagen:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es geht um Rechts- und Planungssicherheit für deutsche Investoren vor Ort.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben einfach keine Zeit mehr.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "begrüßte die Vorlagen: „…“ „…“ „…“ Er verwies auf die neuen chinesischen Exportkontrollen bei seltenen Erden.",
+       "verb": "begrüßte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Claudia Roth",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Diese Abkommen wurden vor über 15 Jahren verhandelt, in einer völlig anderen Zeit, in einer völlig anderen Welt.“ „Deswegen müssen die EPAs im Sinne unserer Partner und Partnerinnen, im Sinne Europas und im Sinne einer gerechten Globalisierung überarbeitet, modernisiert und zukunftsfähig gemacht werden.“ „Und die Ratifizierung muss an klare Bedingungen geknüpft werden, an verbindliche soziale, ökologische und menschenrechtliche Standards, nicht an unverbindliche Absichtserklärungen, an faire Arbeitsbedingungen, Klimaschutz und den Schutz von Mensch und Umwelt entlang der gesamten Lieferkette.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Diese Abkommen wurden vor über 15 Jahren verhandelt, in einer völlig anderen Zeit, in einer völlig anderen Welt.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deswegen müssen die EPAs im Sinne unserer Partner und Partnerinnen, im Sinne Europas und im Sinne einer gerechten Globalisierung überarbeitet, modernisiert und zukunftsfähig gemacht werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Und die Ratifizierung muss an klare Bedingungen geknüpft werden, an verbindliche soziale, ökologische und menschenrechtliche Standards, nicht an unverbindliche Absichtserklärungen, an faire Arbeitsbedingungen, Klimaschutz und den Schutz von Mensch und Umwelt entlang der gesamten Lieferkette.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Mirze Edis",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Konkret sollen 80 Prozent der lokalen Produktion schutzlos den EU-Importen ausgeliefert sein.“ „Deswegen sagen wir als Die Linke: Wir sollten die Fluchtursachen bekämpfen, nicht die Geflüchteten.“ „Die CEPAs gehören komplett eingestampft; denn diese Abkommen vertiefen die wirtschaftliche Spaltung Afrikas.“ Er sagte, die deutsche Wirtschaft wolle mit den Abkommen Länder in Afrika und Asien erpressen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Konkret sollen 80 Prozent der lokalen Produktion schutzlos den EU-Importen ausgeliefert sein.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deswegen sagen wir als Die Linke: Wir sollten die Fluchtursachen bekämpfen, nicht die Geflüchteten.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die CEPAs gehören komplett eingestampft; denn diese Abkommen vertiefen die wirtschaftliche Spaltung Afrikas.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ „…“ Er sagte, die deutsche Wirtschaft wolle mit den Abkommen Länder in Afrika und Asien erpressen.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Klaus Wiener",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Wir reden heute über Wirtschaftspartnerschaftsabkommen und Investitionsschutzabkommen.“ „Für unsere Unternehmen sind diese Abkommen Türöffner für wirklich dynamische Regionen der Welt.“ „Sie schützen unsere Investoren vor Diskriminierung und willkürlicher Enteignung.“ Er sagte, Edis offenbare ein merkwürdiges Verständnis von den Vorteilen des Handels.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir reden heute über Wirtschaftspartnerschaftsabkommen und Investitionsschutzabkommen.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Für unsere Unternehmen sind diese Abkommen Türöffner für wirklich dynamische Regionen der Welt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Sie schützen unsere Investoren vor Diskriminierung und willkürlicher Enteignung.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ „…“ Er sagte, Edis offenbare ein merkwürdiges Verständnis von den Vorteilen des Handels.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Johann Martel",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Die AfD steht den Investitionsabkommen mit Singapur und Vietnam mit großer Skepsis gegenüber.“ „Die Beachtung dieser UN-Agenda-Richtlinien führt faktisch zu einem weiteren Lieferkettengesetz.“ „Freihandel mit Ostasien ist in deutschem Interesse, aber nicht unter Einbezug der Agenda 2030.“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die AfD steht den Investitionsabkommen mit Singapur und Vietnam mit großer Skepsis gegenüber.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Die Beachtung dieser UN-Agenda-Richtlinien führt faktisch zu einem weiteren Lieferkettengesetz.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Freihandel mit Ostasien ist in deutschem Interesse, aber nicht unter Einbezug der Agenda 2030.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Thomas Bareiß",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "begründete die Vorlagen: „Wir beraten heute mehrere Gesetzentwürfe zu Wirtschaftspartnerschafts- und Investitionsschutzabkommen zwischen der Europäischen Union und insgesamt 21 Staaten, 19 Staaten aus Afrika und 2 Staaten aus Asien.“ „Wichtig ist, dass die Partnerländer eigenständig werden, dass sie Arbeitsplätze schaffen, dass sie auch Wachstum und Wohlstand generieren, dass sie wirklich profitieren.“ „Wir brauchen schnellere Entscheidungen.“ Er bat um Zustimmung.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir beraten heute mehrere Gesetzentwürfe zu Wirtschaftspartnerschafts- und Investitionsschutzabkommen zwischen der Europäischen Union und insgesamt 21 Staaten, 19 Staaten aus Afrika und 2 Staaten aus Asien.",
+       "verb": "begründete",
+       "source": "llm",
+       "lead": "begründete die Vorlagen:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wichtig ist, dass die Partnerländer eigenständig werden, dass sie Arbeitsplätze schaffen, dass sie auch Wachstum und Wohlstand generieren, dass sie wirklich profitieren.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen schnellere Entscheidungen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "formula",
+       "text": "Er bat um Zustimmung",
+       "verb": null,
+       "source": "llm"
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss die Überweisung der Gesetzentwürfe an: a) Drucksache 21/1885:",
+     "decision": "",
+     "outcome": "Überweisung"
+    }
+   ],
+   "referrals": [
+    "a) Drucksache 21/1885: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung (federführend), Ausschuss für Wirtschaft und Energie",
+    "b) Drucksache 21/1888: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung (federführend), Ausschuss für Wirtschaft und Energie",
+    "c) Drucksache 21/1887: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung (federführend), Ausschuss für Wirtschaft und Energie, Ausschuss für Landwirtschaft, Ernährung und Heimat",
+    "d) Drucksache 21/1886: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung (federführend), Ausschuss für Wirtschaft und Energie, Ausschuss für Landwirtschaft, Ernährung und Heimat",
+    "e) Drucksache 21/1897: Ausschuss für Wirtschaft und Energie (federführend), Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "f) Drucksache 21/1898: Ausschuss für Wirtschaft und Energie"
+   ],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "TOP 18 – Erste Beratungen von Gesetzentwürfen der Bundesregierung zu Wirtschaftspartnerschafts- und Investitionsschutzabkommen (a bis f)"
+  },
+  {
+   "id": "ZP 6",
+   "title": "Antrag der Abgeordneten Claudia Roth, Dr. Sandra Detzer, Agnieszka Brugger, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wirtschaftspartnerschaftsabkommen mit Afrika – Chancen für fairen Handel und gerechtere Globalisierung nutzen (Drucksache 21/2035)",
+   "notes": [
+    "Gemeinsam beraten mit TOP 18. Die Aussprache ist unter TOP 18 wiedergegeben."
+   ],
+   "speeches": [],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss die Überweisung an:",
+     "decision": "",
+     "outcome": "Überweisung"
+    }
+   ],
+   "referrals": [
+    "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung (federführend)",
+    "Auswärtiger Ausschuss",
+    "Ausschuss für Wirtschaft und Energie",
+    "Ausschuss für Landwirtschaft, Ernährung und Heimat",
+    "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "Ausschuss für Menschenrechte und humanitäre Hilfe",
+    "Ausschuss für die Angelegenheiten der Europäischen Union"
+   ],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "ZP 6 – Antrag der Abgeordneten Claudia Roth, Dr. Sandra Detzer, Agnieszka Brugger, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wirtschaftspartnerschaftsabkommen mit Afrika – Chancen für fairen Handel und gerechtere Globalisierung nutzen (Drucksache 21/2035)"
+  },
+  {
+   "id": "ZP 8",
+   "title": "Antrag der Abgeordneten Matthias Gastel, Dr. Paula Piechotta, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Für zufriedene Kunden auf der Schiene erforderliche eisenbahnpolitische Maßnahmen zügig umsetzen (Drucksache 21/2039)",
+   "notes": [
+    "Gemeinsam beraten mit TOP 37. Die Aussprache ist unter TOP 37 wiedergegeben."
+   ],
+   "speeches": [],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag lehnte mit Mehrheit (CDU/CSU, AfD, SPD) bei Fürstimmen (BÜNDNIS 90/DIE GRÜNEN, Die Linke) ab:",
+     "decision": "Ablehnung des Antrags auf Drucksache 21/2039",
+     "outcome": "Ablehnung"
+    }
+   ],
+   "referrals": [],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "ZP 8 – Antrag der Abgeordneten Matthias Gastel, Dr. Paula Piechotta, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Für zufriedene Kunden auf der Schiene erforderliche eisenbahnpolitische Maßnahmen zügig umsetzen (Drucksache 21/2039)"
+  },
+  {
+   "id": "ZP 9",
+   "title": "Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss) zu dem Antrag der Abgeordneten Matthias Gastel, Swantje Henrike Michaelsen, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Die Bahn zum Rückgrat klima- und familienfreundlicher Mobilität machen (Drucksachen 21/581, 21/2108)",
+   "notes": [
+    "Gemeinsam beraten mit TOP 37. Die Aussprache ist unter TOP 37 wiedergegeben."
+   ],
+   "speeches": [],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss mit Mehrheit (Union, AfD, SPD) bei Gegenstimmen (BÜNDNIS 90/DIE GRÜNEN) und Enthaltung (Die Linke):",
+     "decision": "Annahme des Buchstaben a der Beschlussempfehlung auf Drucksache 21/2108 Ablehnung des Antrags auf Drucksache 21/581",
+     "outcome": "Ablehnung"
+    }
+   ],
+   "referrals": [],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "ZP 9 – Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss) zu dem Antrag der Abgeordneten Matthias Gastel, Swantje Henrike Michaelsen, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Die Bahn zum Rückgrat klima- und familienfreundlicher Mobilität machen (Drucksachen 21/581, 21/2108)"
+  },
+  {
+   "id": "ZP 10",
+   "title": "Aktuelle Stunde auf Verlangen der Fraktion Die Linke gemäß Anlage 5 Nummer 1 Buchstabe c GO-BT: Soziale und ökologische Industriepolitik – Arbeitsplätze schützen, Zukunft gerecht gestalten",
+   "notes": [
+    "(Hinweis: Dieser Tagesordnungspunkt wurde nach TOP 38 behandelt.)",
+    "Der Bundestag hielt die Aktuelle Stunde ab. Es fand eine Aussprache statt."
+   ],
+   "speeches": [
+    {
+     "speaker": "Agnes Conrad",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Wir fordern – und das übrigens in Übereinstimmung mit den Gewerkschaften – einen Transformationsfonds für die Beschäftigten der Automobilindustrie in Höhe von 20 Milliarden Euro jedes Jahr.“ „Und zwar nicht als Geschenk an die Konzerne, sondern geknüpft an harte Bedingungen: Jeder Euro nur für gesicherte Standorte, jeder Euro nur für sichere Arbeitsplätze, jeder Euro nur mit Tarifbindung, jeder Euro in Betriebe, die sich für die Zukunft aufstellen und die Transformation mitgehen.“ Sie sagte, der Autogipfel sei ein Konzerngipfel gewesen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir fordern – und das übrigens in Übereinstimmung mit den Gewerkschaften – einen Transformationsfonds für die Beschäftigten der Automobilindustrie in Höhe von 20 Milliarden Euro jedes Jahr.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Und zwar nicht als Geschenk an die Konzerne, sondern geknüpft an harte Bedingungen: Jeder Euro nur für gesicherte Standorte, jeder Euro nur für sichere Arbeitsplätze, jeder Euro nur mit Tarifbindung, jeder Euro in Betriebe, die sich für die Zukunft aufstellen und die Transformation mitgehen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "forderte: „…“ „…“ Sie sagte, der Autogipfel sei ein Konzerngipfel gewesen.",
+       "verb": "forderte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Andreas Lenz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Wir entlasten die Verbraucher und die Unternehmen bei den Netzentgelten – wir haben gerade darüber debattiert –: 6,5 Milliarden Euro in 2026.“ „Und wir werden einen Industriestrompreis einführen.“ „Die E-Mobilität muss ermöglicht werden, aber der Verbrenner darf nicht plump verboten werden.“ Er sagte, die Linke wolle mehr Staat und weniger Markt, und überall, wo Kommunisten an der Macht seien, gehe es den Menschen schlechter.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir entlasten die Verbraucher und die Unternehmen bei den Netzentgelten – wir haben gerade darüber debattiert –: 6,5 Milliarden Euro in 2026.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Und wir werden einen Industriestrompreis einführen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die E-Mobilität muss ermöglicht werden, aber der Verbrenner darf nicht plump verboten werden.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ „…“ Er sagte, die Linke wolle mehr Staat und weniger Markt, und überall, wo Kommunisten an der Macht seien, gehe es den Menschen schlechter.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Peter Bohnhof",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Die AfD stellt sich daher klar und deutlich gegen jede sozialökologische Umwälzung.“ „Wir fordern darum den sofortigen Ausstieg aus dem Pariser Klimaabkommen, die Abschaffung der CO2-Steuer und die Rückkehr zur Kernenergie.“ Er sagte, die Pläne der Linken bedeuteten Planwirtschaft und gefährdeten Jobs im Ruhrgebiet.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die AfD stellt sich daher klar und deutlich gegen jede sozialökologische Umwälzung.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir fordern darum den sofortigen Ausstieg aus dem Pariser Klimaabkommen, die Abschaffung der CO2-Steuer und die Rückkehr zur Kernenergie.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Er sagte, die Pläne der Linken bedeuteten Planwirtschaft und gefährdeten Jobs im Ruhrgebiet.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Mahmut Özdemir",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Wir müssen das Vergaberecht anfassen.“ „Wir müssen Tariftreue und den Schutz der heimischen und der europäischen Grundstoffindustrie gewährleisten.“ „Wasserstoff ist eine Zukunftstechnologie.“ „Kurzum: Wir brauchen Sicherheit für unseren Industriestandort Deutschland.“ Er schilderte die Bergbautradition in Duisburg-Homberg und die Verunsicherung der Beschäftigten in Stahl- und Chemieindustrie.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir müssen das Vergaberecht anfassen.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir müssen Tariftreue und den Schutz der heimischen und der europäischen Grundstoffindustrie gewährleisten.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wasserstoff ist eine Zukunftstechnologie.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Kurzum: Wir brauchen Sicherheit für unseren Industriestandort Deutschland.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "forderte: „…“ „…“ „…“ „…“ Er schilderte die Bergbautradition in Duisburg-Homberg und die Verunsicherung der Beschäftigten in Stahl- und Chemieindustrie.",
+       "verb": "forderte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Andreas Audretsch",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Deutschland ist nicht zu schnell. Deutschland ist zu langsam.“ „Jetzt den Rückwärtsgang einzulegen, jetzt zu sagen, dass das EU-Verbrenner-Aus für 2035 beerdigt wird, ist das Falscheste, was eine Bundesregierung irgendwie tun könnte.“ „Legen Sie ein soziales Leasingprogramm auf: Günstige E-Autos für alle in Deutschland!“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deutschland ist nicht zu schnell. Deutschland ist zu langsam.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Jetzt den Rückwärtsgang einzulegen, jetzt zu sagen, dass das EU-Verbrenner-Aus für 2035 beerdigt wird, ist das Falscheste, was eine Bundesregierung irgendwie tun könnte.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Legen Sie ein soziales Leasingprogramm auf: Günstige E-Autos für alle in Deutschland!",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Klaus Wiener",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "wies die Vorschläge der Linken zurück: „Wenn wir die wirtschaftspolitischen Pläne der Linken auch nur in Teilen umsetzen würden, dann wäre Deutschland der wirtschaftlich tote Mann Europas, nicht der kranke Mann Europas.“ „Wenn wir die strukturellen Probleme unserer Volkswirtschaft überwinden wollen, dann müssen wir auf der anderen Seite des Marktes ansetzen, dann müssen wir angebotsorientiert handeln.“ „Wir brauchen mehr Beschäftigung, und die Produktivität muss steigen.“ Er sagte, die Idee, der Staat solle selbst Wohnungen bauen, verdränge private Nachfrage.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wenn wir die wirtschaftspolitischen Pläne der Linken auch nur in Teilen umsetzen würden, dann wäre Deutschland der wirtschaftlich tote Mann Europas, nicht der kranke Mann Europas.",
+       "verb": "wies zurück",
+       "source": "llm",
+       "lead": "wies die Vorschläge der Linken zurück:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wenn wir die strukturellen Probleme unserer Volkswirtschaft überwinden wollen, dann müssen wir auf der anderen Seite des Marktes ansetzen, dann müssen wir angebotsorientiert handeln.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen mehr Beschäftigung, und die Produktivität muss steigen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "wies die Vorschläge der Linken zurück: „…“ „…“ „…“ Er sagte, die Idee, der Staat solle selbst Wohnungen bauen, verdränge private Nachfrage.",
+       "verb": "wies zurück",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dirk Brandes",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Raus aus der Planwirtschaft! Deutschland braucht wieder Wettbewerb.“ „Deutschland ist das einzige Industrieland, dessen Wirtschaft stark schrumpft.“ Er sagte, ökologische Industriepolitik der Linken bedeute Bevormundung und Subventionswirtschaft, und die CDU hole die dafür verantwortlichen Parteien immer wieder in die Regierung.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Raus aus der Planwirtschaft! Deutschland braucht wieder Wettbewerb.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deutschland ist das einzige Industrieland, dessen Wirtschaft stark schrumpft.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "forderte: „…“ „…“ Er sagte, ökologische Industriepolitik der Linken bedeute Bevormundung und Subventionswirtschaft, und die CDU hole die dafür verantwortlichen Parteien immer wieder in die Regierung.",
+       "verb": "forderte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Bernd Rützel",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "betonte: „Aber für die SPD ist zentral: Es geht um die Arbeitsplätze und die Menschen.“ „Wir haben das bereits mit dem 2025er-Haushalt mit 400 Millionen Euro mehr getan und tun das über die nächsten Jahre mit jährlich 1 Milliarde Euro mehr, um eine bessere Beratung zu ermöglichen.“ „Denn Wirtschaft und Sozialpolitik sind zwei Seiten derselben Medaille oder eben soziale Marktwirtschaft.“ Er nannte Arbeitsmarktdrehscheibe, Kurzarbeitergeld und Transfergesellschaften als bewährte Instrumente.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber für die SPD ist zentral: Es geht um die Arbeitsplätze und die Menschen.",
+       "verb": "betonte",
+       "source": "llm",
+       "lead": "betonte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben das bereits mit dem 2025er-Haushalt mit 400 Millionen Euro mehr getan und tun das über die nächsten Jahre mit jährlich 1 Milliarde Euro mehr, um eine bessere Beratung zu ermöglichen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Denn Wirtschaft und Sozialpolitik sind zwei Seiten derselben Medaille oder eben soziale Marktwirtschaft.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "betonte: „…“ „…“ „…“ Er nannte Arbeitsmarktdrehscheibe, Kurzarbeitergeld und Transfergesellschaften als bewährte Instrumente.",
+       "verb": "betonte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Michael Kellner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "warnte: „Die Gasspeicher in Deutschland sind im Vergleich zu den vergangenen Wintern historisch schlecht gefüllt.“ „Sie haben im Haushaltsentwurf 2026 für den Titel ‚Industriestrompreis‘ 1 000 Euro eingeplant.“ „Hören Sie auf, den Klimaschutz anzugreifen!“ Er sagte, die Union solle aufhören, Robert Habeck hinterherzuschmachten, und selbst die Probleme lösen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Gasspeicher in Deutschland sind im Vergleich zu den vergangenen Wintern historisch schlecht gefüllt.",
+       "verb": "warnte",
+       "source": "llm",
+       "lead": "warnte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Sie haben im Haushaltsentwurf 2026 für den Titel ‚Industriestrompreis‘ 1 000 Euro eingeplant.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Hören Sie auf, den Klimaschutz anzugreifen!",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "warnte: „…“ „…“ „…“ Er sagte, die Union solle aufhören, Robert Habeck hinterherzuschmachten, und selbst die Probleme lösen.",
+       "verb": "warnte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Mirze Edis",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "forderte: „Wir reden heute über das Herzstück unserer Volkswirtschaft: die Industrie.“ „In den letzten drei Jahren sind in Deutschland mehr als 300 000 Industriearbeitsplätze vernichtet worden; die meisten waren gut bezahlt.“ „Wir als Linke fordern ein öffentliches Investitionsprogramm für klimaneutrale Industrieproduktion in Deutschland, einen staatlichen Transformationsfonds im Umfang von mindestens 20 Milliarden Euro.“ Er lud Ministerin Reiche zu einer Diskussion mit den Belegschaften von thyssenkrupp Steel und HKM ein.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir reden heute über das Herzstück unserer Volkswirtschaft: die Industrie.",
+       "verb": "forderte",
+       "source": "llm",
+       "lead": "forderte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "In den letzten drei Jahren sind in Deutschland mehr als 300 000 Industriearbeitsplätze vernichtet worden; die meisten waren gut bezahlt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir als Linke fordern ein öffentliches Investitionsprogramm für klimaneutrale Industrieproduktion in Deutschland, einen staatlichen Transformationsfonds im Umfang von mindestens 20 Milliarden Euro.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "forderte: „…“ „…“ „…“ Er lud Ministerin Reiche zu einer Diskussion mit den Belegschaften von thyssenkrupp Steel und HKM ein.",
+       "verb": "forderte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Lars Rohwer",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "betonte: „Industriepolitik und Mittelstandspolitik sind unser TOP 1, auch im Koalitionsvertrag.“ „Klimaschutz gelingt nur, wenn Unternehmen Gewinne machen, wodurch sie auch in den Strukturwandel investieren können.“ „Die Region hält sich an den Kohleausstieg zum vereinbarten Datum.“ Er schilderte das Radiopharmazie-Cluster rund um das Helmholtz-Zentrum Dresden-Rossendorf als Beispiel für Aufschwung im Osten.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Industriepolitik und Mittelstandspolitik sind unser TOP 1, auch im Koalitionsvertrag.",
+       "verb": "betonte",
+       "source": "llm",
+       "lead": "betonte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Klimaschutz gelingt nur, wenn Unternehmen Gewinne machen, wodurch sie auch in den Strukturwandel investieren können.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Region hält sich an den Kohleausstieg zum vereinbarten Datum.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "betonte: „…“ „…“ „…“ Er schilderte das Radiopharmazie-Cluster rund um das Helmholtz-Zentrum Dresden-Rossendorf als Beispiel für Aufschwung im Osten.",
+       "verb": "betonte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Gerrit Huy",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "warnte: „Der CO2-Ausstoß in Deutschland ist tatsächlich gesunken, da die Produktion gesunken ist.“ „Um gut 4 Prozent ist die industrielle Produktion im August wieder zurückgegangen.“ Sie sagte, ein Programm der AfD sehe unter anderem den Verzicht auf Klimaschutzmaßnahmen und billige Energie vor.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der CO2-Ausstoß in Deutschland ist tatsächlich gesunken, da die Produktion gesunken ist.",
+       "verb": "warnte",
+       "source": "llm",
+       "lead": "warnte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Um gut 4 Prozent ist die industrielle Produktion im August wieder zurückgegangen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "warnte: „…“ „…“ Sie sagte, ein Programm der AfD sehe unter anderem den Verzicht auf Klimaschutzmaßnahmen und billige Energie vor.",
+       "verb": "warnte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Vanessa Zobel",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Energiekosten runter, Steuern und Abgaben runter, Schluss mit der Übererfüllung europäischer Auflagen, Nachweispflichten und Bürokratie weg, und Planungs- und Genehmigungsverfahren müssen drastisch verkürzt werden.“ „Das ist unser Verständnis von einer sozialen Industriepolitik – nicht mit Ideologie, sondern mit Pragmatismus und gesundem Sachverstand.“ Sie sagte, die Linke habe die Industrie in der Vergangenheit regelmäßig bekämpft.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Energiekosten runter, Steuern und Abgaben runter, Schluss mit der Übererfüllung europäischer Auflagen, Nachweispflichten und Bürokratie weg, und Planungs- und Genehmigungsverfahren müssen drastisch verkürzt werden.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Das ist unser Verständnis von einer sozialen Industriepolitik – nicht mit Ideologie, sondern mit Pragmatismus und gesundem Sachverstand.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ Sie sagte, die Linke habe die Industrie in der Vergangenheit regelmäßig bekämpft.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "ZP 10 – Aktuelle Stunde auf Verlangen der Fraktion Die Linke gemäß Anlage 5 Nummer 1 Buchstabe c GO-BT: Soziale und ökologische Industriepolitik – Arbeitsplätze schützen, Zukunft gerecht gestalten"
+  },
+  {
+   "id": "ZP 11",
+   "title": "Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Stefan Möller, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Stärkung der Meinungsfreiheit und zur Änderung der Strafprozessordnung – Einschränkung der Zulässigkeit der Hausdurchsuchung bei Ehrverletzungsdelikten (Drucksache 21/2085)",
+   "notes": [
+    "(Hinweis: Dieser Tagesordnungspunkt wurde nach TOP 32 behandelt.)",
+    "Der Bundestag beriet den Gesetzentwurf in erster Lesung.",
+    "Die nächste Sitzung wurde auf Mittwoch, den 15. Oktober 2025, 13.00 Uhr, einberufen.",
+    "--- *Anmerkung: Der in der gedruckten Tagesordnung als „TOP 32: a)“ aufgeführte Punkt (Gesetz zur Beschleunigung der Vergabe öffentlicher Aufträge) wurde in dieser Sitzung weder behandelt noch im Amtlichen Protokoll aufgeführt und ist daher nicht wiedergegeben.*"
+   ],
+   "speeches": [
+    {
+     "speaker": "Tobias Matthias Peterka",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "stellte den Entwurf vor: „Keine Zulässigkeit mehr dieses Mittels, wenn alleinig wegen Ehrschutzdelikten ermittelt wird!“ „§ 185 Strafgesetzbuch – die normale Beleidigung – und vor allem § 188 – die Beleidigung politisch exponierter Personen – werden in einem Maße missbraucht und exzessiv ausgelegt, dass sich die Balken biegen.“ „Denn eins ist klar: Beweise kann man auch anders erlangen.“ Er kritisierte, man habe ihm untersagt, einen Juraprofessor in der Drucksache zu zitieren, und bat das Präsidium, dies mit dem Parlamentssekretariat zu klären.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Keine Zulässigkeit mehr dieses Mittels, wenn alleinig wegen Ehrschutzdelikten ermittelt wird!",
+       "verb": "stellte vor",
+       "source": "llm",
+       "lead": "stellte den Entwurf vor:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "§ 185 Strafgesetzbuch – die normale Beleidigung – und vor allem § 188 – die Beleidigung politisch exponierter Personen – werden in einem Maße missbraucht und exzessiv ausgelegt, dass sich die Balken biegen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Denn eins ist klar: Beweise kann man auch anders erlangen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "stellte den Entwurf vor: „…“ „…“ „…“ Er kritisierte, man habe ihm untersagt, einen Juraprofessor in der Drucksache zu zitieren, und bat das Präsidium, dies mit dem Parlamentssekretariat zu klären.",
+       "verb": "stellte vor",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Axel Müller",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "widersprach: „Dazu muss man wissen, dass eine Hausdurchsuchung, anders als von der AfD suggeriert, nicht einfach mal so durchgeführt werden kann.“ „Neben einem Anfangsverdacht für ein strafbares Verhalten braucht es eine gewisse Wahrscheinlichkeit für das Auffinden von Beweismitteln.“ „Wegen einer Bagatelle wird, entgegen der Behauptung der AfD, eben gerade keine Hausdurchsuchung angewandt.“ Er sagte, der Entwurf diene dazu, die eigene Anhängerschaft der AfD vor Strafverfolgung zu schützen.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Dazu muss man wissen, dass eine Hausdurchsuchung, anders als von der AfD suggeriert, nicht einfach mal so durchgeführt werden kann.",
+       "verb": "widersprach",
+       "source": "llm",
+       "lead": "widersprach:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Neben einem Anfangsverdacht für ein strafbares Verhalten braucht es eine gewisse Wahrscheinlichkeit für das Auffinden von Beweismitteln.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wegen einer Bagatelle wird, entgegen der Behauptung der AfD, eben gerade keine Hausdurchsuchung angewandt.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "widersprach: „…“ „…“ „…“ Er sagte, der Entwurf diene dazu, die eigene Anhängerschaft der AfD vor Strafverfolgung zu schützen.",
+       "verb": "widersprach",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Lena Gumnior",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Die AfD schwingt sich zu einem Ersatzrichter auf, der ohne Kenntnis jeglicher Sachlage und Aktenlage die Rechtmäßigkeit von Durchsuchungen beurteilen kann.“ „Da gehen Zivil- und Strafrecht in der Gesetzesbegründung wild durcheinander.“ Sie zählte Durchsuchungen bei AfD-Politikern auf und sagte, die AfD zeige Menschen selbst gerne an.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die AfD schwingt sich zu einem Ersatzrichter auf, der ohne Kenntnis jeglicher Sachlage und Aktenlage die Rechtmäßigkeit von Durchsuchungen beurteilen kann.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Da gehen Zivil- und Strafrecht in der Gesetzesbegründung wild durcheinander.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ Sie zählte Durchsuchungen bei AfD-Politikern auf und sagte, die AfD zeige Menschen selbst gerne an.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Mahmut Özdemir",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Und das Dreiste an dieser ganzen Sache ist, dass Sie versuchen, sich hinter der in Artikel 5 Grundgesetz garantierten Meinungsfreiheit zu verstecken; das ist einfach nur dreist.“ „Es ist doch relativ irrelevant, welche Straftat es ist; denn drei Behörden in unserem Land schauen, gewaltenteilig agierend, auf dieses Vorgehen und würdigen es.“ Er trug Äußerungen aus den Reihen der AfD vor und fragte, ob die AfD solche Meinungen schützen wolle.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und das Dreiste an dieser ganzen Sache ist, dass Sie versuchen, sich hinter der in Artikel 5 Grundgesetz garantierten Meinungsfreiheit zu verstecken; das ist einfach nur dreist.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Es ist doch relativ irrelevant, welche Straftat es ist; denn drei Behörden in unserem Land schauen, gewaltenteilig agierend, auf dieses Vorgehen und würdigen es.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ Er trug Äußerungen aus den Reihen der AfD vor und fragte, ob die AfD solche Meinungen schützen wolle.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Luke Hoß",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Sie wollen die Schwelle für Hass und Hetze gegen andere Menschen möglichst niedrig halten.“ „Deshalb wollen Sie Hausdurchsuchungen in diesen Fällen abschaffen.“ Er sagte, die AfD habe zunächst die Abschaffung des § 188 beantragt und stelle selbst Strafanzeigen, und er wies auf echte Ungerechtigkeiten im Strafrecht hin.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie wollen die Schwelle für Hass und Hetze gegen andere Menschen möglichst niedrig halten.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb wollen Sie Hausdurchsuchungen in diesen Fällen abschaffen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ Er sagte, die AfD habe zunächst die Abschaffung des § 188 beantragt und stelle selbst Strafanzeigen, und er wies auf echte Ungerechtigkeiten im Strafrecht hin.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Christian Moser",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Entwurf ab: „Wir haben hier kein gesetzgeberisches Problem.“ „Wenn Sie die Durchsuchung ablehnen, dann haben Sie kein Beweismittel, dann kommen Sie nicht zur Verurteilung.“ Er verwies auf Fälle, in denen Gerichte Durchsuchungen als unverhältnismäßig abgelehnt hätten.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben hier kein gesetzgeberisches Problem.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Entwurf ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Wenn Sie die Durchsuchung ablehnen, dann haben Sie kein Beweismittel, dann kommen Sie nicht zur Verurteilung.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte den Entwurf ab: „…“ „…“ Er verwies auf Fälle, in denen Gerichte Durchsuchungen als unverhältnismäßig abgelehnt hätten.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Tobias Matthias Peterka",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "opening": "fragte in einer Zwischenfrage: „Was sagen Sie denn zur Onlinedurchsuchung, wenn Sie sich die angeschaut haben?“ „Dass das Handy nur in der Wohnung, im höchstpersönlichen Lebensbereich zu schnappen ist, können Sie nicht ernsthaft behaupten, oder?“",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was sagen Sie denn zur Onlinedurchsuchung, wenn Sie sich die angeschaut haben?",
+       "verb": "fragte",
+       "source": "llm",
+       "lead": "fragte in einer Zwischenfrage:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Dass das Handy nur in der Wohnung, im höchstpersönlichen Lebensbereich zu schnappen ist, können Sie nicht ernsthaft behaupten, oder?",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      }
+     ]
+    },
+    {
+     "speaker": "Christian Moser",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Erwiderung",
+     "opening": "antwortete: „Denn anders, als Sie behaupten, ist die Durchsuchung ja gar keine Strafe.“ „Sie ist Voraussetzung, dass ich den staatlichen Strafanspruch durchsetzen kann.“ „Die Gerichte entscheiden im Einzelfall, ob die Durchsuchung verhältnismäßig ist oder nicht.“ Er sagte, für Beleidigungstatbestände gälten die hohen Hürden der Onlinedurchsuchung nicht.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Denn anders, als Sie behaupten, ist die Durchsuchung ja gar keine Strafe.",
+       "verb": "antwortete",
+       "source": "llm",
+       "lead": "antwortete:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Sie ist Voraussetzung, dass ich den staatlichen Strafanspruch durchsetzen kann.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Die Gerichte entscheiden im Einzelfall, ob die Durchsuchung verhältnismäßig ist oder nicht.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "antwortete: „…“ „…“ „…“ Er sagte, für Beleidigungstatbestände gälten die hohen Hürden der Onlinedurchsuchung nicht.",
+       "verb": "antwortete",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Rainer Galla",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "warb für den Entwurf: „Eine im schlimmsten Falle medial begleitete Haus- oder Wohnungsdurchsuchung stellt stets einen erheblichen Angriff auf den engsten räumlichen Lebensbereich dar.“ „Artikel 13 Grundgesetz garantiert die Unverletzlichkeit der Wohnung.“ „Insofern freue ich mich auf die Arbeit im Ausschuss.“ Er lud die anderen Fraktionen ein, die Meinungsfreiheit durch Beschränkung strafprozessualer Eingriffsmöglichkeiten zu stärken.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Eine im schlimmsten Falle medial begleitete Haus- oder Wohnungsdurchsuchung stellt stets einen erheblichen Angriff auf den engsten räumlichen Lebensbereich dar.",
+       "verb": "warb",
+       "source": "llm",
+       "lead": "warb für den Entwurf:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Artikel 13 Grundgesetz garantiert die Unverletzlichkeit der Wohnung.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Insofern freue ich mich auf die Arbeit im Ausschuss.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "warb für den Entwurf: „…“ „…“ „…“ Er lud die anderen Fraktionen ein, die Meinungsfreiheit durch Beschränkung strafprozessualer Eingriffsmöglichkeiten zu stärken.",
+       "verb": "warb",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Maja Wallstein",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "sagte, die AfD lebe Hass und Beleidigungen vor, und forderte, die Verfassungsmäßigkeit der AfD vom Bundesverfassungsgericht überprüfen zu lassen.",
+     "parts": [
+      {
+       "type": "reported",
+       "text": "sagte, die AfD lebe Hass und Beleidigungen vor, und forderte, die Verfassungsmäßigkeit der AfD vom Bundesverfassungsgericht überprüfen zu lassen.",
+       "verb": "sagte",
+       "source": "llm"
+      }
+     ]
+    },
+    {
+     "speaker": "Helge Limburg",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Entwurf ab: „Der Gesetzentwurf der AfD ist in der Tat ein pauschales Misstrauensvotum gegen unsere gesamte Justiz.“ „Sie trauen der Justiz Verhältnismäßigkeitsprüfungen nicht zu.“ „Wir lehnen Ihren Gesetzentwurf selbstverständlich ab.“ Er sagte, die Justiz korrigiere sich selbst, und verwies auf die Entscheidung des Landgerichts Arnsberg zu einer Hausdurchsuchung bei einer Juso-Funktionärin.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der Gesetzentwurf der AfD ist in der Tat ein pauschales Misstrauensvotum gegen unsere gesamte Justiz.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Entwurf ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Sie trauen der Justiz Verhältnismäßigkeitsprüfungen nicht zu.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Wir lehnen Ihren Gesetzentwurf selbstverständlich ab.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte den Entwurf ab: „…“ „…“ „…“ Er sagte, die Justiz korrigiere sich selbst, und verwies auf die Entscheidung des Landgerichts Arnsberg zu einer Hausdurchsuchung bei einer Juso-Funktionärin.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wiegelmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "erklärte: „Dieser Entwurf wirft mehr Fragen auf, als er beantwortet.“ „Er ist rechtspolitisch fehlerhaft, und er setzt sich fort mit Wertungswidersprüchen, die er aufwirft.“ „Das ist aber kein gesetzgeberisches Problem.“ „Deshalb ist Ihr Gesetzentwurf abzulehnen.“ Er schilderte als Strafverteidiger die Folgen einer Durchsuchung für Betroffene.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Dieser Entwurf wirft mehr Fragen auf, als er beantwortet.",
+       "verb": "erklärte",
+       "source": "llm",
+       "lead": "erklärte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Er ist rechtspolitisch fehlerhaft, und er setzt sich fort mit Wertungswidersprüchen, die er aufwirft.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Das ist aber kein gesetzgeberisches Problem.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb ist Ihr Gesetzentwurf abzulehnen.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "erklärte: „…“ „…“ „…“ „…“ Er schilderte als Strafverteidiger die Folgen einer Durchsuchung für Betroffene.",
+       "verb": "erklärte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Knuth Meyer-Soltau",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "kritisierte: „Ich bin 25 Jahre Strafverteidiger, und da versucht mir hier jemand zu erzählen, dass jeder Ermittlungsrichter ganz genau die Verhältnismäßigkeit der Anträge prüft, die die Staatsanwaltschaft vorlegt.“ „Eine Hausdurchsuchung ist dann unzulässig, wenn die Schwere der Tat gering ist, der Tatverdacht schwach ist, die Auffindungswahrscheinlichkeit sowie die Beweisbedeutung minimal sind.“ Er bezog sich auf den Fall Habeck und sagte, solche Praxis untergrabe das Vertrauen in den Rechtsstaat.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich bin 25 Jahre Strafverteidiger, und da versucht mir hier jemand zu erzählen, dass jeder Ermittlungsrichter ganz genau die Verhältnismäßigkeit der Anträge prüft, die die Staatsanwaltschaft vorlegt.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "lead": "kritisierte:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Eine Hausdurchsuchung ist dann unzulässig, wenn die Schwere der Tat gering ist, der Tatverdacht schwach ist, die Auffindungswahrscheinlichkeit sowie die Beweisbedeutung minimal sind.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "kritisierte: „…“ „…“ Er bezog sich auf den Fall Habeck und sagte, solche Praxis untergrabe das Vertrauen in den Rechtsstaat.",
+       "verb": "kritisierte",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. David Preisendanz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "opening": "lehnte den Entwurf ab: „Sie wollen vollkommen systemfremd und willkürlich eine bestimmte Ermittlungsmaßnahme bei einem bestimmten Straftatbestand gesetzlich untersagen.“ „Die Meinungsfreiheit ist ein hohes Gut.“ „Aber sie endet dort, wo die Würde anderer Menschen verletzt wird.“ „Das machen wir natürlich nicht mit und lehnen Ihren Gesetzentwurf ab.“ Er sagte, der Entwurf sei ein inszeniertes Echo aus der Social-Media-Blase der AfD.",
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie wollen vollkommen systemfremd und willkürlich eine bestimmte Ermittlungsmaßnahme bei einem bestimmten Straftatbestand gesetzlich untersagen.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "lead": "lehnte den Entwurf ab:",
+       "inline": false
+      },
+      {
+       "type": "quote",
+       "text": "Die Meinungsfreiheit ist ein hohes Gut.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Aber sie endet dort, wo die Würde anderer Menschen verletzt wird.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "quote",
+       "text": "Das machen wir natürlich nicht mit und lehnen Ihren Gesetzentwurf ab.",
+       "verb": null,
+       "source": "llm",
+       "lead": "",
+       "inline": true
+      },
+      {
+       "type": "reported",
+       "text": "lehnte den Entwurf ab: „…“ „…“ „…“ „…“ Er sagte, der Entwurf sei ein inszeniertes Echo aus der Social-Media-Blase der AfD.",
+       "verb": "lehnte ab",
+       "source": "llm",
+       "has_quote": true
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss die Überweisung an:",
+     "decision": "",
+     "outcome": "Überweisung"
+    }
+   ],
+   "referrals": [
+    "Ausschuss für Recht"
+   ],
+   "drucksachen": [],
+   "joint_ids": [],
+   "heading": "ZP 11 – Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Stefan Möller, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Stärkung der Meinungsfreiheit und zur Änderung der Strafprozessordnung – Einschränkung der Zulässigkeit der Hausdurchsuchung bei Ehrverletzungsdelikten (Drucksache 21/2085)"
+  }
+ ],
+ "compute": {
+  "rule_seconds": 0.015,
+  "llm_calls": 1,
+  "input_tokens": 203450,
+  "output_tokens": 64946,
+  "cost_usd": 1.463256,
+  "llm_seconds": 342.1
+ },
+ "preamble": [
+  {
+   "heading": "Niederschrift über die 32. Sitzung des Deutschen Bundestages am Freitag, dem 10. Oktober 2025",
+   "text": "Präsidentin Julia Klöckner eröffnete die Sitzung."
+  }
+ ],
+ "parse": {
+  "version": "parse_md 1.0",
+  "counts": {
+   "items": 12,
+   "speeches": 83,
+   "quote_parts": 229,
+   "reported_parts": 59,
+   "formula_parts": 1,
+   "votes": 11,
+   "referrals": 21,
+   "notes": 19,
+   "preamble_sections": 1,
+   "warnings": 0
+  },
+  "warnings": []
+ },
+ "truncation": {
+  "truncated": true,
+  "reasons": [
+   "near_cap_64000"
+  ]
+ }
+}

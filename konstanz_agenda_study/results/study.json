@@ -1,0 +1,1717 @@
+{
+ "note": "Statistics from the public agendas and decision records of the Kreistag Konstanz (fetch.py).",
+ "M1_corpus": {
+  "sessions": 108,
+  "first": "2009-09-14",
+  "last": "2026-03-16",
+  "documents": 203,
+  "by_period": {
+   "2009–2014": {
+    "sessions": 39,
+    "with_agenda": 39,
+    "with_record": 28,
+    "items_median": 14,
+    "items_total": 549,
+    "sub_items_total": 17
+   },
+   "2015–2019": {
+    "sessions": 35,
+    "with_agenda": 34,
+    "with_record": 34,
+    "items_median": 14.0,
+    "items_total": 503,
+    "sub_items_total": 17
+   },
+   "2020–2023": {
+    "sessions": 21,
+    "with_agenda": 19,
+    "with_record": 21,
+    "items_median": 20,
+    "items_total": 355,
+    "sub_items_total": 104
+   },
+   "2024–2026": {
+    "sessions": 13,
+    "with_agenda": 13,
+    "with_record": 11,
+    "items_median": 17,
+    "items_total": 234,
+    "sub_items_total": 111
+   }
+  }
+ },
+ "M2_types": {
+  "items": 1641,
+  "types": {
+   "other subject item": {
+    "items": 516,
+    "share": 0.314,
+    "median_relative_position": 0.5,
+    "with_drucksache": 0.86
+   },
+   "budget and finance": {
+    "items": 315,
+    "share": 0.192,
+    "median_relative_position": 0.5,
+    "with_drucksache": 0.93
+   },
+   "membership, elections, appointments": {
+    "items": 227,
+    "share": 0.138,
+    "median_relative_position": 0.29,
+    "with_drucksache": 0.97
+   },
+   "report, presentation": {
+    "items": 142,
+    "share": 0.087,
+    "median_relative_position": 0.82,
+    "with_drucksache": 0.77
+   },
+   "closing: miscellaneous, questions": {
+    "items": 103,
+    "share": 0.063,
+    "median_relative_position": 1.0,
+    "with_drucksache": 0.06
+   },
+   "residents' question time": {
+    "items": 95,
+    "share": 0.058,
+    "median_relative_position": 0.79,
+    "with_drucksache": 0.0
+   },
+   "opening: non-public decisions announced": {
+    "items": 75,
+    "share": 0.046,
+    "median_relative_position": 0.05,
+    "with_drucksache": 0.01
+   },
+   "opening: formal approval": {
+    "items": 70,
+    "share": 0.043,
+    "median_relative_position": 0.0,
+    "with_drucksache": 0.06
+   },
+   "statute, rules": {
+    "items": 57,
+    "share": 0.035,
+    "median_relative_position": 0.5,
+    "with_drucksache": 0.96
+   },
+   "motion by a group": {
+    "items": 41,
+    "share": 0.025,
+    "median_relative_position": 0.57,
+    "with_drucksache": 0.98
+   }
+  },
+  "by_period": {
+   "2009–2014": {
+    "other subject item": 0.306,
+    "budget and finance": 0.222,
+    "membership, elections, appointments": 0.155,
+    "closing: miscellaneous, questions": 0.071,
+    "residents' question time": 0.066,
+    "report, presentation": 0.055,
+    "statute, rules": 0.042,
+    "opening: formal approval": 0.042,
+    "opening: non-public decisions announced": 0.033,
+    "motion by a group": 0.009
+   },
+   "2015–2019": {
+    "other subject item": 0.3,
+    "budget and finance": 0.177,
+    "membership, elections, appointments": 0.127,
+    "report, presentation": 0.117,
+    "closing: miscellaneous, questions": 0.068,
+    "residents' question time": 0.064,
+    "opening: non-public decisions announced": 0.05,
+    "opening: formal approval": 0.046,
+    "statute, rules": 0.028,
+    "motion by a group": 0.024
+   },
+   "2020–2023": {
+    "other subject item": 0.358,
+    "budget and finance": 0.183,
+    "report, presentation": 0.093,
+    "membership, elections, appointments": 0.087,
+    "opening: non-public decisions announced": 0.059,
+    "motion by a group": 0.056,
+    "closing: miscellaneous, questions": 0.051,
+    "residents' question time": 0.048,
+    "opening: formal approval": 0.039,
+    "statute, rules": 0.025
+   },
+   "2024–2026": {
+    "other subject item": 0.299,
+    "membership, elections, appointments": 0.201,
+    "budget and finance": 0.167,
+    "report, presentation": 0.085,
+    "closing: miscellaneous, questions": 0.051,
+    "opening: non-public decisions announced": 0.047,
+    "statute, rules": 0.047,
+    "opening: formal approval": 0.043,
+    "residents' question time": 0.043,
+    "motion by a group": 0.017
+   }
+  },
+  "canonical_frame": {
+   "sessions": 99,
+   "opening_first_and_closing_last": 94
+  },
+  "question_time_position": {
+   "items": 95,
+   "first_item": 0,
+   "last_item": 0,
+   "in_between": 95,
+   "agenda_names_a_clock_time": 33
+  }
+ },
+ "M3_agenda_vs_record": {
+  "sessions_with_both": 91,
+  "agenda_items": 1438,
+  "matched_items": 1214,
+  "matched_under_the_same_number": 1213,
+  "agenda_items_not_in_record": 224,
+  "agenda_items_not_in_record_by_type": {
+   "residents' question time": 78,
+   "report, presentation": 60,
+   "other subject item": 51,
+   "opening: non-public decisions announced": 14,
+   "budget and finance": 10,
+   "statute, rules": 3,
+   "membership, elections, appointments": 3,
+   "closing: miscellaneous, questions": 2,
+   "motion by a group": 2,
+   "opening: formal approval": 1
+  },
+  "record_items_not_in_agenda_UNRELIABLE": 151,
+  "sessions_record_in_agenda_numbering": 91,
+  "sessions_identical_item_list": 0,
+  "order_notes_in_records": {
+   "deferred": {
+    "sentences": 16,
+    "sessions": 15
+   },
+   "withdrawn": {
+    "sentences": 12,
+    "sessions": 10
+   },
+   "moved": {
+    "sentences": 38,
+    "sessions": 25
+   }
+  },
+  "sessions_with_moved_or_withdrawn_note": 30,
+  "sessions_with_record": 94,
+  "examples_moved": [
+   "Hinweise/Beratung:  Die Beratung und Beschlussfassung wurde vorgezogen, s.",
+   "Hinweise/Beratung:  Die Beratung und Beschlussfassung wurde vorgezogen (s.",
+   "Hinweis/Beratung: Der TOP wurde nach TOP 9 aufgerufen.",
+   "Der TOP wurde nach TOP 14 (Verschiedenes) aufgerufen.",
+   "Hinweis: Aufgrund der fortgeschrittenen Zeit wurde die Bürgerfragestunde nach TOP 5 aufgerufen.",
+   "Hinweis: Die Bürgerfragestunde wurde aufgrund der fortgeschrittenen Zeit nach TOP 11 aufgerufen.",
+   "Hinweis: Aufgrund der fortgeschrittenen Zeit wurde die Bürgerfragestunde nach TOP 8 (Resolution in Sachen Asyl) aufgerufen.",
+   "Hinweis: Dieser TOP (TOP 6) wurde nach TOP 7 aufgerufen 7."
+  ],
+  "updated_agendas": [
+   {
+    "date": "2015-03-23",
+    "items_before": 24,
+    "items_after": 24,
+    "new_titles": 2,
+    "dropped_titles": 2
+   },
+   {
+    "date": "2015-10-26",
+    "items_before": 24,
+    "items_after": 24,
+    "new_titles": 1,
+    "dropped_titles": 1
+   },
+   {
+    "date": "2019-07-22",
+    "items_before": 28,
+    "items_after": 29,
+    "new_titles": 1,
+    "dropped_titles": 0
+   },
+   {
+    "date": "2025-10-20",
+    "items_before": 15,
+    "items_after": 15,
+    "new_titles": 1,
+    "dropped_titles": 1
+   }
+  ],
+  "per_session": [
+   {
+    "date": "2011-01-24",
+    "agenda_items": 4,
+    "record_items": 4,
+    "matched": 2,
+    "same_number": 2,
+    "agenda_only": 2,
+    "record_only": 3,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2011-04-04",
+    "agenda_items": 9,
+    "record_items": 9,
+    "matched": 6,
+    "same_number": 6,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2011-06-06",
+    "agenda_items": 15,
+    "record_items": 15,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2011-07-25",
+    "agenda_items": 16,
+    "record_items": 16,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 3,
+    "record_only": 4,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2011-10-24",
+    "agenda_items": 19,
+    "record_items": 19,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2011-11-28",
+    "agenda_items": 3,
+    "record_items": 4,
+    "matched": 2,
+    "same_number": 2,
+    "agenda_only": 1,
+    "record_only": 3,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2011-12-05",
+    "agenda_items": 13,
+    "record_items": 13,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 1,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2012-01-23",
+    "agenda_items": 9,
+    "record_items": 9,
+    "matched": 6,
+    "same_number": 6,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2012-03-26",
+    "agenda_items": 14,
+    "record_items": 14,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2012-06-11",
+    "agenda_items": 14,
+    "record_items": 14,
+    "matched": 11,
+    "same_number": 11,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2012-07-23",
+    "agenda_items": 18,
+    "record_items": 18,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 2,
+    "record_only": 3,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2012-10-15",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 22,
+    "same_number": 22,
+    "agenda_only": 2,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2012-12-17",
+    "agenda_items": 17,
+    "record_items": 17,
+    "matched": 14,
+    "same_number": 14,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2013-01-28",
+    "agenda_items": 11,
+    "record_items": 9,
+    "matched": 10,
+    "same_number": 10,
+    "agenda_only": 1,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2013-02-04",
+    "agenda_items": 3,
+    "record_items": 3,
+    "matched": 2,
+    "same_number": 2,
+    "agenda_only": 1,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2013-03-18",
+    "agenda_items": 9,
+    "record_items": 9,
+    "matched": 5,
+    "same_number": 5,
+    "agenda_only": 4,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2013-05-13",
+    "agenda_items": 16,
+    "record_items": 16,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 4,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2013-07-15",
+    "agenda_items": 17,
+    "record_items": 17,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 1,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2013-10-14",
+    "agenda_items": 31,
+    "record_items": 27,
+    "matched": 28,
+    "same_number": 28,
+    "agenda_only": 3,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2013-12-16",
+    "agenda_items": 20,
+    "record_items": 20,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 4,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-01-27",
+    "agenda_items": 5,
+    "record_items": 5,
+    "matched": 4,
+    "same_number": 4,
+    "agenda_only": 1,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-04-07",
+    "agenda_items": 11,
+    "record_items": 11,
+    "matched": 10,
+    "same_number": 10,
+    "agenda_only": 1,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-06-02",
+    "agenda_items": 13,
+    "record_items": 13,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 1,
+    "record_only": 4,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-07-14",
+    "agenda_items": 15,
+    "record_items": 15,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 2,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-07-28",
+    "agenda_items": 30,
+    "record_items": 30,
+    "matched": 28,
+    "same_number": 28,
+    "agenda_only": 2,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-10-20",
+    "agenda_items": 34,
+    "record_items": 34,
+    "matched": 31,
+    "same_number": 31,
+    "agenda_only": 3,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-11-17",
+    "agenda_items": 4,
+    "record_items": 7,
+    "matched": 3,
+    "same_number": 3,
+    "agenda_only": 1,
+    "record_only": 5,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2014-12-22",
+    "agenda_items": 19,
+    "record_items": 19,
+    "matched": 17,
+    "same_number": 17,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2015-01-26",
+    "agenda_items": 7,
+    "record_items": 7,
+    "matched": 5,
+    "same_number": 5,
+    "agenda_only": 2,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2015-03-23",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 21,
+    "same_number": 21,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2015-05-18",
+    "agenda_items": 20,
+    "record_items": 20,
+    "matched": 17,
+    "same_number": 17,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2015-07-27",
+    "agenda_items": 25,
+    "record_items": 25,
+    "matched": 23,
+    "same_number": 23,
+    "agenda_only": 2,
+    "record_only": 3,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2015-10-26",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 22,
+    "same_number": 22,
+    "agenda_only": 2,
+    "record_only": 5,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2015-12-14",
+    "agenda_items": 21,
+    "record_items": 21,
+    "matched": 18,
+    "same_number": 18,
+    "agenda_only": 3,
+    "record_only": 5,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2016-02-01",
+    "agenda_items": 9,
+    "record_items": 9,
+    "matched": 8,
+    "same_number": 8,
+    "agenda_only": 1,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2016-03-21",
+    "agenda_items": 16,
+    "record_items": 16,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 3,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2016-05-09",
+    "agenda_items": 15,
+    "record_items": 15,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2016-06-20",
+    "agenda_items": 5,
+    "record_items": 5,
+    "matched": 4,
+    "same_number": 4,
+    "agenda_only": 1,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2016-07-25",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 22,
+    "same_number": 22,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2016-10-24",
+    "agenda_items": 19,
+    "record_items": 19,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2016-12-19",
+    "agenda_items": 18,
+    "record_items": 18,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 2,
+    "record_only": 3,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2017-01-30",
+    "agenda_items": 8,
+    "record_items": 8,
+    "matched": 6,
+    "same_number": 6,
+    "agenda_only": 2,
+    "record_only": 4,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2017-03-27",
+    "agenda_items": 14,
+    "record_items": 14,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2017-05-22",
+    "agenda_items": 10,
+    "record_items": 10,
+    "matched": 8,
+    "same_number": 8,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2017-07-24",
+    "agenda_items": 24,
+    "record_items": 14,
+    "matched": 21,
+    "same_number": 20,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 2
+   },
+   {
+    "date": "2017-10-23",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 21,
+    "same_number": 21,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2017-12-18",
+    "agenda_items": 11,
+    "record_items": 11,
+    "matched": 9,
+    "same_number": 9,
+    "agenda_only": 2,
+    "record_only": 4,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-01-29",
+    "agenda_items": 10,
+    "record_items": 10,
+    "matched": 9,
+    "same_number": 9,
+    "agenda_only": 1,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-03-19",
+    "agenda_items": 8,
+    "record_items": 8,
+    "matched": 6,
+    "same_number": 6,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-05-07",
+    "agenda_items": 14,
+    "record_items": 14,
+    "matched": 11,
+    "same_number": 11,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-07-23",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 20,
+    "same_number": 20,
+    "agenda_only": 4,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-10-22",
+    "agenda_items": 22,
+    "record_items": 22,
+    "matched": 17,
+    "same_number": 17,
+    "agenda_only": 5,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-11-12",
+    "agenda_items": 3,
+    "record_items": 3,
+    "matched": 2,
+    "same_number": 2,
+    "agenda_only": 1,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-11-26",
+    "agenda_items": 3,
+    "record_items": 7,
+    "matched": 2,
+    "same_number": 2,
+    "agenda_only": 1,
+    "record_only": 6,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2018-12-17",
+    "agenda_items": 14,
+    "record_items": 14,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2019-02-18",
+    "agenda_items": 12,
+    "record_items": 12,
+    "matched": 10,
+    "same_number": 10,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2019-03-25",
+    "agenda_items": 2,
+    "record_items": 2,
+    "matched": 1,
+    "same_number": 1,
+    "agenda_only": 1,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2019-04-01",
+    "agenda_items": 9,
+    "record_items": 9,
+    "matched": 7,
+    "same_number": 7,
+    "agenda_only": 2,
+    "record_only": 4,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2019-05-20",
+    "agenda_items": 9,
+    "record_items": 9,
+    "matched": 8,
+    "same_number": 8,
+    "agenda_only": 1,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2019-07-15",
+    "agenda_items": 10,
+    "record_items": 10,
+    "matched": 7,
+    "same_number": 7,
+    "agenda_only": 3,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2019-12-09",
+    "agenda_items": 17,
+    "record_items": 17,
+    "matched": 11,
+    "same_number": 11,
+    "agenda_only": 6,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2020-02-10",
+    "agenda_items": 12,
+    "record_items": 12,
+    "matched": 10,
+    "same_number": 10,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2020-05-25",
+    "agenda_items": 13,
+    "record_items": 13,
+    "matched": 11,
+    "same_number": 11,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2020-07-27",
+    "agenda_items": 20,
+    "record_items": 21,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 4,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2020-10-19",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 22,
+    "same_number": 22,
+    "agenda_only": 2,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2020-12-07",
+    "agenda_items": 16,
+    "record_items": 16,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2021-03-22",
+    "agenda_items": 21,
+    "record_items": 21,
+    "matched": 15,
+    "same_number": 15,
+    "agenda_only": 6,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2021-05-17",
+    "agenda_items": 12,
+    "record_items": 12,
+    "matched": 9,
+    "same_number": 9,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2021-07-26",
+    "agenda_items": 21,
+    "record_items": 21,
+    "matched": 18,
+    "same_number": 18,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2021-10-18",
+    "agenda_items": 24,
+    "record_items": 24,
+    "matched": 19,
+    "same_number": 19,
+    "agenda_only": 5,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2022-03-21",
+    "agenda_items": 14,
+    "record_items": 14,
+    "matched": 9,
+    "same_number": 9,
+    "agenda_only": 5,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2022-05-30",
+    "agenda_items": 21,
+    "record_items": 21,
+    "matched": 17,
+    "same_number": 17,
+    "agenda_only": 4,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2022-07-18",
+    "agenda_items": 30,
+    "record_items": 30,
+    "matched": 27,
+    "same_number": 27,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2022-12-05",
+    "agenda_items": 19,
+    "record_items": 19,
+    "matched": 17,
+    "same_number": 17,
+    "agenda_only": 2,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2023-03-20",
+    "agenda_items": 17,
+    "record_items": 17,
+    "matched": 14,
+    "same_number": 14,
+    "agenda_only": 3,
+    "record_only": 6,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2023-05-22",
+    "agenda_items": 20,
+    "record_items": 20,
+    "matched": 15,
+    "same_number": 15,
+    "agenda_only": 5,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2023-07-17",
+    "agenda_items": 23,
+    "record_items": 23,
+    "matched": 19,
+    "same_number": 19,
+    "agenda_only": 4,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2023-10-23",
+    "agenda_items": 23,
+    "record_items": 23,
+    "matched": 19,
+    "same_number": 19,
+    "agenda_only": 4,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2023-12-11",
+    "agenda_items": 22,
+    "record_items": 22,
+    "matched": 18,
+    "same_number": 18,
+    "agenda_only": 4,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2023-12-18",
+    "agenda_items": 3,
+    "record_items": 6,
+    "matched": 3,
+    "same_number": 3,
+    "agenda_only": 0,
+    "record_only": 4,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 1
+   },
+   {
+    "date": "2024-03-11",
+    "agenda_items": 16,
+    "record_items": 16,
+    "matched": 12,
+    "same_number": 12,
+    "agenda_only": 4,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2024-05-13",
+    "agenda_items": 16,
+    "record_items": 12,
+    "matched": 14,
+    "same_number": 14,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2024-07-15",
+    "agenda_items": 18,
+    "record_items": 18,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 2,
+    "record_only": 0,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2024-09-23",
+    "agenda_items": 7,
+    "record_items": 7,
+    "matched": 7,
+    "same_number": 7,
+    "agenda_only": 0,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2024-11-04",
+    "agenda_items": 17,
+    "record_items": 21,
+    "matched": 16,
+    "same_number": 16,
+    "agenda_only": 1,
+    "record_only": 5,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2024-12-09",
+    "agenda_items": 28,
+    "record_items": 23,
+    "matched": 26,
+    "same_number": 26,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2025-05-26",
+    "agenda_items": 16,
+    "record_items": 16,
+    "matched": 15,
+    "same_number": 15,
+    "agenda_only": 1,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2025-07-21",
+    "agenda_items": 18,
+    "record_items": 18,
+    "matched": 15,
+    "same_number": 15,
+    "agenda_only": 3,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2025-10-20",
+    "agenda_items": 15,
+    "record_items": 15,
+    "matched": 13,
+    "same_number": 13,
+    "agenda_only": 2,
+    "record_only": 3,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2025-12-08",
+    "agenda_items": 25,
+    "record_items": 25,
+    "matched": 22,
+    "same_number": 22,
+    "agenda_only": 3,
+    "record_only": 1,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   },
+   {
+    "date": "2026-03-16",
+    "agenda_items": 19,
+    "record_items": 19,
+    "matched": 17,
+    "same_number": 17,
+    "agenda_only": 2,
+    "record_only": 2,
+    "record_in_agenda_order": true,
+    "withdrawn_in_record": 0
+   }
+  ]
+ },
+ "M4_outcome_by_type": {
+  "other subject item": {
+   "items": 415,
+   "formula_only_share": 0.63,
+   "outcomes": {
+    "unanimous": 166,
+    "several decisions": 105,
+    "majority": 47,
+    "unanimous with abstentions": 33,
+    "no decision (formula or copied list)": 31,
+    "noted (Kenntnisnahme formula)": 20,
+    "withdrawn": 10,
+    "other label": 2,
+    "rejected": 1
+   }
+  },
+  "budget and finance": {
+   "items": 285,
+   "formula_only_share": 0.68,
+   "outcomes": {
+    "unanimous": 121,
+    "several decisions": 72,
+    "noted (Kenntnisnahme formula)": 44,
+    "majority": 19,
+    "no decision (formula or copied list)": 16,
+    "unanimous with abstentions": 11,
+    "withdrawn": 1,
+    "rejected": 1
+   }
+  },
+  "membership, elections, appointments": {
+   "items": 149,
+   "formula_only_share": 0.83,
+   "outcomes": {
+    "unanimous": 112,
+    "several decisions": 20,
+    "no decision (formula or copied list)": 8,
+    "unanimous with abstentions": 4,
+    "majority": 3,
+    "other label": 1,
+    "rejected": 1
+   }
+  },
+  "closing: miscellaneous, questions": {
+   "items": 87,
+   "formula_only_share": 0.98,
+   "outcomes": {
+    "no decision (formula or copied list)": 66,
+    "noted (Kenntnisnahme formula)": 19,
+    "rejected": 1,
+    "several decisions": 1
+   }
+  },
+  "report, presentation": {
+   "items": 71,
+   "formula_only_share": 0.93,
+   "outcomes": {
+    "noted (Kenntnisnahme formula)": 43,
+    "unanimous": 14,
+    "no decision (formula or copied list)": 6,
+    "several decisions": 5,
+    "unanimous with abstentions": 3
+   }
+  },
+  "opening: formal approval": {
+   "items": 62,
+   "formula_only_share": 0.76,
+   "outcomes": {
+    "unanimous": 38,
+    "other label": 8,
+    "no decision (formula or copied list)": 8,
+    "several decisions": 7,
+    "noted (Kenntnisnahme formula)": 1
+   }
+  },
+  "opening: non-public decisions announced": {
+   "items": 59,
+   "formula_only_share": 1.0,
+   "outcomes": {
+    "no decision (formula or copied list)": 54,
+    "noted (Kenntnisnahme formula)": 3,
+    "unanimous": 2
+   }
+  },
+  "statute, rules": {
+   "items": 45,
+   "formula_only_share": 0.67,
+   "outcomes": {
+    "unanimous": 24,
+    "several decisions": 9,
+    "majority": 6,
+    "unanimous with abstentions": 3,
+    "no decision (formula or copied list)": 3
+   }
+  },
+  "motion by a group": {
+   "items": 36,
+   "formula_only_share": 0.69,
+   "outcomes": {
+    "unanimous": 13,
+    "several decisions": 6,
+    "unanimous with abstentions": 5,
+    "noted (Kenntnisnahme formula)": 5,
+    "majority": 3,
+    "rejected": 2,
+    "no decision (formula or copied list)": 2
+   }
+  },
+  "residents' question time": {
+   "items": 5,
+   "formula_only_share": 1.0,
+   "outcomes": {
+    "no decision (formula or copied list)": 5
+   }
+  }
+ },
+ "M4_outcome_all": {
+  "items": 1214,
+  "outcomes": {
+   "unanimous": 490,
+   "several decisions": 225,
+   "no decision (formula or copied list)": 199,
+   "noted (Kenntnisnahme formula)": 135,
+   "majority": 78,
+   "unanimous with abstentions": 59,
+   "other label": 11,
+   "withdrawn": 11,
+   "rejected": 6
+  },
+  "formula_only": 894
+ },
+ "M5_predict_formula_from_title": {
+  "train": "2011–2021",
+  "test": "2022–2026",
+  "train_items": 883,
+  "test_items": 331,
+  "train_formula_share_by_type": {
+   "opening: non-public decisions announced": {
+    "share": 1.0,
+    "items": 41
+   },
+   "closing: miscellaneous, questions": {
+    "share": 0.97,
+    "items": 67
+   },
+   "report, presentation": {
+    "share": 0.92,
+    "items": 53
+   },
+   "membership, elections, appointments": {
+    "share": 0.87,
+    "items": 102
+   },
+   "opening: formal approval": {
+    "share": 0.67,
+    "items": 46
+   },
+   "statute, rules": {
+    "share": 0.66,
+    "items": 35
+   },
+   "budget and finance": {
+    "share": 0.66,
+    "items": 209
+   },
+   "other subject item": {
+    "share": 0.64,
+    "items": 306
+   },
+   "motion by a group": {
+    "share": 0.62,
+    "items": 24
+   }
+  },
+  "test_formula_share": 0.749,
+  "majority_baseline_accuracy": 0.749,
+  "rule_types_with_train_share_>=0.5": {
+   "types": [
+    "budget and finance",
+    "closing: miscellaneous, questions",
+    "membership, elections, appointments",
+    "motion by a group",
+    "opening: formal approval",
+    "opening: non-public decisions announced",
+    "other subject item",
+    "report, presentation",
+    "statute, rules"
+   ],
+   "test_items_covered": 326,
+   "coverage": 0.985,
+   "precision_formula": 0.745
+  },
+  "rule_types_with_train_share_>=0.9": {
+   "types": [
+    "closing: miscellaneous, questions",
+    "opening: non-public decisions announced",
+    "report, presentation"
+   ],
+   "test_items_covered": 56,
+   "coverage": 0.169,
+   "precision_formula": 0.982
+  },
+  "rule_types_with_train_share_>=0.95": {
+   "types": [
+    "closing: miscellaneous, questions",
+    "opening: non-public decisions announced"
+   ],
+   "test_items_covered": 38,
+   "coverage": 0.115,
+   "precision_formula": 1.0
+  }
+ },
+ "M6_label_style": {
+  "majority_labels_by_year": {
+   "2011": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 11,
+    "other": 4
+   },
+   "2012": {
+    "other": 8,
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 13,
+    "mehrheitlich (other)": 1
+   },
+   "2013": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 13,
+    "other": 3
+   },
+   "2014": {
+    "other": 4,
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 18
+   },
+   "2015": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 9,
+    "other": 1
+   },
+   "2016": {
+    "other": 4,
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 4
+   },
+   "2017": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 8,
+    "other": 2
+   },
+   "2018": {
+    "other": 4,
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 9
+   },
+   "2019": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 10,
+    "other": 4
+   },
+   "2020": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 16,
+    "other": 5
+   },
+   "2021": {
+    "Mehrheit der Ja-Stimmen gegen N Nein-Stimmen": 14,
+    "other": 1
+   },
+   "2022": {
+    "mehrheitliche Ja-Stimmen, N Gegenstimmen": 6,
+    "mehrheitlich (other)": 2
+   },
+   "2023": {
+    "mehrheitliche Ja-Stimmen, N Gegenstimmen": 17,
+    "mehrheitlich (other)": 1
+   },
+   "2024": {
+    "mehrheitliche Ja-Stimmen, N Gegenstimmen": 20,
+    "mehrheitlich (other)": 3
+   },
+   "2025": {
+    "mehrheitlich (other)": 3,
+    "mehrheitliche Ja-Stimmen, N Gegenstimmen": 19
+   },
+   "2026": {
+    "mehrheitliche Ja-Stimmen, N Gegenstimmen": 3
+   }
+  },
+  "einvernehmen_by_year": {
+   "2025": 5
+  },
+  "kenntnisnahme_formula": {
+   "Der Kreistag nimmt … zur Kenntnis | 2009–2014": 2,
+   "Der Kreistag nimmt … zur Kenntnis | 2015–2019": 5,
+   "Die Mitglieder des Kreistags nehmen … zur Kenntnis | 2009–2014": 34,
+   "Die Mitglieder des Kreistags nehmen … zur Kenntnis | 2015–2019": 45,
+   "Die Mitglieder des Kreistags nehmen … zur Kenntnis | 2020–2023": 46,
+   "Die Mitglieder des Kreistags nehmen … zur Kenntnis | 2024–2026": 30
+  }
+ },
+ "M7_vocabulary": {
+  "items_with_decision_text": 1201,
+  "title_stems_median": 6.0,
+  "decision_stems_median": 25,
+  "share_new_in_decision_median": 0.88,
+  "most_widespread_stems": [
+   [
+    "konstanz",
+    0.56
+   ],
+   [
+    "kreistag",
+    0.48
+   ],
+   [
+    "landkrei",
+    0.42
+   ],
+   [
+    "entfällt",
+    0.31
+   ],
+   [
+    "landkreis",
+    0.29
+   ],
+   [
+    "name",
+    0.27
+   ],
+   [
+    "vorsitzend",
+    0.24
+   ],
+   [
+    "mitglied",
+    0.23
+   ],
+   [
+    "zugestimmt",
+    0.22
+   ],
+   [
+    "sitz",
+    0.2
+   ],
+   [
+    "kenntni",
+    0.2
+   ],
+   [
+    "beauftragt",
+    0.18
+   ],
+   [
+    "weiter",
+    0.17
+   ],
+   [
+    "verwalt",
+    0.16
+   ],
+   [
+    "jahr",
+    0.16
+   ]
+  ]
+ },
+ "M8_planned_minutes": {
+  "agendas_with_times": 19,
+  "items_with_time": 296,
+  "first": "2022-05-30",
+  "by_type": {
+   "report, presentation": {
+    "items": 24,
+    "median_min": 10.0,
+    "max_min": 45
+   },
+   "motion by a group": {
+    "items": 13,
+    "median_min": 10,
+    "max_min": 30
+   },
+   "other subject item": {
+    "items": 112,
+    "median_min": 5.0,
+    "max_min": 50
+   },
+   "budget and finance": {
+    "items": 73,
+    "median_min": 5,
+    "max_min": 60
+   },
+   "closing: miscellaneous, questions": {
+    "items": 1,
+    "median_min": 5,
+    "max_min": 5
+   },
+   "membership, elections, appointments": {
+    "items": 38,
+    "median_min": 4.0,
+    "max_min": 15
+   },
+   "statute, rules": {
+    "items": 11,
+    "median_min": 2,
+    "max_min": 15
+   },
+   "opening: non-public decisions announced": {
+    "items": 14,
+    "median_min": 1.5,
+    "max_min": 5
+   },
+   "opening: formal approval": {
+    "items": 10,
+    "median_min": 1.0,
+    "max_min": 1
+   }
+  },
+  "session_total_median_min": 137,
+  "minutes_by_outcome": {
+   "majority": {
+    "items": 30,
+    "median_min": 5.0
+   },
+   "no decision (formula or copied list)": {
+    "items": 33,
+    "median_min": 5
+   },
+   "noted (Kenntnisnahme formula)": {
+    "items": 46,
+    "median_min": 10.0
+   },
+   "rejected": {
+    "items": 3,
+    "median_min": 7
+   },
+   "several decisions": {
+    "items": 34,
+    "median_min": 5.0
+   },
+   "unanimous": {
+    "items": 101,
+    "median_min": 3
+   },
+   "unanimous with abstentions": {
+    "items": 13,
+    "median_min": 5
+   },
+   "withdrawn": {
+    "items": 2,
+    "median_min": 25.0
+   }
+  }
+ },
+ "M9_mood": {
+  "2009–2014": {
+   "Konjunktiv": 26,
+   "Indikativ": 15,
+   "konjunktiv_share": 0.634
+  },
+  "2015–2019": {
+   "Indikativ": 32,
+   "Konjunktiv": 4,
+   "konjunktiv_share": 0.111
+  },
+  "2020–2023": {
+   "Indikativ": 38,
+   "Konjunktiv": 1,
+   "konjunktiv_share": 0.026
+  },
+  "2024–2026": {
+   "Indikativ": 14,
+   "konjunktiv_share": 0.0
+  }
+ }
+}

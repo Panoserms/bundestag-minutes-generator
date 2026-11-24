@@ -1,0 +1,4140 @@
+{
+ "sid": "21085",
+ "system": "C",
+ "items": [
+  {
+   "id": "TOP 1",
+   "label": "Punkt 1 der Tagesordnung",
+   "title": "Befragung der Bundesregierung",
+   "drucksachen": [],
+   "kind": "qa",
+   "section": "main",
+   "debate_owner": "TOP 1",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID218500100",
+     "words_source": 667,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich möchte die Gelegenheit am heutigen Nachmittag nutzen, um den Mitgliedern dieser Kommission, insbesondere den beiden Vorsitzenden, Herrn Frank-Jürgen Weise und Frau Professor Constanze Janda, herzlichen Dank zu sagen für die großartige Arbeit, die sie in dieser Kommission im letzten halben Jahr geleistet haben.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, erklärte: „Ich möchte die Gelegenheit am heutigen Nachmittag nutzen, um den Mitgliedern dieser Kommission, insbesondere den beiden Vorsitzenden, Herrn Frank-Jürgen Weise und Frau Professor Constanze Janda, herzlichen Dank zu sagen für die großartige Arbeit, die sie in dieser Kommission im letzten halben Jahr geleistet haben.“"
+      },
+      {
+       "type": "quote",
+       "text": "Dies ist ein großer Schritt, wenn wir ihn denn hier im Deutschen Bundestag gemeinsam zum Jahresende verabreden und die Reform verabschieden sollten – ein großer Schritt hin zu einem wirklich neuen System unserer Altersversorgung.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Dies ist ein großer Schritt, wenn wir ihn denn hier im Deutschen Bundestag gemeinsam zum Jahresende verabreden und die Reform verabschieden sollten – ein großer Schritt hin zu einem wirklich neuen System unserer Altersversorgung.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Leif-Erik Holm",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218500200",
+     "words_source": 109,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ist Ihre Regierung nicht bereits gescheitert?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Leif-Erik Holm (AfD) fragte: „Ist Ihre Regierung nicht bereits gescheitert?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218500300",
+     "words_source": 38,
+     "parts": []
+    },
+    {
+     "speaker": "Leif-Erik Holm",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218500400",
+     "words_source": 87,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ist es nicht Zeit, diesen Spuk endlich zu beenden?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Leif-Erik Holm (AfD) wollte wissen: „Ist es nicht Zeit, diesen Spuk endlich zu beenden?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218500500",
+     "words_source": 65,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Friedrich Merz, Bundeskanzler wandte sich an die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler wandte sich an die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Sebastian Roloff",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218500600",
+     "words_source": 130,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Setzen Sie sich mit uns zusammen für eine starke verbindliche „Buy European“-Maxime gegen unfairen Subventionsdruck aus China ein?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Sebastian Roloff (SPD) fragte: „Setzen Sie sich mit uns zusammen für eine starke verbindliche „Buy European“-Maxime gegen unfairen Subventionsdruck aus China ein?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218500700",
+     "words_source": 185,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das ist kein fairer Wettbewerb mehr, und gegen diesen Teil des Wettbewerbs, den unfairen Teil des Wettbewerbs, –",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Das ist kein fairer Wettbewerb mehr, und gegen diesen Teil des Wettbewerbs, den unfairen Teil des Wettbewerbs, –“"
+      }
+     ]
+    },
+    {
+     "speaker": "Sebastian Roloff",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218500800",
+     "words_source": 90,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können Sie sich vorstellen, dass so was Schule macht, oder war das eher ein Einzelfall auf Basis dessen, was Sie gerade als Ihre Linie im Europäischen Rat skizziert haben?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Sebastian Roloff (SPD) fragte: „Können Sie sich vorstellen, dass so was Schule macht, oder war das eher ein Einzelfall auf Basis dessen, was Sie gerade als Ihre Linie im Europäischen Rat skizziert haben?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218500900",
+     "words_source": 113,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich möchte nicht, dass wir hier in Deutschland alleine Entscheidungen treffen, sondern dass wir die Handelspolitik immer eng abstimmen mit unseren europäischen Partnern, und genau das tun wir zurzeit in der Europäischen Union.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Ich möchte nicht, dass wir hier in Deutschland alleine Entscheidungen treffen, sondern dass wir die Handelspolitik immer eng abstimmen mit unseren europäischen Partnern, und genau das tun wir zurzeit in der Europäischen Union.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Katharina Dröge",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218501000",
+     "words_source": 158,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Herr Bundeskanzler, Sie sprechen von Reformen, doch an vielen Stellen ist die Politik Ihrer Regierung eine harte Sparpolitik zulasten derjenigen, die am dringendsten unsere Unterstützung bräuchten.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Katharina Dröge (BÜNDNIS 90/DIE GRÜNEN) fragte: „Herr Bundeskanzler, Sie sprechen von Reformen, doch an vielen Stellen ist die Politik Ihrer Regierung eine harte Sparpolitik zulasten derjenigen, die am dringendsten unsere Unterstützung bräuchten.“"
+      },
+      {
+       "type": "quote",
+       "text": "Deswegen, Herr Bundeskanzler, bitte ich Sie, darüber noch einmal nachzudenken und diese Politik zu korrigieren.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Deswegen, Herr Bundeskanzler, bitte ich Sie, darüber noch einmal nachzudenken und diese Politik zu korrigieren.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218501100",
+     "words_source": 167,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Reform der gesetzlichen Krankenversicherung und die Reform der Pflegeversicherung.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Die Reform der gesetzlichen Krankenversicherung und die Reform der Pflegeversicherung.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Katharina Dröge",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218501200",
+     "words_source": 119,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das sind konkrete Vorschläge, die zu mehr Gerechtigkeit in unserem Land führen.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Katharina Dröge (BÜNDNIS 90/DIE GRÜNEN) fragte: „Das sind konkrete Vorschläge, die zu mehr Gerechtigkeit in unserem Land führen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218501300",
+     "words_source": 73,
+     "parts": []
+    },
+    {
+     "speaker": "Jürgen Hardt",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218501400",
+     "words_source": 175,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie bereitet sich die Bundesregierung darauf vor, dass wir vielleicht in eine neue Phase dieses schwierigen Konflikts eintreten?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Jürgen Hardt (CDU/CSU) wollte wissen: „Wie bereitet sich die Bundesregierung darauf vor, dass wir vielleicht in eine neue Phase dieses schwierigen Konflikts eintreten?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218501500",
+     "words_source": 188,
+     "parts": []
+    },
+    {
+     "speaker": "Jürgen Hardt",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218501600",
+     "words_source": 57,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Gibt es Bemühungen der Bundesregierung, den Kreis derer, die die Ukraine auch in diesem Sinne unterstützen, zu erweitern?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Jürgen Hardt (CDU/CSU) fragte: „Gibt es Bemühungen der Bundesregierung, den Kreis derer, die die Ukraine auch in diesem Sinne unterstützen, zu erweitern?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218501700",
+     "words_source": 82,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben in der letzten Woche, am Ende des G7-Treffens in Évian, erstmalig mit dem amerikanischen Präsidenten ein gemeinsames sogenanntes Leaders’ Statement abgegeben – mit Beteiligung des amerikanischen Präsidenten –, das klar auch an Russland adressiert war und auch eine Aufforderung an Russland enthielt, den Krieg zu beenden.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Wir haben in der letzten Woche, am Ende des G7-Treffens in Évian, erstmalig mit dem amerikanischen Präsidenten ein gemeinsames sogenanntes Leaders’ Statement abgegeben – mit Beteiligung des amerikanischen Präsidenten –, das klar auch an Russland adressiert war und auch eine Aufforderung an Russland enthielt, den Krieg zu beenden.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Janine Wissler",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218501800",
+     "words_source": 168,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und sind Sie persönlich der Meinung, dass man mit 67, 68, 69 Jahren noch Busse und Lkws fahren kann, in der Pflege arbeiten kann oder Krankenhäuser putzen kann?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Janine Wissler (Die Linke) fragte: „Und sind Sie persönlich der Meinung, dass man mit 67, 68, 69 Jahren noch Busse und Lkws fahren kann, in der Pflege arbeiten kann oder Krankenhäuser putzen kann?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218501900",
+     "words_source": 151,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben von der Kommission Vorschläge gesehen – und die werden wir uns gegebenenfalls zu eigen machen –, das Renteneintrittsalter mit der Lebenserwartung zu verbinden und damit anzuheben.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Wir haben von der Kommission Vorschläge gesehen – und die werden wir uns gegebenenfalls zu eigen machen –, das Renteneintrittsalter mit der Lebenserwartung zu verbinden und damit anzuheben.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Janine Wissler",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218502000",
+     "words_source": 66,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können wir erwarten, dass der Abgeordnete Merz diesem Antrag zustimmt, oder wann ist mit einer Initiative aus den Regierungsfraktionen zu diesem Thema zu rechnen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Janine Wissler (Die Linke) fragte: „Können wir erwarten, dass der Abgeordnete Merz diesem Antrag zustimmt, oder wann ist mit einer Initiative aus den Regierungsfraktionen zu diesem Thema zu rechnen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218502100",
+     "words_source": 49,
+     "parts": []
+    },
+    {
+     "speaker": "Ulrike Schielke-Ziesing",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218502200",
+     "words_source": 121,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Meine Frage daher: Warum täuschen Sie hier die Öffentlichkeit?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Ulrike Schielke-Ziesing (AfD) wollte wissen: „Meine Frage daher: Warum täuschen Sie hier die Öffentlichkeit?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218502300",
+     "words_source": 108,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir machen es jetzt auf Basis der Vorschläge der Kommission.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Wir machen es jetzt auf Basis der Vorschläge der Kommission.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ulrike Schielke-Ziesing",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218502400",
+     "words_source": 115,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Warum finanzieren Sie die Kapitaldeckung nicht aus Steuermitteln?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Ulrike Schielke-Ziesing (AfD) fragte: „Warum finanzieren Sie die Kapitaldeckung nicht aus Steuermitteln?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218502500",
+     "words_source": 89,
+     "parts": []
+    },
+    {
+     "speaker": "Dr. Lina Seitzl",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218502600",
+     "words_source": 100,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können sich Studierende, junge Menschen in Ausbildung und ihre Familien darauf verlassen, dass die von der Koalition erzielten Einigungen nun auch wie vereinbart umgesetzt werden?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Dr. Lina Seitzl (SPD) wollte wissen: „Können sich Studierende, junge Menschen in Ausbildung und ihre Familien darauf verlassen, dass die von der Koalition erzielten Einigungen nun auch wie vereinbart umgesetzt werden?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218502700",
+     "words_source": 89,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben uns vorgenommen, den entsprechenden Kabinettsbeschluss im Monat Juli zu treffen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Wir haben uns vorgenommen, den entsprechenden Kabinettsbeschluss im Monat Juli zu treffen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Lina Seitzl",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218502800",
+     "words_source": 38,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Konkret gefragt: Mit welchen konkreten Leistungsverbesserungen können Studierende und Auszubildende im Wintersemester 2026/27 rechnen, und wieso ist es aus Ihrer Sicht wichtig, dass Studierende und Auszubildende bessere BAföG-Leistungen erhalten?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Lina Seitzl (SPD) fragte: „Konkret gefragt: Mit welchen konkreten Leistungsverbesserungen können Studierende und Auszubildende im Wintersemester 2026/27 rechnen, und wieso ist es aus Ihrer Sicht wichtig, dass Studierende und Auszubildende bessere BAföG-Leistungen erhalten?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218502900",
+     "words_source": 88,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich glaube, der zweite Teil der Frage beantwortet sich fast schon von selbst.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Ich glaube, der zweite Teil der Frage beantwortet sich fast schon von selbst.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Sara Nanni",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218503000",
+     "words_source": 151,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich frage Sie: Halten Sie das für angemessen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Sara Nanni (BÜNDNIS 90/DIE GRÜNEN) fragte: „Ich frage Sie: Halten Sie das für angemessen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503000",
+     "words_source": 1,
+     "parts": []
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503000",
+     "words_source": 1,
+     "parts": []
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503100",
+     "words_source": 97,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Frau Kollegin, sehen Sie es mir nach, wenn ich Ihnen widerspreche: Wir normalisieren dieses Regime nicht.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Frau Kollegin, sehen Sie es mir nach, wenn ich Ihnen widerspreche: Wir normalisieren dieses Regime nicht.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Sara Nanni",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218503200",
+     "words_source": 53,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was unterscheidet die Taliban von 2001 bis 2009 – zu diesen Zeitpunkten haben Sie zugestimmt, dass sie bekämpft werden müssen –, die deutsche Soldatinnen und Soldaten angegriffen haben und der größte Schreck für die Frauen im Land waren, was unterscheidet diese Taliban von den Taliban, denen Sie jetzt die Hand reichen, Herr Merz?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Sara Nanni (BÜNDNIS 90/DIE GRÜNEN) fragte: „Was unterscheidet die Taliban von 2001 bis 2009 – zu diesen Zeitpunkten haben Sie zugestimmt, dass sie bekämpft werden müssen –, die deutsche Soldatinnen und Soldaten angegriffen haben und der größte Schreck für die Frauen im Land waren, was unterscheidet diese Taliban von den Taliban, denen Sie jetzt die Hand reichen, Herr Merz?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503300",
+     "words_source": 67,
+     "parts": []
+    },
+    {
+     "speaker": "Marc Biadacz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218503400",
+     "words_source": 142,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was ist eigentlich eine Haltelinie, und was ist nachher das Niveau?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Marc Biadacz (CDU/CSU) wollte wissen: „Was ist eigentlich eine Haltelinie, und was ist nachher das Niveau?“"
+      },
+      {
+       "type": "quote",
+       "text": "Wie schnell können wir diese 33 Vorschläge in den parlamentarischen Beratungen dann auch umsetzen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Wie schnell können wir diese 33 Vorschläge in den parlamentarischen Beratungen dann auch umsetzen?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD und die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD und die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503500",
+     "words_source": 172,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich will da den parlamentarischen Beratungen nicht vorgreifen und auch nicht eingreifen; es ist Ihr gutes Recht, das dann auch ausführlich zu beraten.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Ich will da den parlamentarischen Beratungen nicht vorgreifen und auch nicht eingreifen; es ist Ihr gutes Recht, das dann auch ausführlich zu beraten.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Marc Biadacz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218503600",
+     "words_source": 80,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Teilen Sie dies ebenfalls, und unterstützen Sie es?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Marc Biadacz (CDU/CSU) fragte: „Teilen Sie dies ebenfalls, und unterstützen Sie es?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503700",
+     "words_source": 30,
+     "parts": []
+    },
+    {
+     "speaker": "Stella Merendino",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218503800",
+     "words_source": 99,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Warum setzt die Bundesregierung auf Einsparungen in der direkten Patientinnen- und Patientenversorgung, statt alle entsprechend ihrer finanziellen Leistungsfähigkeit an der Finanzierung unseres Gesundheitssystems zu beteiligen? Und können Sie den Menschen heute hier zusagen, dass es zu keinem Personalabbau und zu keiner Verschlechterung der Versorgung für die Patientinnen und Patienten kommen wird?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Stella Merendino (Die Linke) wollte wissen: „Warum setzt die Bundesregierung auf Einsparungen in der direkten Patientinnen- und Patientenversorgung, statt alle entsprechend ihrer finanziellen Leistungsfähigkeit an der Finanzierung unseres Gesundheitssystems zu beteiligen? Und können Sie den Menschen heute hier zusagen, dass es zu keinem Personalabbau und zu keiner Verschlechterung der Versorgung für die Patientinnen und Patienten kommen wird?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218503900",
+     "words_source": 147,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben eines der teuersten Gesundheitssysteme weltweit.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Wir haben eines der teuersten Gesundheitssysteme weltweit.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Stella Merendino",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218504000",
+     "words_source": 118,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Gibt es unter Ihnen tatsächlich diese Gespräche, beides abzuschaffen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stella Merendino (Die Linke) fragte: „Gibt es unter Ihnen tatsächlich diese Gespräche, beides abzuschaffen?“"
+      },
+      {
+       "type": "quote",
+       "text": "– und eigentlich wirklich jedem und jeder ins Gesicht spucken mit dieser Reform?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „– und eigentlich wirklich jedem und jeder ins Gesicht spucken mit dieser Reform?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218504100",
+     "words_source": 106,
+     "parts": []
+    },
+    {
+     "speaker": "Stefan Seidler",
+     "group": "fraktionslos",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218504200",
+     "words_source": 142,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deshalb meine Frage: Wie soll diese Größenordnung unsere Kommunen spürbar entlasten? Und welche Maßnahmen planen Sie, um die Länder und Kommunen nachhaltig zu stärken?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stefan Seidler (fraktionslos) fragte: „Deshalb meine Frage: Wie soll diese Größenordnung unsere Kommunen spürbar entlasten? Und welche Maßnahmen planen Sie, um die Länder und Kommunen nachhaltig zu stärken?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218504300",
+     "words_source": 187,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deswegen ist die Handlungsfähigkeit der Städte und Gemeinden auch für mich und für die Bundesregierung ein wirklich überragend wichtiges Ziel unserer Demokratie.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Deswegen ist die Handlungsfähigkeit der Städte und Gemeinden auch für mich und für die Bundesregierung ein wirklich überragend wichtiges Ziel unserer Demokratie.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Stefan Seidler",
+     "group": "fraktionslos",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218504300",
+     "words_source": 1,
+     "parts": []
+    },
+    {
+     "speaker": "Stefan Seidler",
+     "group": "fraktionslos",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218504400",
+     "words_source": 79,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können Sie mir erklären, ob das angemessen ist, ob das ein solidarischer Ausgleich ist? Und wieso bekommen die finanzstarken etwas mehr als die finanzschwachen Länder?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stefan Seidler (fraktionslos) fragte: „Können Sie mir erklären, ob das angemessen ist, ob das ein solidarischer Ausgleich ist? Und wieso bekommen die finanzstarken etwas mehr als die finanzschwachen Länder?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218504500",
+     "words_source": 96,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Herr Kollege, das hängt mit der komplizierten Mechanik des Bund-Länder-Finanzausgleiches zusammen und mit dem berechtigten Wunsch der sogenannten finanzstarken Länder, die hohe Beiträge in den Bund-Länder-Finanzausgleich einzahlen, an dieser Entlastung auch teilzunehmen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Herr Kollege, das hängt mit der komplizierten Mechanik des Bund-Länder-Finanzausgleiches zusammen und mit dem berechtigten Wunsch der sogenannten finanzstarken Länder, die hohe Beiträge in den Bund-Länder-Finanzausgleich einzahlen, an dieser Entlastung auch teilzunehmen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Götz Frömming",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218504600",
+     "words_source": 116,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie beurteilen Sie diese Aussage, und was bedeutet sie für Ihre künftige Zusammenarbeit mit der Linksfraktion hier im Bundestag und darüber hinaus?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Götz Frömming (AfD) fragte: „Wie beurteilen Sie diese Aussage, und was bedeutet sie für Ihre künftige Zusammenarbeit mit der Linksfraktion hier im Bundestag und darüber hinaus?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218504700",
+     "words_source": 109,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber eine Zusammenarbeit mit der Linkspartei gibt es nicht, und sie wird es auch in Zukunft nicht geben.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Aber eine Zusammenarbeit mit der Linkspartei gibt es nicht, und sie wird es auch in Zukunft nicht geben.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Götz Frömming",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218504800",
+     "words_source": 118,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können Sie uns bitte sagen, dass es keine weiteren Formen dieser Art von Zusammenarbeit nach den Landtagswahlen im September geben wird? Wird es möglicherweise eine Koalition zwischen CDU und Linksfraktion in Sachsen-Anhalt geben oder andere Formen der Zusammenarbeit?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Götz Frömming (AfD) fragte: „Können Sie uns bitte sagen, dass es keine weiteren Formen dieser Art von Zusammenarbeit nach den Landtagswahlen im September geben wird? Wird es möglicherweise eine Koalition zwischen CDU und Linksfraktion in Sachsen-Anhalt geben oder andere Formen der Zusammenarbeit?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218504900",
+     "words_source": 94,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und das hat mit einer Koalition oder einer ähnlichen Zusammenarbeit nun wahrlich gar nichts zu tun.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Und das hat mit einer Koalition oder einer ähnlichen Zusammenarbeit nun wahrlich gar nichts zu tun.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Schätzl",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218505000",
+     "words_source": 99,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Teilen Sie die Einschätzung, dass es ein Fehler wäre, wenn wir nicht bereits jetzt, wenn im aktuellen Mobilfunknetz Antennen getauscht werden, darauf achten würden, dass wir den Anteil an chinesischen Komponenten reduzieren?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Schätzl (SPD) fragte: „Teilen Sie die Einschätzung, dass es ein Fehler wäre, wenn wir nicht bereits jetzt, wenn im aktuellen Mobilfunknetz Antennen getauscht werden, darauf achten würden, dass wir den Anteil an chinesischen Komponenten reduzieren?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218505100",
+     "words_source": 151,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber ich weiß aus den betroffenen Unternehmen, dass sie schon jetzt dabei sind, die Komponenten, wo immer möglich, auszutauschen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Aber ich weiß aus den betroffenen Unternehmen, dass sie schon jetzt dabei sind, die Komponenten, wo immer möglich, auszutauschen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Schätzl",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218505200",
+     "words_source": 61,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ist deswegen der Handlungsdruck nicht noch größer, wenn wir über die sicherheitspolitische Lage reden, wenn wir wissen, dass auch beispielsweise eine Drohnenabwehr über das Mobilfunknetz abgewickelt werden soll? Und meine konkrete Frage: Was sind die nächsten Schritte?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Schätzl (SPD) fragte: „Ist deswegen der Handlungsdruck nicht noch größer, wenn wir über die sicherheitspolitische Lage reden, wenn wir wissen, dass auch beispielsweise eine Drohnenabwehr über das Mobilfunknetz abgewickelt werden soll? Und meine konkrete Frage: Was sind die nächsten Schritte?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218505300",
+     "words_source": 103,
+     "parts": []
+    },
+    {
+     "speaker": "Michael Kellner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218505400",
+     "words_source": 143,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das heißt, Ihre Biografie müsste Sie eigentlich sehr gut vorbereitet haben auf meine Frage: Wollen Sie nicht nur der Bundeskanzler sein, der im Kabinett ein möglicherweise verfassungswidriges Gesetz durchgewunken hat, sondern wollen Sie dieses Heizungsgesetz auch noch im Deutschen Bundestag beschließen, so industriefeindlich, wie es ist? Und wollen Sie als Großvater eigentlich das Klima schrotten, nur weil Sie Robert Habeck nicht leiden können?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Michael Kellner (BÜNDNIS 90/DIE GRÜNEN) wollte wissen: „Das heißt, Ihre Biografie müsste Sie eigentlich sehr gut vorbereitet haben auf meine Frage: Wollen Sie nicht nur der Bundeskanzler sein, der im Kabinett ein möglicherweise verfassungswidriges Gesetz durchgewunken hat, sondern wollen Sie dieses Heizungsgesetz auch noch im Deutschen Bundestag beschließen, so industriefeindlich, wie es ist? Und wollen Sie als Großvater eigentlich das Klima schrotten, nur weil Sie Robert Habeck nicht leiden können?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218505500",
+     "words_source": 96,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich habe auch aus meiner früheren Tätigkeit als Richter am Amtsgericht in Saarbrücken keinerlei Veranlassung, an der Richtigkeit der Aussage zu zweifeln, die heute aus dem BMJV und aus dem BMI kommt.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Ich habe auch aus meiner früheren Tätigkeit als Richter am Amtsgericht in Saarbrücken keinerlei Veranlassung, an der Richtigkeit der Aussage zu zweifeln, die heute aus dem BMJV und aus dem BMI kommt.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Michael Kellner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218505600",
+     "words_source": 63,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sind Sie davon überzeugt, dass dieses Gesetz, so wie es ist, verfassungsgemäß ist?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Michael Kellner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Sind Sie davon überzeugt, dass dieses Gesetz, so wie es ist, verfassungsgemäß ist?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218505700",
+     "words_source": 54,
+     "parts": []
+    },
+    {
+     "speaker": "Tilman Kuban",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218505800",
+     "words_source": 104,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Herr Bundeskanzler, Sie haben in der letzten Woche sowohl beim G7-Gipfel als auch beim Europäischen Rat das Thema Wettbewerbsfähigkeit ganz oben auf die Tagesordnung gesetzt.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Tilman Kuban (CDU/CSU) wollte wissen: „Herr Bundeskanzler, Sie haben in der letzten Woche sowohl beim G7-Gipfel als auch beim Europäischen Rat das Thema Wettbewerbsfähigkeit ganz oben auf die Tagesordnung gesetzt.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218505900",
+     "words_source": 214,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deswegen habe ich auch darauf Wert gelegt, dass wir schnell zu einer Entscheidung über das Handelsabkommen mit Indien kommen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Deswegen habe ich auch darauf Wert gelegt, dass wir schnell zu einer Entscheidung über das Handelsabkommen mit Indien kommen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Tilman Kuban",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218506000",
+     "words_source": 67,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Welche konkreten Maßnahmen möchten Sie jetzt ergreifen, um das Thema Rohstoffabbau, das Thema Rohstoffverarbeitung, aber auch die Diversifizierung des Rohstoffeinkaufes in den nächsten Jahren anzugehen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Tilman Kuban (CDU/CSU) fragte: „Welche konkreten Maßnahmen möchten Sie jetzt ergreifen, um das Thema Rohstoffabbau, das Thema Rohstoffverarbeitung, aber auch die Diversifizierung des Rohstoffeinkaufes in den nächsten Jahren anzugehen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218506100",
+     "words_source": 107,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Dies ist ein Thema, das mittlerweile eine hohe Priorität in der Wirtschaftspolitik hat, eine hohe Priorität auch bei der Zusammenarbeit in der Europäischen Union, eine hohe Priorität auch bei den Partnern, die in diesen Fragen so denken wie wir.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Dies ist ein Thema, das mittlerweile eine hohe Priorität in der Wirtschaftspolitik hat, eine hohe Priorität auch bei der Zusammenarbeit in der Europäischen Union, eine hohe Priorität auch bei den Partnern, die in diesen Fragen so denken wie wir.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ates Gürpinar",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218506200",
+     "words_source": 149,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie erklären Sie ihr und den Millionen anderen, denen Sie den letzten Euro aus der Tasche ziehen wollen, dass sie bei schlechterer medizinischer Versorgung mehr zahlen sollen, anstatt dass Sie endlich diejenigen beteiligen, die genügend Geld haben?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Ates Gürpinar (Die Linke) fragte: „Wie erklären Sie ihr und den Millionen anderen, denen Sie den letzten Euro aus der Tasche ziehen wollen, dass sie bei schlechterer medizinischer Versorgung mehr zahlen sollen, anstatt dass Sie endlich diejenigen beteiligen, die genügend Geld haben?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218506300",
+     "words_source": 116,
+     "parts": []
+    },
+    {
+     "speaker": "Ates Gürpinar",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218506400",
+     "words_source": 118,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber wieso halten Sie daran fest, dass die reicheren Menschen in die Privatversicherung gehen können oder dass Menschen wie Sie als privatversichert Geborene niemals die solidarische Versicherung mitfinanzieren müssen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Ates Gürpinar (Die Linke) wollte wissen: „Aber wieso halten Sie daran fest, dass die reicheren Menschen in die Privatversicherung gehen können oder dass Menschen wie Sie als privatversichert Geborene niemals die solidarische Versicherung mitfinanzieren müssen?“"
+      },
+      {
+       "type": "quote",
+       "text": "– anstatt das Leben derjenigen zu beeinflussen und denen das Geld zu nehmen, die jetzt schon wenig haben?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „– anstatt das Leben derjenigen zu beeinflussen und denen das Geld zu nehmen, die jetzt schon wenig haben?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218506500",
+     "words_source": 82,
+     "parts": []
+    },
+    {
+     "speaker": "Mirco Hanker",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218506600",
+     "words_source": 155,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "– dass Sie den Haushalt nicht richtig priorisiert haben?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Mirco Hanker (AfD) wollte wissen: „– dass Sie den Haushalt nicht richtig priorisiert haben?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218506700",
+     "words_source": 157,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "um zweitens die Wettbewerbsfähigkeit unserer Volkswirtschaft durch eine bessere Infrastruktur zu stärken.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „um zweitens die Wettbewerbsfähigkeit unserer Volkswirtschaft durch eine bessere Infrastruktur zu stärken.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Mirco Hanker",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218506800",
+     "words_source": 98,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Halten Sie das für die richtige Priorisierung, oder ist das vielleicht eher ein unglaublicher Hinweis auf mangelnde Kontrolle und fehlerhafte Evaluationsmethoden in diesem Ministerium?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Mirco Hanker (AfD) fragte: „Halten Sie das für die richtige Priorisierung, oder ist das vielleicht eher ein unglaublicher Hinweis auf mangelnde Kontrolle und fehlerhafte Evaluationsmethoden in diesem Ministerium?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218506900",
+     "words_source": 112,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich habe keine Veranlassung, diesen Einzelfall so zu verallgemeinern, dass ich damit die gesamte deutsche Entwicklungshilfe bzw. die wirtschaftliche Zusammenarbeit, wie wir heute richtigerweise sagen, mit anderen Teilen der Welt infrage stelle.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Ich habe keine Veranlassung, diesen Einzelfall so zu verallgemeinern, dass ich damit die gesamte deutsche Entwicklungshilfe bzw. die wirtschaftliche Zusammenarbeit, wie wir heute richtigerweise sagen, mit anderen Teilen der Welt infrage stelle.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Mirco Hanker",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218506900",
+     "words_source": 1,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Einzelfall?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Mirco Hanker (AfD) fragte: „Einzelfall?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Franziska Kersten",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507000",
+     "words_source": 144,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie stehen Sie zu den Vorschlägen der Europäischen Kommission zum MFR, die diese Gemeinsame Agrarpolitik auseinanderreißen würden und zudem große, wettbewerbsfähige Betriebe in Ostdeutschland als auch die Umweltleistungen der Landwirtschaft und die ländliche Entwicklungspolitik erheblich schwächen würden?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Dr. Franziska Kersten (SPD) wollte wissen: „Wie stehen Sie zu den Vorschlägen der Europäischen Kommission zum MFR, die diese Gemeinsame Agrarpolitik auseinanderreißen würden und zudem große, wettbewerbsfähige Betriebe in Ostdeutschland als auch die Umweltleistungen der Landwirtschaft und die ländliche Entwicklungspolitik erheblich schwächen würden?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218507100",
+     "words_source": 216,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und wenn wir Wettbewerbsfähigkeit und Verteidigungsfähigkeit als die Prioritäten für die nächsten Jahre ansehen, dann müssen diese Prioritäten auch im Haushalt der Europäischen Union abgebildet werden.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Und wenn wir Wettbewerbsfähigkeit und Verteidigungsfähigkeit als die Prioritäten für die nächsten Jahre ansehen, dann müssen diese Prioritäten auch im Haushalt der Europäischen Union abgebildet werden.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Franziska Kersten",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507200",
+     "words_source": 40,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Treten Sie ein gegen die Kappung der Einkommensstützung je Betrieb, für EU-weite Mindestbudgets für Umwelt-, Klima- und Tierwohlmaßnahmen und für eine attraktive EU-Beteiligung an der Förderpolitik der Bundesländer für den ländlichen Raum, einschließlich auch der sehr wichtigen Förderung des LEADER-Programms?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Franziska Kersten (SPD) fragte: „Treten Sie ein gegen die Kappung der Einkommensstützung je Betrieb, für EU-weite Mindestbudgets für Umwelt-, Klima- und Tierwohlmaßnahmen und für eine attraktive EU-Beteiligung an der Förderpolitik der Bundesländer für den ländlichen Raum, einschließlich auch der sehr wichtigen Förderung des LEADER-Programms?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Friedrich Merz",
+     "group": "Bundeskanzler",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": "ID218507300",
+     "words_source": 114,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben aus den LEADER-Programmen der letzten Jahre immer wieder große, wunderbare Projekte finanzieren können.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Friedrich Merz, Bundeskanzler, antwortete: „Wir haben aus den LEADER-Programmen der letzten Jahre immer wieder große, wunderbare Projekte finanzieren können.“"
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "TOP 2",
+   "label": "Punkt 2 der Tagesordnung",
+   "title": "Fragestunde",
+   "drucksachen": [
+    "21/6572"
+   ],
+   "kind": "qa",
+   "section": "main",
+   "debate_owner": "TOP 2",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 89,
+     "parts": []
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 134,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die im GKV-Präventionsbericht ausgewiesenen Ausgaben für primäre Prävention – wie gesagt, das sind nicht alle Ausgaben, die im Bereich der Prävention getätigt werden – betragen allein 686 Millionen Euro und umfassen Leistungen nach §§ 20, 20a bis 20c SGB V. Nicht enthalten sind dabei präventionsrelevante Leistungen wie Früherkennungsuntersuchungen und Schutzimpfungen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Die im GKV-Präventionsbericht ausgewiesenen Ausgaben für primäre Prävention – wie gesagt, das sind nicht alle Ausgaben, die im Bereich der Prävention getätigt werden – betragen allein 686 Millionen Euro und umfassen Leistungen nach §§ 20, 20a bis 20c SGB V. Nicht enthalten sind dabei präventionsrelevante Leistungen wie Früherkennungsuntersuchungen und Schutzimpfungen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 132,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können Sie uns kurz erklären, warum es in Ihrem Ministerium populärer ist, jetzt bei Pflege, bei Patientinnen und Patienten zu sparen, anstatt Präventionsmaßnahmen umzusetzen, die auch Geld sparen plus Leid verhindern würden?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Können Sie uns kurz erklären, warum es in Ihrem Ministerium populärer ist, jetzt bei Pflege, bei Patientinnen und Patienten zu sparen, anstatt Präventionsmaßnahmen umzusetzen, die auch Geld sparen plus Leid verhindern würden?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 146,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Um unser System gerade auch im Hinblick auf Prävention zukünftig leistungsfähig zu halten, müssen wir ebendiese Strukturmaßnahmen vornehmen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Um unser System gerade auch im Hinblick auf Prävention zukünftig leistungsfähig zu halten, müssen wir ebendiese Strukturmaßnahmen vornehmen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 141,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wäre das nicht die richtige Reihenfolge, erst bei Prävention und Strukturmaßnahmen sinnvoll zu handeln und dann zu gucken, was danach noch eingespart werden muss, anstatt jetzt erst zu sparen, Menschen zu verunsichern und irgendwann – vielleicht im Laufe des Jahres oder des nächsten Jahres – mit präventiven Maßnahmen um die Ecke zu kommen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Wäre das nicht die richtige Reihenfolge, erst bei Prävention und Strukturmaßnahmen sinnvoll zu handeln und dann zu gucken, was danach noch eingespart werden muss, anstatt jetzt erst zu sparen, Menschen zu verunsichern und irgendwann – vielleicht im Laufe des Jahres oder des nächsten Jahres – mit präventiven Maßnahmen um die Ecke zu kommen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 196,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das Thema Prävention werden wir als Bundesgesundheitsministerium –",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Das Thema Prävention werden wir als Bundesgesundheitsministerium –“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Zoe Mayer",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 150,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Warum ist das eigentlich so, dass die ungesunde Wahl beim Essen meistens die einfachste ist?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Zoe Mayer (BÜNDNIS 90/DIE GRÜNEN) fragte: „Warum ist das eigentlich so, dass die ungesunde Wahl beim Essen meistens die einfachste ist?“"
+      },
+      {
+       "type": "quote",
+       "text": "Jetzt frage ich mich natürlich: Was plant denn die Regierung noch konkret und wann, um gesündere Ernährung im Alltag leichter zu machen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Jetzt frage ich mich natürlich: Was plant denn die Regierung noch konkret und wann, um gesündere Ernährung im Alltag leichter zu machen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 200,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir diskutieren momentan im Hinblick auf Prävention auch, inwieweit man beispielsweise zuckergesüßten Getränken regulatorisch begegnen kann.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Wir diskutieren momentan im Hinblick auf Prävention auch, inwieweit man beispielsweise zuckergesüßten Getränken regulatorisch begegnen kann.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Linda Heitmann",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 111,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich möchte Sie fragen: Was wollen Sie konkret für eine bessere Alkoholprävention tun?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Linda Heitmann (BÜNDNIS 90/DIE GRÜNEN) fragte: „Ich möchte Sie fragen: Was wollen Sie konkret für eine bessere Alkoholprävention tun?“"
+      },
+      {
+       "type": "quote",
+       "text": "Wollen Sie auch beim Thema Alkohol die Verhältnisprävention vorantreiben, und können wir in dieser Legislatur noch mit einem Alkoholpräventionsgesetz rechnen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Wollen Sie auch beim Thema Alkohol die Verhältnisprävention vorantreiben, und können wir in dieser Legislatur noch mit einem Alkoholpräventionsgesetz rechnen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 105,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Mit dem Thema „Alkohol“ bzw. „verantwortungsbewusster Umgang mit Alkohol“ sprechen Sie einen sehr wichtigen Aspekt an.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Mit dem Thema „Alkohol“ bzw. „verantwortungsbewusster Umgang mit Alkohol“ sprechen Sie einen sehr wichtigen Aspekt an.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ingo Hahn",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 142,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie stellen Sie sicher, dass diese Maßnahmen gerade bei den häufigen Volkskrankheiten, die es gibt – Fettleibigkeit, aber auch andere –, fruchten, dass wir auch im finanziellen Bereich Einsparpotenziale haben und dass diese GKV-Mittel eben nicht in Bürokratie, in Koordinierungs-, Beratungs- und Modellprojekten versickern, sondern hinterher tatsächlich auch die Beitragszahler entlasten?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Ingo Hahn (AfD) fragte: „Wie stellen Sie sicher, dass diese Maßnahmen gerade bei den häufigen Volkskrankheiten, die es gibt – Fettleibigkeit, aber auch andere –, fruchten, dass wir auch im finanziellen Bereich Einsparpotenziale haben und dass diese GKV-Mittel eben nicht in Bürokratie, in Koordinierungs-, Beratungs- und Modellprojekten versickern, sondern hinterher tatsächlich auch die Beitragszahler entlasten?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 195,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir geben sehr viel Geld für Prävention aus.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Wir geben sehr viel Geld für Prävention aus.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ates Gürpinar",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 61,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "– Herr Staatssekretär, teilt die Bundesregierung die Einschätzung, dass der Kassenwettbewerb in der gesetzlichen Krankenversicherung strukturelle Fehlanreize zulasten der Prävention setzt, weil die investierende Kasse die Kosten trägt, der Nutzen aber häufig erst langfristig und gegebenenfalls bei anderen Kostenträgern anfällt? Und welche konkreten Maßnahmen plant die Bundesregierung, um diese Fehlanreize zu beseitigen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Ates Gürpinar (Die Linke) fragte: „– Herr Staatssekretär, teilt die Bundesregierung die Einschätzung, dass der Kassenwettbewerb in der gesetzlichen Krankenversicherung strukturelle Fehlanreize zulasten der Prävention setzt, weil die investierende Kasse die Kosten trägt, der Nutzen aber häufig erst langfristig und gegebenenfalls bei anderen Kostenträgern anfällt? Und welche konkreten Maßnahmen plant die Bundesregierung, um diese Fehlanreize zu beseitigen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 167,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Also, man kann nicht sagen, es gibt Kassen, die gar nichts für Prävention machen, während die anderen nur Prävention machen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Also, man kann nicht sagen, es gibt Kassen, die gar nichts für Prävention machen, während die anderen nur Prävention machen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 65,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie sieht der konkrete Zeitplan der Bundesregierung für weitere Präventionsmaßnahmen neben der Abgabe auf zuckergesüßte Getränke sowie der geplanten Anpassung der Tabaksteuer aus, und wann wird die Prüfung des Weiterentwicklungsbedarfs auf Grundlage des Public Health Indexes, den die Bundesregierung in ihrer Antwort zu den Fragen 1 und 2 der Kleinen Anfrage der Fraktion Bündnis 90/Die Grünen auf Bundestagsdrucksache 21/6113 angeführt hat, abgeschlossen sein?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Wie sieht der konkrete Zeitplan der Bundesregierung für weitere Präventionsmaßnahmen neben der Abgabe auf zuckergesüßte Getränke sowie der geplanten Anpassung der Tabaksteuer aus, und wann wird die Prüfung des Weiterentwicklungsbedarfs auf Grundlage des Public Health Indexes, den die Bundesregierung in ihrer Antwort zu den Fragen 1 und 2 der Kleinen Anfrage der Fraktion Bündnis 90/Die Grünen auf Bundestagsdrucksache 21/6113 angeführt hat, abgeschlossen sein?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 143,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 171,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ist das der Grund, warum Sie jetzt mit einem milliardenschweren Sparprogramm um die Ecke kommen, statt Präventionsmaßnahmen in den Vordergrund zu stellen, wodurch nicht nur Geld gespart, sondern auch menschliches Leid reduziert werden könnte?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) wollte wissen: „Ist das der Grund, warum Sie jetzt mit einem milliardenschweren Sparprogramm um die Ecke kommen, statt Präventionsmaßnahmen in den Vordergrund zu stellen, wodurch nicht nur Geld gespart, sondern auch menschliches Leid reduziert werden könnte?“"
+      },
+      {
+       "type": "quote",
+       "text": "Was macht die Bundesregierung, um nicht nur bei den Leistungen für die Menschen anzusetzen, sondern auch die Industrie in die Verantwortung zu nehmen und Suchtstoffe wie Alkohol und Tabak höher zu besteuern?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Was macht die Bundesregierung, um nicht nur bei den Leistungen für die Menschen anzusetzen, sondern auch die Industrie in die Verantwortung zu nehmen und Suchtstoffe wie Alkohol und Tabak höher zu besteuern?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 170,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Jetzt zu insinuieren, dass im Bereich „Tabak, Zucker und Alkohol“ überhaupt nichts passieren würde, entspricht nicht den Tatsachen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Jetzt zu insinuieren, dass im Bereich „Tabak, Zucker und Alkohol“ überhaupt nichts passieren würde, entspricht nicht den Tatsachen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 144,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Welche Maßnahmen plant das Bundesministerium für Gesundheit, um die Menschen zu schützen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Welche Maßnahmen plant das Bundesministerium für Gesundheit, um die Menschen zu schützen?“"
+      },
+      {
+       "type": "quote",
+       "text": "Was ist Ihre Verantwortung, um die Menschen in diesem Land zu schützen, auch vor extremen Wetterereignissen wie Hitzeglocken?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Was ist Ihre Verantwortung, um die Menschen in diesem Land zu schützen, auch vor extremen Wetterereignissen wie Hitzeglocken?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 158,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Jetzt haben wir die Hitze, quasi das Szenario, was im Rahmen dieser Hitzeschutzpläne immer kommuniziert wurde.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Jetzt haben wir die Hitze, quasi das Szenario, was im Rahmen dieser Hitzeschutzpläne immer kommuniziert wurde.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Zoe Mayer",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 112,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Können Sie noch mal sagen, welche weiteren konkreten Maßnahmen die Bundesregierung gerade plant, außer ein bisschen Geld für Prävention in die Hand zu nehmen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Zoe Mayer (BÜNDNIS 90/DIE GRÜNEN) fragte: „Können Sie noch mal sagen, welche weiteren konkreten Maßnahmen die Bundesregierung gerade plant, außer ein bisschen Geld für Prävention in die Hand zu nehmen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 176,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber es geht natürlich auch sehr stark darum, Kindern bereits sehr früh zu erklären, was gesunde Ernährung ist.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Aber es geht natürlich auch sehr stark darum, Kindern bereits sehr früh zu erklären, was gesunde Ernährung ist.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Julia Schneider",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 154,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deswegen frage ich Sie: Welche konkreten Maßnahmen ergreift das Bundesministerium für Gesundheit, um Krankenhäuser bei der Umsetzung von Hitzeschutzmaßnahmen zu unterstützen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Julia Schneider (BÜNDNIS 90/DIE GRÜNEN) fragte: „Deswegen frage ich Sie: Welche konkreten Maßnahmen ergreift das Bundesministerium für Gesundheit, um Krankenhäuser bei der Umsetzung von Hitzeschutzmaßnahmen zu unterstützen?“"
+      },
+      {
+       "type": "quote",
+       "text": "Halten Sie die bisher bereitgestellten Mittel angesichts der zunehmenden Hitzewellen für ausreichend?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Halten Sie die bisher bereitgestellten Mittel angesichts der zunehmenden Hitzewellen für ausreichend?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 94,
+     "parts": []
+    },
+    {
+     "speaker": "Stella Merendino",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 117,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "– Wie passen Ihre Ausführungen zu Prävention und Eigenverantwortung zu sämtlichen Kürzungen auf Kosten der Gesundheitsarbeiter/-innen und der Patientinnen und Patienten, zur Abschaffung von Personalschlüsseln, zum Pflegebudget, zu Kürzungen bei den pflegenden Angehörigen, während Krankenkassenvorstände beispielsweise bis zu 450 000 Euro im Jahr erhalten?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stella Merendino (Die Linke) fragte: „– Wie passen Ihre Ausführungen zu Prävention und Eigenverantwortung zu sämtlichen Kürzungen auf Kosten der Gesundheitsarbeiter/-innen und der Patientinnen und Patienten, zur Abschaffung von Personalschlüsseln, zum Pflegebudget, zu Kürzungen bei den pflegenden Angehörigen, während Krankenkassenvorstände beispielsweise bis zu 450 000 Euro im Jahr erhalten?“"
+      },
+      {
+       "type": "quote",
+       "text": "Ist das Ihr Verständnis von einer guten Gesundheitspolitik und Prävention, bei den Menschen nachzutreten, wenn sie sowieso schon am Boden liegen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Ist das Ihr Verständnis von einer guten Gesundheitspolitik und Prävention, bei den Menschen nachzutreten, wenn sie sowieso schon am Boden liegen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 181,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sehr geehrte Frau Abgeordnete Merendino, ich war selbst beim „Tag der offenen Tür“ und kann nicht bestätigen, dass, wie Sie hier insinuieren, die Ministerin abfällig mit Menschen umgehen würde.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Sehr geehrte Frau Abgeordnete Merendino, ich war selbst beim „Tag der offenen Tür“ und kann nicht bestätigen, dass, wie Sie hier insinuieren, die Ministerin abfällig mit Menschen umgehen würde.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Janosch Dahmen",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 132,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was konkret raten Sie den Menschen am Wochenende, die bei 40 Grad wirklich extremen Hitzetemperaturen ausgeliefert sind? Was tun Sie konkret für die Menschen jenseits abstrakter Hitzeschutzmaßnahmen, die auch notwendig und richtig sind, aber jetzt am Wochenende möglicherweise zu spät kommen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Janosch Dahmen (BÜNDNIS 90/DIE GRÜNEN) fragte: „Was konkret raten Sie den Menschen am Wochenende, die bei 40 Grad wirklich extremen Hitzetemperaturen ausgeliefert sind? Was tun Sie konkret für die Menschen jenseits abstrakter Hitzeschutzmaßnahmen, die auch notwendig und richtig sind, aber jetzt am Wochenende möglicherweise zu spät kommen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 147,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das Beispiel, das Sie gerade erzählt haben, dass jemand in der Hitze liegt und erst nach einer sehr langen Zeit jemand überhaupt aufmerksam wird, sollte eher der Ausnahmefall sein.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Das Beispiel, das Sie gerade erzählt haben, dass jemand in der Hitze liegt und erst nach einer sehr langen Zeit jemand überhaupt aufmerksam wird, sollte eher der Ausnahmefall sein.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Stefan Schröder",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 23,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Welche konkreten Änderungen am Konsumcannabisgesetz plant die Bundesregierung zum Gesundheits- und Jugendschutz nach dem zweiten EKOCAN-Zwischenbericht vom 1. April 2026 (www.bundesgesundheitsministerium.de/presse/pressemitteilungen/zweite-evaluation-zur-cannabis-teillegalisierung-01-04-26)?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stefan Schröder (AfD) fragte: „Welche konkreten Änderungen am Konsumcannabisgesetz plant die Bundesregierung zum Gesundheits- und Jugendschutz nach dem zweiten EKOCAN-Zwischenbericht vom 1. April 2026 (www.bundesgesundheitsministerium.de/presse/pressemitteilungen/zweite-evaluation-zur-cannabis-teillegalisierung-01-04-26)?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 44,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Stefan Schröder",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 55,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie passt dies denn zu den heute bekanntgewordenen Plänen des Bundesdrogenbeauftragten Streeck und des ehemaligen Bundesgesundheitsministers Lauterbach zur kontrollierten Abgabe harter Drogen? Sieht die Bundesregierung darin eine Ausweitung ihrer bisherigen Drogenpolitik über Cannabis hinaus?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Stefan Schröder (AfD) wollte wissen: „Wie passt dies denn zu den heute bekanntgewordenen Plänen des Bundesdrogenbeauftragten Streeck und des ehemaligen Bundesgesundheitsministers Lauterbach zur kontrollierten Abgabe harter Drogen? Sieht die Bundesregierung darin eine Ausweitung ihrer bisherigen Drogenpolitik über Cannabis hinaus?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 76,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das, was wir momentan – auch innerhalb der Bundesregierung – machen, ist, erforderliche Gesetzesänderungen, insbesondere im Hinblick auf die Auswirkungen des Konsumcannabisgesetzes auf den Gesundheits-, Kinder- und Jugendschutz sowie die Organisierte Kriminalität, zu prüfen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Das, was wir momentan – auch innerhalb der Bundesregierung – machen, ist, erforderliche Gesetzesänderungen, insbesondere im Hinblick auf die Auswirkungen des Konsumcannabisgesetzes auf den Gesundheits-, Kinder- und Jugendschutz sowie die Organisierte Kriminalität, zu prüfen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Stefan Schröder",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 95,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie soll so was denn finanziert werden?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stefan Schröder (AfD) fragte: „Wie soll so was denn finanziert werden?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 125,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das bedeutet aber nicht, dass sich der Bundesdrogenbeauftragte jetzt dafür ausspricht, diese harten Drogen freizugeben.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Das bedeutet aber nicht, dass sich der Bundesdrogenbeauftragte jetzt dafür ausspricht, diese harten Drogen freizugeben.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Zoe Mayer",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 121,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Warum ist es denn für die Tabakindustrie immer noch so einfach, neue junge Kunden zu gewinnen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Zoe Mayer (BÜNDNIS 90/DIE GRÜNEN) fragte: „Warum ist es denn für die Tabakindustrie immer noch so einfach, neue junge Kunden zu gewinnen?“"
+      },
+      {
+       "type": "quote",
+       "text": "Also, was plant die Bundesregierung explizit beim Tabak – außer der Erhöhung der Tabaksteuer –, um Jugendliche besser zu schützen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Also, was plant die Bundesregierung explizit beim Tabak – außer der Erhöhung der Tabaksteuer –, um Jugendliche besser zu schützen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 102,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der ist gerade in dem Kontext sehr aktuell, wenn es darum geht, schon frühzeitig die entsprechende Sensibilität zu erzeugen, damit junge Menschen gar nicht erst mit dem Rauchen anfangen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Der ist gerade in dem Kontext sehr aktuell, wenn es darum geht, schon frühzeitig die entsprechende Sensibilität zu erzeugen, damit junge Menschen gar nicht erst mit dem Rauchen anfangen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Ates Gürpinar",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 35,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich würde zwar auch gerne dem Bundesbeauftragten für Sucht- und Drogenfragen ein paar Fragen zum Zürcher Modell stellen – das interessiert mich ja ganz besonders –, aber Sie sind heute da, um Fragen zu beantworten.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Ates Gürpinar (Die Linke) fragte: „Ich würde zwar auch gerne dem Bundesbeauftragten für Sucht- und Drogenfragen ein paar Fragen zum Zürcher Modell stellen – das interessiert mich ja ganz besonders –, aber Sie sind heute da, um Fragen zu beantworten.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 6,
+     "parts": []
+    },
+    {
+     "speaker": "Ates Gürpinar",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 48,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Plant denn die Regierung, den Empfehlungen der Evaluation Folge zu leisten und Hürden für Anbauvereinigungen, also legalisierte Zugangswege für Cannabis, sicherzustellen, um so die Kriminalität wirksam zu reduzieren und die Gesundheit von Konsumentinnen und Konsumenten zu schützen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Ates Gürpinar (Die Linke) wollte wissen: „Plant denn die Regierung, den Empfehlungen der Evaluation Folge zu leisten und Hürden für Anbauvereinigungen, also legalisierte Zugangswege für Cannabis, sicherzustellen, um so die Kriminalität wirksam zu reduzieren und die Gesundheit von Konsumentinnen und Konsumenten zu schützen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 67,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ingo Hahn",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 155,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deshalb meine Frage: Wäre es nicht besser, die Teillegalisierung von Cannabis einfach komplett zurückzunehmen, klarere Regeln zu schaffen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Ingo Hahn (AfD) fragte: „Deshalb meine Frage: Wäre es nicht besser, die Teillegalisierung von Cannabis einfach komplett zurückzunehmen, klarere Regeln zu schaffen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 57,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Hendrik Streeck",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 92,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Würden Sie mir zustimmen, dass gerade bei Suchterkrankungen polizeiliche Repressionen allein nicht ausreichen, sondern auch Substitution und Suchthilfe notwendig sind, die ausgebaut werden müssten? Sind diesbezüglich vielleicht auch von BMG-Seite weitere Maßnahmen geplant?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Dr. Hendrik Streeck (CDU/CSU) wollte wissen: „Würden Sie mir zustimmen, dass gerade bei Suchterkrankungen polizeiliche Repressionen allein nicht ausreichen, sondern auch Substitution und Suchthilfe notwendig sind, die ausgebaut werden müssten? Sind diesbezüglich vielleicht auch von BMG-Seite weitere Maßnahmen geplant?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 154,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es gibt nur die eine Maßnahme, wir setzen ausschließlich auf Repressionen.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Es gibt nur die eine Maßnahme, wir setzen ausschließlich auf Repressionen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Stephan Brandner",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 173,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie würden Sie – Stand jetzt – als Politiker, als Staatssekretär im zuständigen Ministerium den Erfolg des Konsumcannabisgesetzes bewerten?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stephan Brandner (AfD) fragte: „Wie würden Sie – Stand jetzt – als Politiker, als Staatssekretär im zuständigen Ministerium den Erfolg des Konsumcannabisgesetzes bewerten?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 56,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Stefan Schröder",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 63,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Auf welcher belastbaren Datengrundlage plant die Bundesregierung die Einführung einer Abgabe auf zuckergesüßte Getränke ab dem Jahr 2028, wenn sie in ihrer Antwort auf die Kleine Anfrage der Fraktion der AfD auf Bundestagsdrucksache 21/6239 zugleich einräumt, dass ihr keine Daten zu Verbraucherpreisen, Handelsspannen, Absatzmengen und Marktanteilen einzelner Produkte bzw. Unternehmen sowie keine gesicherten Erkenntnisse zu bestehenden steuerlichen oder regulatorischen Anreizwirkungen vorliegen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Stefan Schröder (AfD) wollte wissen: „Auf welcher belastbaren Datengrundlage plant die Bundesregierung die Einführung einer Abgabe auf zuckergesüßte Getränke ab dem Jahr 2028, wenn sie in ihrer Antwort auf die Kleine Anfrage der Fraktion der AfD auf Bundestagsdrucksache 21/6239 zugleich einräumt, dass ihr keine Daten zu Verbraucherpreisen, Handelsspannen, Absatzmengen und Marktanteilen einzelner Produkte bzw. Unternehmen sowie keine gesicherten Erkenntnisse zu bestehenden steuerlichen oder regulatorischen Anreizwirkungen vorliegen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 54,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Stefan Schröder",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 31,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Herr Staatssekretär, wie belastbar sind denn die geäußerten Einnahmeerwartungen von immerhin 450 Millionen Euro, wenn der Lenkungszweck der Abgabe genau darin besteht, den Absatz und den Zuckergehalt zu senken?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Stefan Schröder (AfD) fragte: „Herr Staatssekretär, wie belastbar sind denn die geäußerten Einnahmeerwartungen von immerhin 450 Millionen Euro, wenn der Lenkungszweck der Abgabe genau darin besteht, den Absatz und den Zuckergehalt zu senken?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 61,
+     "parts": []
+    },
+    {
+     "speaker": "Stefan Schröder",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 22,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "– Welche konkrete Zweckbindung plant die Bundesregierung für die erwarteten Einnahmen, und wie wird verhindert, dass diese lediglich Haushaltslöcher kaschieren?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Stefan Schröder (AfD) wollte wissen: „– Welche konkrete Zweckbindung plant die Bundesregierung für die erwarteten Einnahmen, und wie wird verhindert, dass diese lediglich Haushaltslöcher kaschieren?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 97,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG) wandte sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Zoe Mayer",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 98,
+     "parts": []
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 83,
+     "parts": []
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 144,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wird die Bundesregierung auch dagegen vorgehen, dass die Lebensmittelindustrie – vor allem die Zuckerindustrie –, gerade Kinder und Jugendliche anspricht und damit eben wahnsinnig hohe Umsätze generiert, während die Kosten, die dadurch verursacht werden, beim Gesundheitssystem verbleiben und hohe Folgekosten verursachen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Wird die Bundesregierung auch dagegen vorgehen, dass die Lebensmittelindustrie – vor allem die Zuckerindustrie –, gerade Kinder und Jugendliche anspricht und damit eben wahnsinnig hohe Umsätze generiert, während die Kosten, die dadurch verursacht werden, beim Gesundheitssystem verbleiben und hohe Folgekosten verursachen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 151,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und dazu gehört natürlich auch die Diskussion – das sind wir wieder beim Thema Prävention –, wie man in den Lebenswelten – Stichwort „Quengelkasse“ – solche Dinge im Zweifel auch optimaler gestaltet.",
+       "verb": "antwortete",
+       "source": "rule",
+       "display": "Tino Sorge, Parlamentarischer Staatssekretär (BMG), antwortete: „Und dazu gehört natürlich auch die Diskussion – das sind wir wieder beim Thema Prävention –, wie man in den Lebenswelten – Stichwort „Quengelkasse“ – solche Dinge im Zweifel auch optimaler gestaltet.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Janosch Dahmen",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": null,
+     "words_source": 132,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was tun Sie gerade in diesen Risikobereichen, wo Deutschland viel schlechter dasteht als unsere Nachbarländer, um in der Sekundär- und Tertiärprävention auch besser zu werden?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Janosch Dahmen (BÜNDNIS 90/DIE GRÜNEN) fragte: „Was tun Sie gerade in diesen Risikobereichen, wo Deutschland viel schlechter dasteht als unsere Nachbarländer, um in der Sekundär- und Tertiärprävention auch besser zu werden?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Tino Sorge",
+     "group": "Parl. Staatssekretär BMG",
+     "role": "government",
+     "kind": "Antwort",
+     "rede": null,
+     "words_source": 153,
+     "parts": []
+    }
+   ],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "ZP 1",
+   "label": "Zusatzpunkt 1",
+   "title": "Aktuelle Stunde auf Verlangen der Fraktion der CDU/CSU und SPD Inakzeptable Äußerungen des Co-Vorsitzenden Pantisano und antisemitische Tendenzen auf dem Bundesparteitag der Partei Die Linke",
+   "drucksachen": [],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "ZP 1",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Dr. Carsten Linnemann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507400",
+     "words_source": 442,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Mit Verlaub, was soll denn dann bitte die Langfassung sein?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Carsten Linnemann (CDU/CSU) fragte: „Mit Verlaub, was soll denn dann bitte die Langfassung sein?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Götz Frömming",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507500",
+     "words_source": 725,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und mit denen wollen Sie möglicherweise nach den Wahlen im September koalieren?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Dr. Götz Frömming (AfD) wollte wissen: „Und mit denen wollen Sie möglicherweise nach den Wahlen im September koalieren?“"
+      },
+      {
+       "type": "quote",
+       "text": "Ich frage mich: Was wollen Sie mit dieser Aktuellen Stunde eigentlich bezwecken? Wollen Sie an Ihren Unvereinbarkeitsbeschluss mit der Linkspartei erinnern? Oder wollen Sie den Wählern einmal mehr Sand in die Augen streuen, um dann nach den Wahlen im September wie bei der Bundestagswahl das genaue Gegenteil von dem zu tun, was Sie vorher noch hoch und heilig versprochen haben?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Ich frage mich: Was wollen Sie mit dieser Aktuellen Stunde eigentlich bezwecken? Wollen Sie an Ihren Unvereinbarkeitsbeschluss mit der Linkspartei erinnern? Oder wollen Sie den Wählern einmal mehr Sand in die Augen streuen, um dann nach den Wahlen im September wie bei der Bundestagswahl das genaue Gegenteil von dem zu tun, was Sie vorher noch hoch und heilig versprochen haben?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Sebastian Fiedler",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507600",
+     "words_source": 735,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "dass der Zeitpunkt des Bundesparteitages in Thüringen auf den Tag genau 100 Jahre nach dem Reichsparteitag der NSDAP zufällig an dieser Stelle stattfindet, […] Ich will das ganz klar vor dem angesprochenen Parteitag sagen: Wenn es dazu kommt, dass bei, ich will mal sagen: „richtigen“ Demonstrationen vor genau diesem Bundesparteitag gewalttätige Auseinandersetzungen stattfinden, wenn Polizistinnen und Polizisten angegriffen werden, dann hilft es genau denen hier und niemandem sonst in unserem Haus.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Sebastian Fiedler (SPD) wollte wissen: „dass der Zeitpunkt des Bundesparteitages in Thüringen auf den Tag genau 100 Jahre nach dem Reichsparteitag der NSDAP zufällig an dieser Stelle stattfindet, […] Ich will das ganz klar vor dem angesprochenen Parteitag sagen: Wenn es dazu kommt, dass bei, ich will mal sagen: „richtigen“ Demonstrationen vor genau diesem Bundesparteitag gewalttätige Auseinandersetzungen stattfinden, wenn Polizistinnen und Polizisten angegriffen werden, dann hilft es genau denen hier und niemandem sonst in unserem Haus.“"
+      },
+      {
+       "type": "quote",
+       "text": "Nutzen Sie diese Gelegenheit, um sich als Partei weiter demokratisch zu orientieren!",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Nutzen Sie diese Gelegenheit, um sich als Partei weiter demokratisch zu orientieren!“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Irene Mihalic",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507700",
+     "words_source": 669,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wo ist dieselbe Eindeutigkeit gegenüber der Hamas? Wo ist dieselbe Eindeutigkeit gegenüber denen, die jüdisches Leben auf deutschen Straßen angreifen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) fragte: „Wo ist dieselbe Eindeutigkeit gegenüber der Hamas? Wo ist dieselbe Eindeutigkeit gegenüber denen, die jüdisches Leben auf deutschen Straßen angreifen?“"
+      },
+      {
+       "type": "quote",
+       "text": "Was soll links daran sein, gegen dieses Bollwerk zu polemisieren? Was soll links daran sein, wenn Sie den Musks, den Reichelts und sogar der AfD mit ihrem Staatsfunk- und Lügenpressegejaule das Wort reden?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Was soll links daran sein, gegen dieses Bollwerk zu polemisieren? Was soll links daran sein, wenn Sie den Musks, den Reichelts und sogar der AfD mit ihrem Staatsfunk- und Lügenpressegejaule das Wort reden?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Ines Schwerdtner",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507800",
+     "words_source": 784,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie wollen über Entgleisungen reden? Wissen Sie, wer mir da direkt einfällt? […] Haben Sie sich dafür entschuldigt, dass Sie junge Frauen dafür instrumentalisierten, gegen Migrantinnen und Migranten zu hetzen? […] Wo ist die Entschuldigung von Herrn Spahn an alle Deutschen für diese Maskendeals?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Ines Schwerdtner (Die Linke) fragte: „Sie wollen über Entgleisungen reden? Wissen Sie, wer mir da direkt einfällt? […] Haben Sie sich dafür entschuldigt, dass Sie junge Frauen dafür instrumentalisierten, gegen Migrantinnen und Migranten zu hetzen? […] Wo ist die Entschuldigung von Herrn Spahn an alle Deutschen für diese Maskendeals?“"
+      },
+      {
+       "type": "quote",
+       "text": "Wo waren Sie alle von der Union, als Sie hier zum ersten Mal eine Mehrheit mit den Stimmen der AfD organisierten, für eine Migrationspolitik, die Sie eins zu eins aus deren Programm übernommen haben? […] Wo ist Ihre Entschuldigung für all das? […] Sie wollen über unseren Parteitag reden?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Wo waren Sie alle von der Union, als Sie hier zum ersten Mal eine Mehrheit mit den Stimmen der AfD organisierten, für eine Migrationspolitik, die Sie eins zu eins aus deren Programm übernommen haben? […] Wo ist Ihre Entschuldigung für all das? […] Sie wollen über unseren Parteitag reden?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Maximilian Kneller",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218507900",
+     "words_source": 252,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Distanzieren Sie sich von sämtlichen Versuchen, unseren Parteitag zu verhindern, zu denen Ihre Kollegen zum Teil ja aufrufen, und wünschen uns, dass er stattfinden kann, oder können Sie das nicht?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Maximilian Kneller (AfD) fragte: „Distanzieren Sie sich von sämtlichen Versuchen, unseren Parteitag zu verhindern, zu denen Ihre Kollegen zum Teil ja aufrufen, und wünschen uns, dass er stattfinden kann, oder können Sie das nicht?“"
+      },
+      {
+       "type": "quote",
+       "text": "Und meine zweite Frage wäre: Wie viele Polizeisperren und gewaltsame Übergriffe mussten Sie selbst eigentlich am Wochenende von Leuten aus unserem Umfeld ertragen, als Sie Ihren Parteitag ausgerichtet hat?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Und meine zweite Frage wäre: Wie viele Polizeisperren und gewaltsame Übergriffe mussten Sie selbst eigentlich am Wochenende von Leuten aus unserem Umfeld ertragen, als Sie Ihren Parteitag ausgerichtet hat?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ines Schwerdtner",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508000",
+     "words_source": 88,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Vor diesem Hintergrund halte ich das, was von vielen Bündnissen, von Gewerkschaftern, von ganz vielen getan wird, nämlich gegen Ihren Parteitag zu mobilisieren, um ein Zeichen zu setzen, für genau das Richtige.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Ines Schwerdtner (Die Linke) fragte: „Vor diesem Hintergrund halte ich das, was von vielen Bündnissen, von Gewerkschaftern, von ganz vielen getan wird, nämlich gegen Ihren Parteitag zu mobilisieren, um ein Zeichen zu setzen, für genau das Richtige.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Paul Ziemiak",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508100",
+     "words_source": 144,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Welche Maßnahmen überlegen Sie sich oder haben Sie schon umgesetzt, um diese Mitglieder auszuschließen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Paul Ziemiak (CDU/CSU) wollte wissen: „Welche Maßnahmen überlegen Sie sich oder haben Sie schon umgesetzt, um diese Mitglieder auszuschließen?“"
+      },
+      {
+       "type": "quote",
+       "text": "Haben Sie die Kraft, das heute zu sagen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Haben Sie die Kraft, das heute zu sagen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ines Schwerdtner",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508200",
+     "words_source": 156,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich habe das gerade in meiner Rede ganz eindeutig gesagt: Wir haben den Beschluss gefasst, dass wir gegen jeden Antisemitismus stehen, dass wir für den Schutz jüdischen Lebens stehen, nicht nur hier in Deutschland, sondern überall.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Ines Schwerdtner (Die Linke) wollte wissen: „Ich habe das gerade in meiner Rede ganz eindeutig gesagt: Wir haben den Beschluss gefasst, dass wir gegen jeden Antisemitismus stehen, dass wir für den Schutz jüdischen Lebens stehen, nicht nur hier in Deutschland, sondern überall.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ottilie Klein",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508300",
+     "words_source": 552,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Umso absurder, dass Die Linke die CDU, die christdemokratische Volkspartei der Mitte, […] Und Die Linke, immerhin Nachfolgepartei der SED, […] Vor dem Parteitag wurden hier ja vermeintlich rote Linien gezogen, während des Parteitags wurde dann munter weiter gegen Israel gehetzt.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Ottilie Klein (CDU/CSU) fragte: „Umso absurder, dass Die Linke die CDU, die christdemokratische Volkspartei der Mitte, […] Und Die Linke, immerhin Nachfolgepartei der SED, […] Vor dem Parteitag wurden hier ja vermeintlich rote Linien gezogen, während des Parteitags wurde dann munter weiter gegen Israel gehetzt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Da zeigt sich die ganze geschichtsvergessene Selbstherrlichkeit der Linken. […] In Berlin haben führende Politiker dieser Partei übrigens aufgrund des grassierenden Antisemitismus die Partei verlassen. […] Die Linkspartei ist eben keine normale Partei.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte sie wissen: „Da zeigt sich die ganze geschichtsvergessene Selbstherrlichkeit der Linken. […] In Berlin haben führende Politiker dieser Partei übrigens aufgrund des grassierenden Antisemitismus die Partei verlassen. […] Die Linkspartei ist eben keine normale Partei.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Martin Reichardt",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508400",
+     "words_source": 912,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die CDU will über die Linken reden. […] Die Linken lieferten auf ihrem Parteitag alles, was man von einer Partei erwarten durfte, die sich bis heute rühmt, in der Tradition einer Ideologie zu stehen, die weit über 100 Millionen Menschen aus niedrigsten Beweggründen umbrachte. […] Zunächst erklärte der Parteivorsitzende über 50 Prozent der deutschen Wähler zu faschistischen Wählern, meine Damen und Herren. Diese Faschisten müssen natürlich umerzogen werden, und wie das aus Sicht der 10-Prozent-Linkspartei geschehen soll, brachte ebenfalls ein Delegierter zum Ausdruck.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Martin Reichardt (AfD) fragte: „Die CDU will über die Linken reden. […] Die Linken lieferten auf ihrem Parteitag alles, was man von einer Partei erwarten durfte, die sich bis heute rühmt, in der Tradition einer Ideologie zu stehen, die weit über 100 Millionen Menschen aus niedrigsten Beweggründen umbrachte. […] Zunächst erklärte der Parteivorsitzende über 50 Prozent der deutschen Wähler zu faschistischen Wählern, meine Damen und Herren. Diese Faschisten müssen natürlich umerzogen werden, und wie das aus Sicht der 10-Prozent-Linkspartei geschehen soll, brachte ebenfalls ein Delegierter zum Ausdruck.“"
+      },
+      {
+       "type": "quote",
+       "text": "Nun ja, sicher wollen die Linken nicht gleich alle ihre Gegner sofort umbringen. […] Das ist der Geist Ihrer Partei, meine Damen und Herren. […] Das Foto zeigt keinen Hitlergruß.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Nun ja, sicher wollen die Linken nicht gleich alle ihre Gegner sofort umbringen. […] Das ist der Geist Ihrer Partei, meine Damen und Herren. […] Das Foto zeigt keinen Hitlergruß.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Winkel",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508400",
+     "words_source": 91,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ist dieses Foto gefakt, oder ist es ein reales Foto?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Winkel (CDU/CSU) fragte: „Ist dieses Foto gefakt, oder ist es ein reales Foto?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Hendrik Hoppenstedt",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508400",
+     "words_source": 95,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie definieren Sie denn einen Hitlergruß? Und wenn das kein Hitlergruß ist, was ist denn dann ein Hitlergruß? Wie wollen Sie denn aus dieser Nummer wieder rauskommen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Dr. Hendrik Hoppenstedt (CDU/CSU) wollte wissen: „Wie definieren Sie denn einen Hitlergruß? Und wenn das kein Hitlergruß ist, was ist denn dann ein Hitlergruß? Wie wollen Sie denn aus dieser Nummer wieder rauskommen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Frederik Bouffier",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508400",
+     "words_source": 53,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ist das Foto, was kursiert, echt oder nicht?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Frederik Bouffier (CDU/CSU) fragte: „Ist das Foto, was kursiert, echt oder nicht?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Helge Lindh",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508500",
+     "words_source": 950,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie muss sich damit auseinandersetzen, weil Heidi Reichinnek zwar richtigerweise gesagt hat, dass in den Reihen der Linken Antisemitismus keinen Platz hat und dass das Existenzrecht Israels nicht verhandelbar ist, das aber offensichtlich nicht für alle zu gelten scheint. […] Vor allem ist nicht nur eine Entschuldigung notwendig in Richtung der CDU.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Helge Lindh (SPD) wollte wissen: „Sie muss sich damit auseinandersetzen, weil Heidi Reichinnek zwar richtigerweise gesagt hat, dass in den Reihen der Linken Antisemitismus keinen Platz hat und dass das Existenzrecht Israels nicht verhandelbar ist, das aber offensichtlich nicht für alle zu gelten scheint. […] Vor allem ist nicht nur eine Entschuldigung notwendig in Richtung der CDU.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir stehen vor der Aufgabe, wenn wir die wahren Faschisten in unseren Parlamenten und außerhalb bekämpfen wollen, dass wir nicht diese Unsitte übernehmen – und das ist auch eine Unsitte aus dem linken Bereich; die kenne ich von vielen Demos –, uns gegenseitig als die besseren Demokraten und als die heimlichen Faschistinnen und Faschisten zu bezeichnen.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Wir stehen vor der Aufgabe, wenn wir die wahren Faschisten in unseren Parlamenten und außerhalb bekämpfen wollen, dass wir nicht diese Unsitte übernehmen – und das ist auch eine Unsitte aus dem linken Bereich; die kenne ich von vielen Demos –, uns gegenseitig als die besseren Demokraten und als die heimlichen Faschistinnen und Faschisten zu bezeichnen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Götz Frömming",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508500",
+     "words_source": 95,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das Zitat bezog sich ja auch auf die AfD. Halten Sie es für richtig, auch mit Blick auf die vielen konservativen Wähler, die wir haben, die AfD als „faschistisch“ zu bezeichnen, oder würden Sie das ebenfalls zurückweisen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Götz Frömming (AfD) fragte: „Das Zitat bezog sich ja auch auf die AfD. Halten Sie es für richtig, auch mit Blick auf die vielen konservativen Wähler, die wir haben, die AfD als „faschistisch“ zu bezeichnen, oder würden Sie das ebenfalls zurückweisen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Marlene Schönberger",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508600",
+     "words_source": 570,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Warum gibt es Jubel, Gejohle und Applaus im Saal, weil es jetzt linke Parteilinie ist, von einem Genozid durch Israel zu sprechen?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Marlene Schönberger (BÜNDNIS 90/DIE GRÜNEN) wollte wissen: „Warum gibt es Jubel, Gejohle und Applaus im Saal, weil es jetzt linke Parteilinie ist, von einem Genozid durch Israel zu sprechen?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "David Gregosz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508700",
+     "words_source": 800,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wohin soll das faktenfreie Gerede in doppelter Sprechgeschwindigkeit führen? Wohin sollen uns permanente Empörungsrhetorik oder radikale Kollektivierungsfantasien eigentlich bringen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "David Gregosz (CDU/CSU) fragte: „Wohin soll das faktenfreie Gerede in doppelter Sprechgeschwindigkeit führen? Wohin sollen uns permanente Empörungsrhetorik oder radikale Kollektivierungsfantasien eigentlich bringen?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der AfD und die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der AfD und die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Lorenz Gösta Beutin",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508700",
+     "words_source": 141,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Halten Sie es vor diesem Hintergrund nicht für sinnvoll, einmal vor der eigenen Tür zu kehren?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Lorenz Gösta Beutin (Die Linke) wollte wissen: „Halten Sie es vor diesem Hintergrund nicht für sinnvoll, einmal vor der eigenen Tür zu kehren?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Leif-Erik Holm",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508800",
+     "words_source": 683,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie kann man mit Leuten regieren, die die ein Prozent Reichen erschießen wollen, die in ihren Chats „Israel verrecke“ oder „Lang lebe Stalin“ rufen, die Parteitage verhindern wollen und auch sonst nicht viel vom Rechtsstaat halten?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Leif-Erik Holm (AfD) fragte: „Wie kann man mit Leuten regieren, die die ein Prozent Reichen erschießen wollen, die in ihren Chats „Israel verrecke“ oder „Lang lebe Stalin“ rufen, die Parteitage verhindern wollen und auch sonst nicht viel vom Rechtsstaat halten?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Holm sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Holm sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Mechthilde Wittmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218508900",
+     "words_source": 706,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wissen Sie, wie die Union mit Extremisten umgeht?",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Mechthilde Wittmann (CDU/CSU) wollte wissen: „Wissen Sie, wie die Union mit Extremisten umgeht?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Wittmann sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Wittmann sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Christoph Birghan",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218509000",
+     "words_source": 207,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "dann frage ich Sie: Gibt es weiterhin diese breiten Bündnisse, oder ist das, was wir hier immer hören, nur heiße Luft, und Abgrenzungen finden eigentlich nicht statt?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Christoph Birghan (AfD) fragte: „dann frage ich Sie: Gibt es weiterhin diese breiten Bündnisse, oder ist das, was wir hier immer hören, nur heiße Luft, und Abgrenzungen finden eigentlich nicht statt?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Mechthilde Wittmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Frage",
+     "rede": "ID218509100",
+     "words_source": 40,
+     "parts": []
+    }
+   ],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "ZP 2",
+   "label": "Zusatzpunkt 2",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer IP-Adressspeicherung und Weiterentwicklung der Befugnisse zur Datenerhebung im Strafverfahren",
+   "drucksachen": [
+    "21/6581"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "ZP 2",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Dr. Stefanie Hubig",
+     "group": "Bundesministerin BMJV",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID218509200",
+     "words_source": 414,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Unsere Antwort ist die Speicherung der IP-Adressen; denn das sind oft die einzigen Spuren, die Täter im Netz hinterlassen. […] Unser Ziel ist, dass Deutschland auch im digitalen Raum sicher ist. Deshalb wollen wir Internetanbieter verpflichten, die IP-Adressen ihrer Kunden für drei Monate zu speichern.",
+       "verb": "stellte den Gesetzentwurf vor",
+       "source": "rule",
+       "display": "Dr. Stefanie Hubig, Bundesministerin der Justiz und für Verbraucherschutz, stellte den Gesetzentwurf vor: „Unsere Antwort ist die Speicherung der IP-Adressen; denn das sind oft die einzigen Spuren, die Täter im Netz hinterlassen. […] Unser Ziel ist, dass Deutschland auch im digitalen Raum sicher ist. Deshalb wollen wir Internetanbieter verpflichten, die IP-Adressen ihrer Kunden für drei Monate zu speichern.“"
+      },
+      {
+       "type": "quote",
+       "text": "Es sollen nur IP-Adressen gespeichert werden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Hubig: „Es sollen nur IP-Adressen gespeichert werden.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ulrich von Zons",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509300",
+     "words_source": 606,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Eine Frage an die Justizministerin: […] Es geht um die Vorratsdatenspeicherung, wieder einmal – seit 15 Jahren. […] Ja, dieses Urteil erlaubt die Speicherung von IP-Adressen, aber doch nicht einfach so.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Ulrich von Zons (AfD) erklärte: „Eine Frage an die Justizministerin: […] Es geht um die Vorratsdatenspeicherung, wieder einmal – seit 15 Jahren. […] Ja, dieses Urteil erlaubt die Speicherung von IP-Adressen, aber doch nicht einfach so.“"
+      },
+      {
+       "type": "quote",
+       "text": "Seit 15 Jahren versucht der Staat immer wieder, eine anlasslose Massenüberwachung einzuführen. […] Heute sind es IP-Adressen, morgen Standortdaten oder Inhalte.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Zons: „Seit 15 Jahren versucht der Staat immer wieder, eine anlasslose Massenüberwachung einzuführen. […] Heute sind es IP-Adressen, morgen Standortdaten oder Inhalte.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Zons die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Zons die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Günter Krings",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509400",
+     "words_source": 548,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "In einer großen Zahl dieser Fälle gibt es nur eine einzige Spur zum Täter: eine schlichte Zahlenkette, die IP-Adresse eines Computers. […] Nur bei 41 Prozent der Hinweise ließ sich die IP-Adresse einem Anschluss zuordnen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Dr. Günter Krings (CDU/CSU) betonte: „In einer großen Zahl dieser Fälle gibt es nur eine einzige Spur zum Täter: eine schlichte Zahlenkette, die IP-Adresse eines Computers. […] Nur bei 41 Prozent der Hinweise ließ sich die IP-Adresse einem Anschluss zuordnen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wäre sie nur einen halben Tag älter gewesen, wäre man den Tätern nicht mehr auf die Spur gekommen. […] Denn ohne unser Gesetz speichern die Anbieter von Internetzugangsdiensten IP-Adressen für maximal sieben Tage.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Krings: „Wäre sie nur einen halben Tag älter gewesen, wäre man den Tätern nicht mehr auf die Spur gekommen. […] Denn ohne unser Gesetz speichern die Anbieter von Internetzugangsdiensten IP-Adressen für maximal sieben Tage.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Krings sich an die SPD-Fraktion und die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Krings sich an die SPD-Fraktion und die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Helge Limburg",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509500",
+     "words_source": 703,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der vorliegende Gesetzentwurf soll in Deutschland die flächendeckende, anlasslose Massenspeicherung sämtlicher IP-Adressen einführen. […] Nein, für volle drei Monate möchte diese Koalition die Daten speichern. […] Mit diesem Gesetzentwurf wird die massenhafte Überwachung im Internet ganz real.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Helge Limburg (BÜNDNIS 90/DIE GRÜNEN) betonte: „Der vorliegende Gesetzentwurf soll in Deutschland die flächendeckende, anlasslose Massenspeicherung sämtlicher IP-Adressen einführen. […] Nein, für volle drei Monate möchte diese Koalition die Daten speichern. […] Mit diesem Gesetzentwurf wird die massenhafte Überwachung im Internet ganz real.“"
+      },
+      {
+       "type": "quote",
+       "text": "Kommt dann auch diese Speicherung? […] Wir stehen an der Seite der Anwältinnen und Anwälte, und wir fordern Sie auf, hier zum Schutz der Anwaltschaft zurückzukehren. […] In der Tat, Sie beide haben von Autokennzeichen gesprochen, und gleichzeitig bereiten Sie vor, dass Sie die Autokennzeichen im öffentlichen Raum automatisch erfassen wollen.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte Limburg: „Kommt dann auch diese Speicherung? […] Wir stehen an der Seite der Anwältinnen und Anwälte, und wir fordern Sie auf, hier zum Schutz der Anwaltschaft zurückzukehren. […] In der Tat, Sie beide haben von Autokennzeichen gesprochen, und gleichzeitig bereiten Sie vor, dass Sie die Autokennzeichen im öffentlichen Raum automatisch erfassen wollen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Limburg sich an die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Limburg sich an die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Jan Köstering",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509600",
+     "words_source": 386,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die zentrale Speicherung großer Mengen sensibler Daten schafft ein erhebliches Sicherheitsrisiko.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Jan Köstering (Die Linke) betonte: „Die zentrale Speicherung großer Mengen sensibler Daten schafft ein erhebliches Sicherheitsrisiko.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wenn künftig Äußerungen im Internet, die gerade unter Jugendlichen sehr beliebt sind, mithilfe der Vorratsdatenspeicherung 3.0 strafrechtlich verfolgt werden – Stichwort: „Politikerbeleidigung nach § 188 Strafgesetzbuch“ –, dann liegt womöglich Ihr wahres Ansinnen offen.",
+       "verb": "kündigte an",
+       "source": "rule",
+       "display": "Weiter kündigte Köstering an: „Wenn künftig Äußerungen im Internet, die gerade unter Jugendlichen sehr beliebt sind, mithilfe der Vorratsdatenspeicherung 3.0 strafrechtlich verfolgt werden – Stichwort: „Politikerbeleidigung nach § 188 Strafgesetzbuch“ –, dann liegt womöglich Ihr wahres Ansinnen offen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Köstering die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Köstering die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Anne König",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509700",
+     "words_source": 358,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Künftig wird die Zuordnung einer IP-Adresse zu einem Anschluss für drei Monate gespeichert.",
+       "verb": "sagte zu",
+       "source": "rule",
+       "display": "Anne König (CDU/CSU) sagte zu: „Künftig wird die Zuordnung einer IP-Adresse zu einem Anschluss für drei Monate gespeichert.“"
+      },
+      {
+       "type": "quote",
+       "text": "Für Ermittler können sie aber den Unterschied zwischen Aufklärung und Einstellung eines Verfahrens bedeuten; denn bei Straftaten im Internet ist die IP-Adresse oft die einzige verwertbare Spur.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "König fügte hinzu: „Für Ermittler können sie aber den Unterschied zwischen Aufklärung und Einstellung eines Verfahrens bedeuten; denn bei Straftaten im Internet ist die IP-Adresse oft die einzige verwertbare Spur.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Sebastian Fiedler",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509800",
+     "words_source": 695,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Herr Kollege Limburg, mir ist gar nicht so ganz eingängig, dass Sie den Deutschen Anwaltverein als Interessenvertretung der Strafverfolgungsbehörden klassifizieren. […] Das dürften Anwältinnen und Anwälte nicht sein.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Sebastian Fiedler (SPD) betonte: „Herr Kollege Limburg, mir ist gar nicht so ganz eingängig, dass Sie den Deutschen Anwaltverein als Interessenvertretung der Strafverfolgungsbehörden klassifizieren. […] Das dürften Anwältinnen und Anwälte nicht sein.“"
+      },
+      {
+       "type": "quote",
+       "text": "In zahlreichen Fällen dieses in der Tat fürchterlichsten Phänomens der sogenannten Kinderpornografie ist es entweder so, dass wir Strafverfolgung überhaupt nur mit IP-Adressen ermöglichen können, oder so, dass wir Kinder aus den Fängen ihrer Peiniger befreien müssen, wenn der Missbrauch eben noch andauert. […] Es gibt entweder noch Daten, oder es gibt eben keine mehr.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Fiedler: „In zahlreichen Fällen dieses in der Tat fürchterlichsten Phänomens der sogenannten Kinderpornografie ist es entweder so, dass wir Strafverfolgung überhaupt nur mit IP-Adressen ermöglichen können, oder so, dass wir Kinder aus den Fängen ihrer Peiniger befreien müssen, wenn der Missbrauch eben noch andauert. […] Es gibt entweder noch Daten, oder es gibt eben keine mehr.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Fiedler die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Fiedler die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Helge Limburg",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID218509800",
+     "words_source": 9,
+     "parts": []
+    },
+    {
+     "speaker": "Helge Limburg",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID218509800",
+     "words_source": 99,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Würden Sie bitte zur Kenntnis nehmen, dass der Deutsche Anwaltverein sehr klar und sehr deutlich diesen Gesetzentwurf kritisiert hat?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Helge Limburg (BÜNDNIS 90/DIE GRÜNEN) fragte: „Würden Sie bitte zur Kenntnis nehmen, dass der Deutsche Anwaltverein sehr klar und sehr deutlich diesen Gesetzentwurf kritisiert hat?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Christian Moser",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218509900",
+     "words_source": 316,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wer aber hinter dieser IP-Adresse steckt, ist für die Ermittler regelmäßig nicht einsehbar, weil die Daten nicht oder deutlich zu kurz gespeichert werden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Christian Moser (CDU/CSU) erklärte: „Wer aber hinter dieser IP-Adresse steckt, ist für die Ermittler regelmäßig nicht einsehbar, weil die Daten nicht oder deutlich zu kurz gespeichert werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Genau deshalb hält auch der Europäische Gerichtshof eine anlasslose Speicherung von IP-Adressen für begründet.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Moser: „Genau deshalb hält auch der Europäische Gerichtshof eine anlasslose Speicherung von IP-Adressen für begründet.“"
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Recht und Verbraucherschutz (federführend)",
+    "Innenausschuss",
+    "Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+    "Ausschuss für Digitales und Staatsmodernisierung",
+    "Haushaltsausschuss (mitberatend und gemäß § 96 GO-BT)"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "TOP 4",
+   "label": "Punkt 4 der Tagesordnung",
+   "title": "Beratung des Antrags der Abgeordneten Leif-Erik Holm, Steffen Kotré, Marc Bernhard, weiterer Abgeordneter und der Fraktion der AfD Neue Wirtschaftskraft entfesseln – Bürger und Unternehmen entlasten",
+   "drucksachen": [
+    "21/6636"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 4",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Leif-Erik Holm",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510000",
+     "words_source": 622,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Bis Jahresende müssen deswegen in Deutschland 19 000 Mitarbeiter das Unternehmen verlassen, bis 2030 mehr als 28 000. Werkschließungen in Emden, Zwickau, Hannover und Neckarsulm stehen zur Debatte. […] Haufenweise geht das Steuerzahlergeld in alle Welt, statt endlich zu sparen und dann für unsere Bürger und Unternehmen endlich eine Entlastung zu organisieren.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Leif-Erik Holm (AfD) forderte: „Bis Jahresende müssen deswegen in Deutschland 19 000 Mitarbeiter das Unternehmen verlassen, bis 2030 mehr als 28 000. Werkschließungen in Emden, Zwickau, Hannover und Neckarsulm stehen zur Debatte. […] Haufenweise geht das Steuerzahlergeld in alle Welt, statt endlich zu sparen und dann für unsere Bürger und Unternehmen endlich eine Entlastung zu organisieren.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir wollen und werden in Regierungsverantwortung neue Wirtschaftskraft entfesseln, und das geht nur über mehr Freiheit. […] Wir werden alle Bürger entlasten.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Holm fügte hinzu: „Wir wollen und werden in Regierungsverantwortung neue Wirtschaftskraft entfesseln, und das geht nur über mehr Freiheit. […] Wir werden alle Bürger entlasten.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Holm sich an die Bundesregierung und die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Holm sich an die Bundesregierung und die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Klaus Wiener",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510100",
+     "words_source": 724,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der Titel des heutigen AfD-Antrags lautet „Neue Wirtschaftskraft entfesseln – Bürger und Unternehmen entlasten“. […] Also auch hier: Alarmismus pur von Ihrer Seite! […] Vielleicht darf ich Sie mal daran erinnern, dass genau diese Staatsquote bereits 1975 bei 48,8 Prozent gelegen hat. […] schon etliche Entlastungen für die Unternehmen auf den Weg gebracht, auch für die privaten Haushalte.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Klaus Wiener (CDU/CSU) erklärte: „Der Titel des heutigen AfD-Antrags lautet „Neue Wirtschaftskraft entfesseln – Bürger und Unternehmen entlasten“. […] Also auch hier: Alarmismus pur von Ihrer Seite! […] Vielleicht darf ich Sie mal daran erinnern, dass genau diese Staatsquote bereits 1975 bei 48,8 Prozent gelegen hat. […] schon etliche Entlastungen für die Unternehmen auf den Weg gebracht, auch für die privaten Haushalte.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben die Steuern auf Kraftstoffe gesenkt – ich habe es gesagt –, und das wirkt wunderbar. […] Auch das zeigt, dass die Menschen entlastet werden. […] Sie sehen: Ihr Alarmismus ist nicht erforderlich.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Wiener fügte hinzu: „Wir haben die Steuern auf Kraftstoffe gesenkt – ich habe es gesagt –, und das wirkt wunderbar. […] Auch das zeigt, dass die Menschen entlastet werden. […] Sie sehen: Ihr Alarmismus ist nicht erforderlich.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Wiener die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Wiener die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Sandra Detzer",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510200",
+     "words_source": 579,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deswegen geht es um den Abbau des Reformstaus im Innern und um die Sicherung des Binnenmarktes im europäischen Kontext. […] Wir Grünen schlagen vor, sie zu stabilisieren und perspektivisch hoffentlich zu senken. […] Ich erwarte von der Union, dass sie zu den vereinbarten Klimazielen steht, weil es Planungssicherheit für Unternehmen und ihre Beschäftigten braucht.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Dr. Sandra Detzer (BÜNDNIS 90/DIE GRÜNEN) betonte: „Deswegen geht es um den Abbau des Reformstaus im Innern und um die Sicherung des Binnenmarktes im europäischen Kontext. […] Wir Grünen schlagen vor, sie zu stabilisieren und perspektivisch hoffentlich zu senken. […] Ich erwarte von der Union, dass sie zu den vereinbarten Klimazielen steht, weil es Planungssicherheit für Unternehmen und ihre Beschäftigten braucht.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen den europäischen Binnenmarkt in einem guten Zustand. […] Deutsche Wirtschaftspolitik ist europäische Wirtschaftspolitik.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte sie: „Wir brauchen den europäischen Binnenmarkt in einem guten Zustand. […] Deutsche Wirtschaftspolitik ist europäische Wirtschaftspolitik.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Jens Peick",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510300",
+     "words_source": 747,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Stattdessen wollen Sie bei uns die Löhne drücken, die Unternehmensteuer senken, die Handlungsfähigkeit des Staates einschränken […] Selbst wenn hier alle Beschäftigten ohne Lohn arbeiten würden, wären unsere Betriebe gegenüber den chinesischen Staatsunternehmen nicht wettbewerbsfähig; denn es gibt keinen fairen Wettbewerb mit China. Ihre Vorschläge würden die Beschäftigten, die Industrie und unsere gesamte Wirtschaft in den Abgrund führen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Jens Peick (SPD) betonte: „Stattdessen wollen Sie bei uns die Löhne drücken, die Unternehmensteuer senken, die Handlungsfähigkeit des Staates einschränken […] Selbst wenn hier alle Beschäftigten ohne Lohn arbeiten würden, wären unsere Betriebe gegenüber den chinesischen Staatsunternehmen nicht wettbewerbsfähig; denn es gibt keinen fairen Wettbewerb mit China. Ihre Vorschläge würden die Beschäftigten, die Industrie und unsere gesamte Wirtschaft in den Abgrund führen.“"
+      },
+      {
+       "type": "quote",
+       "text": "In ihrem Antrag macht die AfD sogar einen konkreten Vorschlag, an dem sich das zeigt. […] Deutschland braucht keine schwarzmalerische Wirtschaftspolitik von gestern, keine Wirtschaftspolitik der Angst; wir brauchen eine Wirtschaftspolitik der Zuversicht.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „In ihrem Antrag macht die AfD sogar einen konkreten Vorschlag, an dem sich das zeigt. […] Deutschland braucht keine schwarzmalerische Wirtschaftspolitik von gestern, keine Wirtschaftspolitik der Angst; wir brauchen eine Wirtschaftspolitik der Zuversicht.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Janine Wissler",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510400",
+     "words_source": 438,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie schlagen hier Maßnahmen vor wie das Kirchhof-Steuermodell: 25 Prozent Steuern, egal ob Einkommensmillionär oder Normalverdiener. […] Also, man würde massiv entlastet werden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Janine Wissler (Die Linke) erklärte: „Sie schlagen hier Maßnahmen vor wie das Kirchhof-Steuermodell: 25 Prozent Steuern, egal ob Einkommensmillionär oder Normalverdiener. […] Also, man würde massiv entlastet werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Also wenn die AfD irgendwo Entlastung draufschreibt, dann sind es immer Geschenke an die Reichen: Unternehmensteuer senken, Staatsquote senken, sozialer Kahlschlag. […] Aber die AfD will ja noch mehr soziale Grausamkeit",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Also wenn die AfD irgendwo Entlastung draufschreibt, dann sind es immer Geschenke an die Reichen: Unternehmensteuer senken, Staatsquote senken, sozialer Kahlschlag. […] Aber die AfD will ja noch mehr soziale Grausamkeit“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Vanessa Zobel",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510500",
+     "words_source": 606,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was Sie von der AfD vorschlagen, ist ein Konjunkturprogramm direkt für diese Schulden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Vanessa Zobel (CDU/CSU) erklärte: „Was Sie von der AfD vorschlagen, ist ein Konjunkturprogramm direkt für diese Schulden.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion BÜNDNIS 90/DIE GRÜNEN und die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion BÜNDNIS 90/DIE GRÜNEN und die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Marc Bernhard",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510600",
+     "words_source": 374,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "weil sie müssen, weil wir weltweit die höchsten Steuern und Energiepreise zahlen müssen […] Wir werden die Wirtschaft und die Bürger durch eine grundlegende Steuerreform mit maximal 25 Prozent Steuern entlasten.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Marc Bernhard (AfD) forderte: „weil sie müssen, weil wir weltweit die höchsten Steuern und Energiepreise zahlen müssen […] Wir werden die Wirtschaft und die Bürger durch eine grundlegende Steuerreform mit maximal 25 Prozent Steuern entlasten.“"
+      },
+      {
+       "type": "quote",
+       "text": "70 Prozent der Energiepreise sind nichts als Steuern und Abgaben.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Bernhard fügte hinzu: „70 Prozent der Energiepreise sind nichts als Steuern und Abgaben.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Bernhard die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Bernhard die Fraktion der CDU/CSU."
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Wirtschaft und Energie (federführend)",
+    "Finanzausschuss",
+    "Ausschuss für Arbeit und Soziales",
+    "Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+    "Verkehrsausschuss",
+    "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "Ausschuss für die Angelegenheiten der Europäischen Union",
+    "Ausschuss für Digitales und Staatsmodernisierung"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "TOP 3",
+   "label": "Punkt 3 der Tagesordnung",
+   "title": "Beratung der Unterrichtung durch die Bundesregierung Nachhaltigkeit für ein modernes und zukunftsfähiges Deutschland Beschluss der Bundesregierung",
+   "drucksachen": [
+    "21/2696"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 3",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Kathrin Michel",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510700",
+     "words_source": 599,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Nachhaltigkeit ist kein Umweltprogramm, Nachhaltigkeit ist ein Gesellschaftsprogramm. […] Nachhaltigkeit schützt nicht die Natur vor dem Menschen, Nachhaltigkeit bewahrt Lebensgrundlagen des Menschen. […] Kolleginnen und Kollegen, Nachhaltigkeit braucht Ziele, Nachhaltigkeit braucht Strategien, und vor allem braucht Nachhaltigkeit Umsetzung. Und genau deshalb brauchen wir einen Aktionsplan für ein modernes und zukunftsfähiges Deutschland.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Kathrin Michel (SPD) erklärte: „Nachhaltigkeit ist kein Umweltprogramm, Nachhaltigkeit ist ein Gesellschaftsprogramm. […] Nachhaltigkeit schützt nicht die Natur vor dem Menschen, Nachhaltigkeit bewahrt Lebensgrundlagen des Menschen. […] Kolleginnen und Kollegen, Nachhaltigkeit braucht Ziele, Nachhaltigkeit braucht Strategien, und vor allem braucht Nachhaltigkeit Umsetzung. Und genau deshalb brauchen wir einen Aktionsplan für ein modernes und zukunftsfähiges Deutschland.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ein Werkstattgespräch ersetzt keine parlamentarische Beteiligung. […] Wir diskutieren seit mehr als 20 Jahren darüber, wie Nachhaltigkeit wirksamer werden kann.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Ein Werkstattgespräch ersetzt keine parlamentarische Beteiligung. […] Wir diskutieren seit mehr als 20 Jahren darüber, wie Nachhaltigkeit wirksamer werden kann.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Rainer Groß",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510800",
+     "words_source": 519,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der vorgelegte Beschluss zur Nachhaltigkeit für ein modernes und zukunftsfähiges Deutschland ist ein Beweis genau dafür. Denn er beruft sich auf die UN-Agenda 2030, die angebliche Nachhaltigkeit mit einem Theorem von 17 Zielen und 169 Unterzielen definiert. […] Das Mantra der Nachhaltigkeit als Rettung vor der Apokalypse?",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Rainer Groß (AfD) erklärte: „Der vorgelegte Beschluss zur Nachhaltigkeit für ein modernes und zukunftsfähiges Deutschland ist ein Beweis genau dafür. Denn er beruft sich auf die UN-Agenda 2030, die angebliche Nachhaltigkeit mit einem Theorem von 17 Zielen und 169 Unterzielen definiert. […] Das Mantra der Nachhaltigkeit als Rettung vor der Apokalypse?“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen also vor allem einen Ausstieg aus dem ideologisch besetzten Begriff von Nachhaltigkeit.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Wir brauchen also vor allem einen Ausstieg aus dem ideologisch besetzten Begriff von Nachhaltigkeit.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Volker Mayer-Lay",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218510900",
+     "words_source": 319,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ohne starke Wirtschaft gibt es keine nachhaltige Entwicklung. […] Ohne solide Staatsfinanzen gibt es keine Generationengerechtigkeit. Der Begriff der Nachhaltigkeit wird viel zu oft auf Umwelt- und Klimaschutz reduziert.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Volker Mayer-Lay (CDU/CSU) erklärte: „Ohne starke Wirtschaft gibt es keine nachhaltige Entwicklung. […] Ohne solide Staatsfinanzen gibt es keine Generationengerechtigkeit. Der Begriff der Nachhaltigkeit wird viel zu oft auf Umwelt- und Klimaschutz reduziert.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die 17 Nachhaltigkeitsziele der Agenda 2030 bleiben unser klarer Kompass.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Die 17 Nachhaltigkeitsziele der Agenda 2030 bleiben unser klarer Kompass.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511000",
+     "words_source": 543,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Fast neun Monate haben Sie gebraucht – für eine 30-minütige Debatte zum Thema Nachhaltigkeit. […] Sie setzen hier heute die Debatte auf, während keine 3 Kilometer von hier im Konrad-Adenauer-Haus ein sogenanntes Werkstattgespräch stattfindet. Thema Klimaschutz, oder besser: kein Klimaschutz.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) betonte: „Fast neun Monate haben Sie gebraucht – für eine 30-minütige Debatte zum Thema Nachhaltigkeit. […] Sie setzen hier heute die Debatte auf, während keine 3 Kilometer von hier im Konrad-Adenauer-Haus ein sogenanntes Werkstattgespräch stattfindet. Thema Klimaschutz, oder besser: kein Klimaschutz.“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber, liebe Koalition, Nachhaltigkeit ist mehr als Klimaschutz und Wirtschaft. Es geht auch um soziale Nachhaltigkeit und soziale Gerechtigkeit.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Aber, liebe Koalition, Nachhaltigkeit ist mehr als Klimaschutz und Wirtschaft. Es geht auch um soziale Nachhaltigkeit und soziale Gerechtigkeit.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Paul Schmidt",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID218511100",
+     "words_source": 136,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Dr. Paul Schmidt (AfD) wandte sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN.",
+       "verb": null,
+       "source": "rule",
+       "display": "Dr. Paul Schmidt (AfD) wandte sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511200",
+     "words_source": 118,
+     "parts": []
+    },
+    {
+     "speaker": "Lorenz Gösta Beutin",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511300",
+     "words_source": 416,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "In Ziel acht der Vereinten Nationen heißt es im Original – Zitat –: „Dauerhaftes, inklusives Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern“. […] Zitat aus dem Bericht: „Leistungsfähige, nachhaltige Wirtschaft sowie dauerhaft hohes, nachhaltiges Wirtschaftswachstum“.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Lorenz Gösta Beutin (Die Linke) erklärte: „In Ziel acht der Vereinten Nationen heißt es im Original – Zitat –: „Dauerhaftes, inklusives Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern“. […] Zitat aus dem Bericht: „Leistungsfähige, nachhaltige Wirtschaft sowie dauerhaft hohes, nachhaltiges Wirtschaftswachstum“.“"
+      },
+      {
+       "type": "quote",
+       "text": "Nun, was wollen die Vereinten Nationen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte Beutin: „Nun, was wollen die Vereinten Nationen?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Beutin die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Beutin die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Elisabeth Winkelmeier-Becker",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511400",
+     "words_source": 650,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie hat sich explizit zur deutschen Nachhaltigkeitsstrategie und ihren Zielen bis 2030 bekannt, auch zur internationalen Nachhaltigkeitspolitik, und macht das zur Grundlage der heutigen Politik. […] Wir drei – der Parlamentarische Beirat für nachhaltige Entwicklung und Zukunftsfragen und diese beiden Strukturen – werden auch weiterhin gut zusammenarbeiten. […] Die Bundesregierung hat fünf prioritäre Handlungsfelder benannt: die Staatsmodernisierung, –",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Elisabeth Winkelmeier-Becker (CDU/CSU) erklärte: „Sie hat sich explizit zur deutschen Nachhaltigkeitsstrategie und ihren Zielen bis 2030 bekannt, auch zur internationalen Nachhaltigkeitspolitik, und macht das zur Grundlage der heutigen Politik. […] Wir drei – der Parlamentarische Beirat für nachhaltige Entwicklung und Zukunftsfragen und diese beiden Strukturen – werden auch weiterhin gut zusammenarbeiten. […] Die Bundesregierung hat fünf prioritäre Handlungsfelder benannt: die Staatsmodernisierung, –“"
+      },
+      {
+       "type": "quote",
+       "text": "Ein Werkstattgespräch ist immer gut. […] Zunächst aber noch Folgendes: Die Bundesregierung hat ihre Priorität Nummer eins auf die Staatsmodernisierung gesetzt.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte sie: „Ein Werkstattgespräch ist immer gut. […] Zunächst aber noch Folgendes: Die Bundesregierung hat ihre Priorität Nummer eins auf die Staatsmodernisierung gesetzt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wagner",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID218511400",
+     "words_source": 158,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie gehen Sie damit um, dass gerade jetzt, parallel zu dieser Debatte, die hier aufgesetzt worden ist, im Konrad-Adenauer-Haus dieses Werkstattgespräch gegen Klimaschutz stattfindet?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Johannes Wagner (BÜNDNIS 90/DIE GRÜNEN) fragte: „Wie gehen Sie damit um, dass gerade jetzt, parallel zu dieser Debatte, die hier aufgesetzt worden ist, im Konrad-Adenauer-Haus dieses Werkstattgespräch gegen Klimaschutz stattfindet?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Rainer Kraft",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511500",
+     "words_source": 462,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "2021 bestand noch die Absicht, jährlich eine parlamentarische Woche der Nachhaltigkeit durchzuführen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Rainer Kraft (AfD) erklärte: „2021 bestand noch die Absicht, jährlich eine parlamentarische Woche der Nachhaltigkeit durchzuführen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das Nachhaltigkeitsziel Nummer acht der von Ihnen zitierten Agenda 2030 fordert ein nachhaltiges, umfassendes Wirtschaftswachstum sowie vollständige und produktive Beschäftigung.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Das Nachhaltigkeitsziel Nummer acht der von Ihnen zitierten Agenda 2030 fordert ein nachhaltiges, umfassendes Wirtschaftswachstum sowie vollständige und produktive Beschäftigung.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Caroline Bosbach",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511600",
+     "words_source": 533,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der Begriff der Nachhaltigkeit braucht ein neues Image.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Caroline Bosbach (CDU/CSU) verlangte: „Der Begriff der Nachhaltigkeit braucht ein neues Image.“"
+      },
+      {
+       "type": "quote",
+       "text": "Besonders begrüße ich daher zum Beispiel, dass der Aktionsplan laut Beschluss, den wir vorliegen haben, bei den Handlungsfeldern der Missionen an erster Stelle ganz bewusst nachhaltige, langfristig tragfähige Staatsfinanzen gesetzt hat. Denn „Nachhaltigkeit“ und „Generationengerechtigkeit“ sind ja so Buzzwords, die in keiner guten Sonntagsrede fehlen dürfen.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte Bosbach: „Besonders begrüße ich daher zum Beispiel, dass der Aktionsplan laut Beschluss, den wir vorliegen haben, bei den Handlungsfeldern der Missionen an erster Stelle ganz bewusst nachhaltige, langfristig tragfähige Staatsfinanzen gesetzt hat. Denn „Nachhaltigkeit“ und „Generationengerechtigkeit“ sind ja so Buzzwords, die in keiner guten Sonntagsrede fehlen dürfen.“"
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (federführend)",
+    "Ausschuss für Recht und Verbraucherschutz",
+    "Ausschuss für Wirtschaft und Energie",
+    "Ausschuss für Digitales und Staatsmodernisierung"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "TOP 5",
+   "label": "Punkt 5 der Tagesordnung",
+   "title": "Beratung des Antrags der Abgeordneten Kathrin Gebel, Aaron Valent, Dr. Michael Arndt, weiterer Abgeordneter und der Fraktion Die Linke Demokratie stärken – Chancengerechtigkeit durch Geschlechterparität",
+   "drucksachen": [
+    "21/6105"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 5",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Kathrin Gebel",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511700",
+     "words_source": 400,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deswegen brauchen wir auch keine ungerechten Quoten, und deshalb fordern wir Linke in unserem Antrag die Einführung geschlechtergerechter, paritätisch besetzter Landeslisten.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Kathrin Gebel (Die Linke) forderte: „Deswegen brauchen wir auch keine ungerechten Quoten, und deshalb fordern wir Linke in unserem Antrag die Einführung geschlechtergerechter, paritätisch besetzter Landeslisten.“"
+      },
+      {
+       "type": "quote",
+       "text": "Laut dem Global Gender Gap Report würde es noch 163 Jahre dauern, bis Gleichberechtigung von Männern und Frauen in der politischen Teilhabe Realität ist.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Gebel fügte hinzu: „Laut dem Global Gender Gap Report würde es noch 163 Jahre dauern, bis Gleichberechtigung von Männern und Frauen in der politischen Teilhabe Realität ist.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Martin Plum",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511800",
+     "words_source": 595,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Linke will damit gesetzlich vorschreiben, dass Landeslisten künftig im Reißverschlussverfahren aufgestellt werden: Frau, Mann, Frau, Mann – oder umgekehrt: Mann, Frau, Mann, Frau. […] Artikel 38 Absatz 1 Satz 2 unseres Grundgesetzes bringt es auf den Punkt: […] Sie vertreten nicht ein bestimmtes Geschlecht.",
+       "verb": "kündigte an",
+       "source": "rule",
+       "display": "Dr. Martin Plum (CDU/CSU) kündigte an: „Die Linke will damit gesetzlich vorschreiben, dass Landeslisten künftig im Reißverschlussverfahren aufgestellt werden: Frau, Mann, Frau, Mann – oder umgekehrt: Mann, Frau, Mann, Frau. […] Artikel 38 Absatz 1 Satz 2 unseres Grundgesetzes bringt es auf den Punkt: […] Sie vertreten nicht ein bestimmtes Geschlecht.“"
+      },
+      {
+       "type": "quote",
+       "text": "Auch Artikel 38 Absatz 1 Satz 1 unseres Grundgesetzes steht einem starren gesetzlichen Paritätsmodell entgegen. […] Selbstverständlich steht daneben das Gleichberechtigungsgebot des Artikel 3 Absatz 2 Grundgesetz:",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Auch Artikel 38 Absatz 1 Satz 1 unseres Grundgesetzes steht einem starren gesetzlichen Paritätsmodell entgegen. […] Selbstverständlich steht daneben das Gleichberechtigungsgebot des Artikel 3 Absatz 2 Grundgesetz:“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Fabian Jacobi",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218511900",
+     "words_source": 600,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Bald acht Jahre ist das her, und es gibt aufseiten der Linken keinerlei Einsicht. […] Es soll vor den Wahlen vorgeschrieben werden, wie sich nach den Wahlen das Parlament zusammensetzen muss.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Fabian Jacobi (AfD) erklärte: „Bald acht Jahre ist das her, und es gibt aufseiten der Linken keinerlei Einsicht. […] Es soll vor den Wahlen vorgeschrieben werden, wie sich nach den Wahlen das Parlament zusammensetzen muss.“"
+      },
+      {
+       "type": "quote",
+       "text": "Nachdem ich im Jahr 2018 hier dazu gesprochen hatte, haben Sie von der Die Linke im Jahr 2019 Ihren Anschlag auf die Demokratie bereits in die Tat umgesetzt – gemeinsam mit den Grünen und der SPD.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Nachdem ich im Jahr 2018 hier dazu gesprochen hatte, haben Sie von der Die Linke im Jahr 2019 Ihren Anschlag auf die Demokratie bereits in die Tat umgesetzt – gemeinsam mit den Grünen und der SPD.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU und die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU und die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Carmen Wegge",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512000",
+     "words_source": 920,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "1994 wurde Artikel 3 Absatz 2 des Grundgesetzes ergänzt durch den Satz: […] Im 21. Deutschen Bundestag beträgt der Frauenanteil jedoch nur 32,4 Prozent. […] Deshalb ist das Geschlecht kein Unterscheidungskriterium wie jedes andere und die Gleichberechtigung von Männern und Frauen ein Ziel von Verfassungsrang. […] Frauen wenden pro Tag im Durchschnitt 76 Minuten mehr Zeit für Sorgearbeit auf als Männer.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Carmen Wegge (SPD) betonte: „1994 wurde Artikel 3 Absatz 2 des Grundgesetzes ergänzt durch den Satz: […] Im 21. Deutschen Bundestag beträgt der Frauenanteil jedoch nur 32,4 Prozent. […] Deshalb ist das Geschlecht kein Unterscheidungskriterium wie jedes andere und die Gleichberechtigung von Männern und Frauen ein Ziel von Verfassungsrang. […] Frauen wenden pro Tag im Durchschnitt 76 Minuten mehr Zeit für Sorgearbeit auf als Männer.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Frage, ob wir Parität wollen, wird nicht im Gerichtssaal entschieden. […] Die Linke zum heutigen Aktionstag für Parität! […] Dann müssten wir über die Erststimme reden, über die Wahlkreise oder darüber, dass wir das bestehende Wahlrecht einfach über einen Zuteilungsmechanismus ergänzen, um bei 50/50 zu landen. […] Ein paritätisches Wahlrecht ist rechtlich möglich.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Die Frage, ob wir Parität wollen, wird nicht im Gerichtssaal entschieden. […] Die Linke zum heutigen Aktionstag für Parität! […] Dann müssten wir über die Erststimme reden, über die Wahlkreise oder darüber, dass wir das bestehende Wahlrecht einfach über einen Zuteilungsmechanismus ergänzen, um bei 50/50 zu landen. […] Ein paritätisches Wahlrecht ist rechtlich möglich.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion Die Linke und die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion Die Linke und die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Ulle Schauws",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512100",
+     "words_source": 623,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich sage: Heute stehen wir nicht alleine hier und fordern, dass wir Parität in den Parlamenten bekommen müssen. […] Wir sind hier an der Seite der Linken und der SPD bei diesem Thema schon lange unterwegs.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN) forderte: „Ich sage: Heute stehen wir nicht alleine hier und fordern, dass wir Parität in den Parlamenten bekommen müssen. […] Wir sind hier an der Seite der Linken und der SPD bei diesem Thema schon lange unterwegs.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wenn in einem Parlament überwiegend Männer sitzen, auch schreiende Männer von rechts, […] Sie beginnt mit gezielter Förderung von Frauen, mit Mentoringprogrammen und Rahmenbedingungen, die politische Beteiligung ermöglichen, mit dem Willen von Parteien, Gleichberechtigung zu wollen und umzusetzen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Wenn in einem Parlament überwiegend Männer sitzen, auch schreiende Männer von rechts, […] Sie beginnt mit gezielter Förderung von Frauen, mit Mentoringprogrammen und Rahmenbedingungen, die politische Beteiligung ermöglichen, mit dem Willen von Parteien, Gleichberechtigung zu wollen und umzusetzen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Karsten Hilse",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID218512200",
+     "words_source": 124,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Nun ist es ja so, dass Sie auch die Meinung vertreten, dass es nicht nur zwei Geschlechter gibt, sondern mehrere Geschlechter, also 50, 60, 70, 80.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Karsten Hilse (AfD) betonte: „Nun ist es ja so, dass Sie auch die Meinung vertreten, dass es nicht nur zwei Geschlechter gibt, sondern mehrere Geschlechter, also 50, 60, 70, 80.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Ulle Schauws",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512300",
+     "words_source": 287,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es gibt Lösungsvorschläge, wie es aussehen kann, wenn wir mehr als nur die zwei Geschlechter abbilden wollen, wodurch sich dann auch eine Abbildung der mehr als nur zwei Geschlechter im Wahlrecht wiederfindet.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Es gibt Lösungsvorschläge, wie es aussehen kann, wenn wir mehr als nur die zwei Geschlechter abbilden wollen, wodurch sich dann auch eine Abbildung der mehr als nur zwei Geschlechter im Wahlrecht wiederfindet.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Christina Stumpp",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512400",
+     "words_source": 459,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Linke schlägt vor, per Gesetz eine starre Geschlechterparität auf Landeslisten vorzuschreiben. […] So etwas vorzuschreiben, ist mit innerparteilicher Demokratie nicht vertretbar.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Christina Stumpp (CDU/CSU) betonte: „Die Linke schlägt vor, per Gesetz eine starre Geschlechterparität auf Landeslisten vorzuschreiben. […] So etwas vorzuschreiben, ist mit innerparteilicher Demokratie nicht vertretbar.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die CDU Deutschlands hat sich deshalb selbst das Ziel gesetzt, den Anteil von Frauen auf ihren Listen deutlich zu erhöhen und perspektivisch die Parität zu erreichen. […] Genau dort müssen wir doch als Parteien ansetzen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Die CDU Deutschlands hat sich deshalb selbst das Ziel gesetzt, den Anteil von Frauen auf ihren Listen deutlich zu erhöhen und perspektivisch die Parität zu erreichen. […] Genau dort müssen wir doch als Parteien ansetzen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ulle Schauws",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID218512500",
+     "words_source": 155,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie haben hier gerade Ihre verstorbene Parteikollegin Professorin Süssmuth erwähnt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Sie haben hier gerade Ihre verstorbene Parteikollegin Professorin Süssmuth erwähnt.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Christina Stumpp",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512600",
+     "words_source": 202,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Da bringt eine Quotierung auf Listen, eine paritätische Listenaufstellung, wie sie Die Linke und Sie von den Grünen fordern, wenig.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Christina Stumpp (CDU/CSU) forderte: „Da bringt eine Quotierung auf Listen, eine paritätische Listenaufstellung, wie sie Die Linke und Sie von den Grünen fordern, wenig.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN."
+      }
+     ]
+    },
+    {
+     "speaker": "Thomas Fetsch",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512700",
+     "words_source": 396,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Linke einen Antrag zur Herstellung der Geschlechterparität im Deutschen Bundestag. […] Es gibt daher auch weiterhin gute Gründe, anzunehmen, dass ein Paritätsgesetz verfassungswidrig wäre.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Thomas Fetsch (AfD) erklärte: „Die Linke einen Antrag zur Herstellung der Geschlechterparität im Deutschen Bundestag. […] Es gibt daher auch weiterhin gute Gründe, anzunehmen, dass ein Paritätsgesetz verfassungswidrig wäre.“"
+      },
+      {
+       "type": "quote",
+       "text": "Alle Parteien haben unter ihren Mitgliedern einen Frauenanteil von deutlich unter 50 Prozent; selbst bei Bündnis 90/Die Grünen sind es circa 45 Prozent.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Alle Parteien haben unter ihren Mitgliedern einen Frauenanteil von deutlich unter 50 Prozent; selbst bei Bündnis 90/Die Grünen sind es circa 45 Prozent.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Thomas Silberhorn",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID218512800",
+     "words_source": 417,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie wollen die Parteien verpflichten, ihre Landeslisten abwechselnd mit Frauen und Männern zu besetzen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Thomas Silberhorn (CDU/CSU) betonte: „Sie wollen die Parteien verpflichten, ihre Landeslisten abwechselnd mit Frauen und Männern zu besetzen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Im Übrigen wird man sogar Listen zulassen müssen von Parteien, die nach ihren Statuten nur ein Geschlecht vertreten wollen – zum Beispiel nur Frauen, wie das bei kommunalen Wahllisten seit vielen Jahren gang und gäbe ist.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Im Übrigen wird man sogar Listen zulassen müssen von Parteien, die nach ihren Statuten nur ein Geschlecht vertreten wollen – zum Beispiel nur Frauen, wie das bei kommunalen Wahllisten seit vielen Jahren gang und gäbe ist.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion Die Linke und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion Die Linke und die Bundesregierung."
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Innenausschuss (federführend)",
+    "Ausschuss für Recht und Verbraucherschutz"
+   ],
+   "subitems": []
+  }
+ ],
+ "compute": {
+  "rule_seconds": 9.29,
+  "wall_seconds": 9.8,
+  "llm_calls": 0,
+  "llm_calls_cached": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0,
+  "llm_seconds": 0
+ },
+ "reported_checks": []
+}

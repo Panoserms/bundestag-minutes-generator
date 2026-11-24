@@ -1,0 +1,44 @@
+{
+ "C": {
+  "items": 7,
+  "speeches": 226,
+  "quote_segments": 330,
+  "quotes_exact": 325,
+  "quotes_misattributed": 5,
+  "quotes_near": 0,
+  "quotes_not_found": 0,
+  "exact_rate": 0.985,
+  "fragment_quotes": 0,
+  "quote_placement_ok": "319/319",
+  "printed_items_in_output": 6,
+  "order_discordant_pairs": 0,
+  "debate_words": 19851,
+  "speech_words": 45057,
+  "length_ratio": 0.441,
+  "quoted_share": 0.969,
+  "top_intro": "fragt",
+  "top_intro_share": 0.311,
+  "distinct_intros": 7,
+  "intros": {
+   "fragt": 14,
+   "führt": 9,
+   "erklärt": 7,
+   "betont": 6,
+   "stellt": 5,
+   "hebt": 2,
+   "unterstreicht": 2
+  },
+  "speeches_with_kurzfassung": 45,
+  "gaps_per_speech": 0.54,
+  "compute": {
+   "rule_seconds": 11.39,
+   "wall_seconds": 11.7,
+   "llm_calls": 0,
+   "llm_calls_cached": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0,
+   "llm_seconds": 0
+  }
+ }
+}

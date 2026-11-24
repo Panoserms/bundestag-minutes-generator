@@ -1,0 +1,3787 @@
+{
+ "sid": "21100",
+ "system": "C",
+ "items": [
+  {
+   "id": "TOP 35",
+   "label": "Punkt 35 der Tagesordnung",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Telekommunikationsgesetzes und zur Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen",
+   "drucksachen": [
+    "21/8277"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 35",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Dr. Karsten Wildberger",
+     "group": "Bundesminister BMDS",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID2110000100",
+     "words_source": 873,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Seit Sommer 2025 liegt der Ausbau von Glasfaser und Mobilfunk im überragenden öffentlichen Interesse.",
+       "verb": "stellte den Gesetzentwurf vor",
+       "source": "rule",
+       "display": "Dr. Karsten Wildberger, Bundesminister für Digitales und Staatsmodernisierung, stellte den Gesetzentwurf vor: „Seit Sommer 2025 liegt der Ausbau von Glasfaser und Mobilfunk im überragenden öffentlichen Interesse.“"
+      },
+      {
+       "type": "quote",
+       "text": "Nach aktuellen Zahlen der Branche ist die Glasfaserausbauquote innerhalb eines Jahres von 53 auf 62 Prozent gestiegen – Glasfaser bis ans Haus.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Nach aktuellen Zahlen der Branche ist die Glasfaserausbauquote innerhalb eines Jahres von 53 auf 62 Prozent gestiegen – Glasfaser bis ans Haus.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das entlastet die Kommunen, und der Anschluss kommt schneller zu den Menschen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Das entlastet die Kommunen, und der Anschluss kommt schneller zu den Menschen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir bringen den Wechsel von Kupfer zu Glasfaser voran – endlich.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Wir bringen den Wechsel von Kupfer zu Glasfaser voran – endlich.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wer Glasfaser baut, braucht Planungssicherheit.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte er: „Wer Glasfaser baut, braucht Planungssicherheit.“"
+      },
+      {
+       "type": "quote",
+       "text": "Diese Novelle bringt den Ausbau voran und sichert fairen Wettbewerb.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Diese Novelle bringt den Ausbau voran und sichert fairen Wettbewerb.“"
+      },
+      {
+       "type": "quote",
+       "text": "Für 2027 sehen wir wieder ausreichende Mittel für den Breitbandausbau aus dem Sondervermögen vor, damit der Anschluss auch in dünn besiedelten Regionen kommt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Für 2027 sehen wir wieder ausreichende Mittel für den Breitbandausbau aus dem Sondervermögen vor, damit der Anschluss auch in dünn besiedelten Regionen kommt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Gute Netze dürfen keine Frage des Wohnorts sein.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Gute Netze dürfen keine Frage des Wohnorts sein.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Alexander Arpaschi",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000200",
+     "words_source": 756,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Auch damals war das Thema eine Änderung des Telekommunikationsgesetzes.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Alexander Arpaschi (AfD) betonte: „Auch damals war das Thema eine Änderung des Telekommunikationsgesetzes.“"
+      },
+      {
+       "type": "quote",
+       "text": "Lediglich eine Änderung stellte eine politische Willensbekundung dar, nämlich die Feststellung des überragenden öffentlichen Interesses für den Ausbau von Telekommunikationsnetzen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Lediglich eine Änderung stellte eine politische Willensbekundung dar, nämlich die Feststellung des überragenden öffentlichen Interesses für den Ausbau von Telekommunikationsnetzen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der heute vorliegende Entwurf zur Änderung des Telekommunikationsgesetzes, kurz: TKG, beschäftigt sich erneut mit dem Ausbau von Telekommunikationsnetzen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Der heute vorliegende Entwurf zur Änderung des Telekommunikationsgesetzes, kurz: TKG, beschäftigt sich erneut mit dem Ausbau von Telekommunikationsnetzen.“"
+      },
+      {
+       "type": "quote",
+       "text": "§ 119 des TKG regelt sogenannte R-Gespräche.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „§ 119 des TKG regelt sogenannte R-Gespräche.“"
+      },
+      {
+       "type": "quote",
+       "text": "Was hat das mit der Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen zu tun?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Was hat das mit der Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen zu tun?“"
+      },
+      {
+       "type": "quote",
+       "text": "Ich hatte gesagt, dass der Gesetzentwurf mit „Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen“ überschrieben ist.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Ich hatte gesagt, dass der Gesetzentwurf mit „Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen“ überschrieben ist.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dirk Wiese",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110000200",
+     "words_source": 237,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Dirk Wiese (SPD) wandte sich an die Fraktion der AfD und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Dirk Wiese (SPD) wandte sich an die Fraktion der AfD und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Schätzl",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000300",
+     "words_source": 598,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir stehen vor einem grundlegenden Infrastrukturwechsel: von kupferbasierten Netzen hin zur Glasfaser.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Johannes Schätzl (SPD) betonte: „Wir stehen vor einem grundlegenden Infrastrukturwechsel: von kupferbasierten Netzen hin zur Glasfaser.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben den Ausbau der TK-Infrastruktur zum überragenden öffentlichen Interesse erklärt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Wir haben den Ausbau der TK-Infrastruktur zum überragenden öffentlichen Interesse erklärt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir müssen prüfen, ob der Ausbau innerhalb des Gebäudes besser funktioniert.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Wir müssen prüfen, ob der Ausbau innerhalb des Gebäudes besser funktioniert.“"
+      },
+      {
+       "type": "quote",
+       "text": "Beim Wechsel von Kupfer zu Glasfaser werden die Menschen verlässliche Antworten auf die entscheidenden Fragen brauchen.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte er: „Beim Wechsel von Kupfer zu Glasfaser werden die Menschen verlässliche Antworten auf die entscheidenden Fragen brauchen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ja, auch die Kommunen brauchen Unterstützung bei der Umsetzung.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Ja, auch die Kommunen brauchen Unterstützung bei der Umsetzung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Kommunen sollen schnell handeln und Bürgerinnen und Bürger ihren Anschluss nutzen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Kommunen sollen schnell handeln und Bürgerinnen und Bürger ihren Anschluss nutzen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Rebecca Lenhard",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000400",
+     "words_source": 521,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Pointe ist: Dieses Mal müssen ehrlicherweise wirklich Menschen für den Glasfaservollausbau in den Keller.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN) forderte: „Die Pointe ist: Dieses Mal müssen ehrlicherweise wirklich Menschen für den Glasfaservollausbau in den Keller.“"
+      },
+      {
+       "type": "quote",
+       "text": "Denn das, was wir heute an Glasfaser verlegen, ist die Grundlage, auf der die kommenden Generationen aufbauen können.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Lenhard fügte hinzu: „Denn das, was wir heute an Glasfaser verlegen, ist die Grundlage, auf der die kommenden Generationen aufbauen können.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Lenhard die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Lenhard die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Anne-Mieke Bremer",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000500",
+     "words_source": 561,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der Netzausbau wurde mit der letzten TKG-Novelle zum überragenden öffentlichen Interesse erklärt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Anne-Mieke Bremer (Die Linke) betonte: „Der Netzausbau wurde mit der letzten TKG-Novelle zum überragenden öffentlichen Interesse erklärt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir konnten in den letzten Jahren beobachten, zu welchen Ergebnissen der Wettbewerb profitorientierter Unternehmen beim Ausbau der physischen digitalen Infrastruktur führt: schlimmste Ausbeutungsverhältnisse auf den Glasfaserbaustellen, Unterversorgung im ländlichen Raum bei gleichzeitigem Doppelausbau in lukrativen Gebieten, fehlende Anreize zu Glasfasernutzung und ein Ausbaustand, der den Anforderungen an moderne Infrastruktur Jahre bis Jahrzehnte hinterherhinkt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Wir konnten in den letzten Jahren beobachten, zu welchen Ergebnissen der Wettbewerb profitorientierter Unternehmen beim Ausbau der physischen digitalen Infrastruktur führt: schlimmste Ausbeutungsverhältnisse auf den Glasfaserbaustellen, Unterversorgung im ländlichen Raum bei gleichzeitigem Doppelausbau in lukrativen Gebieten, fehlende Anreize zu Glasfasernutzung und ein Ausbaustand, der den Anforderungen an moderne Infrastruktur Jahre bis Jahrzehnte hinterherhinkt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Hansjörg Durz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000600",
+     "words_source": 456,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deshalb beraten wir heute eine Novelle des Telekommunikationsgesetzes mit einem klaren Ziel: mehr Tempo beim Glasfaserausbau.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Hansjörg Durz (CDU/CSU) betonte: „Deshalb beraten wir heute eine Novelle des Telekommunikationsgesetzes mit einem klaren Ziel: mehr Tempo beim Glasfaserausbau.“"
+      },
+      {
+       "type": "quote",
+       "text": "Glasfaser ist inzwischen für fast 29 Millionen Haushalte und Unternehmensstandorte verfügbar.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Glasfaser ist inzwischen für fast 29 Millionen Haushalte und Unternehmensstandorte verfügbar.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und drittens, mit Wettbewerb: Wo nur ein Netz betrieben werden kann, müssen andere Anbieter dieses Netz zu fairen Bedingungen mitnutzen können.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Und drittens, mit Wettbewerb: Wo nur ein Netz betrieben werden kann, müssen andere Anbieter dieses Netz zu fairen Bedingungen mitnutzen können.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Robin Jünger",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000700",
+     "words_source": 726,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wenn bei den Behörden vor Ort niemand entscheidet, liegt deshalb noch kein Meter Glasfaser früher im Boden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Robin Jünger (AfD) erklärte: „Wenn bei den Behörden vor Ort niemand entscheidet, liegt deshalb noch kein Meter Glasfaser früher im Boden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Da ein Mobilfunkmast ohne Strom aber für nicht mehr dienen kann als vielleicht noch als Mast für eine Ihrer priorisierten Pride-Flaggen, müssen Sie dringend klären, wie Sie eine Notstromversorgung, die ein grundlegendes Kommunikationsnetz absichern kann, umsetzen wollen.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Da ein Mobilfunkmast ohne Strom aber für nicht mehr dienen kann als vielleicht noch als Mast für eine Ihrer priorisierten Pride-Flaggen, müssen Sie dringend klären, wie Sie eine Notstromversorgung, die ein grundlegendes Kommunikationsnetz absichern kann, umsetzen wollen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ihr Telekommunikationsgesetz wird am Ende daran gemessen werden, ob schneller gebaut wird und ob unsere Netze auch dann funktionieren, wenn es darauf ankommt. Davon ist Ihr Flickenteppich TKG noch immer meilenweit entfernt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Ihr Telekommunikationsgesetz wird am Ende daran gemessen werden, ob schneller gebaut wird und ob unsere Netze auch dann funktionieren, wenn es darauf ankommt. Davon ist Ihr Flickenteppich TKG noch immer meilenweit entfernt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Parsa Marvi",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000800",
+     "words_source": 505,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Zwischen einer verlegten Leitung und einem funktionierenden Anschluss sind nämlich noch zu viele Schritte notwendig, zum Beispiel wenn ein Haus Glasfaser im Keller hat, aber nicht in den Wohnungen oder wenn ein Mobilfunkstandort genehmigt ist, aber noch nicht senden kann, schlichtweg weil der Stromanschluss fehlt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Parsa Marvi (SPD) betonte: „Zwischen einer verlegten Leitung und einem funktionierenden Anschluss sind nämlich noch zu viele Schritte notwendig, zum Beispiel wenn ein Haus Glasfaser im Keller hat, aber nicht in den Wohnungen oder wenn ein Mobilfunkstandort genehmigt ist, aber noch nicht senden kann, schlichtweg weil der Stromanschluss fehlt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Hier setzt die Novelle des Telekommunikationsgesetzes an.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Hier setzt die Novelle des Telekommunikationsgesetzes an.“"
+      },
+      {
+       "type": "quote",
+       "text": "Auch die Netze alternativer Anbieter müssen berücksichtigt werden.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Auch die Netze alternativer Anbieter müssen berücksichtigt werden.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Karoline Otte",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110000900",
+     "words_source": 517,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Deshalb muss es beim Ausbau weiter vorangehen.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Karoline Otte (BÜNDNIS 90/DIE GRÜNEN) verlangte: „Deshalb muss es beim Ausbau weiter vorangehen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Bundesregierung verspricht mit ihren Anpassungen im Telekommunikationsgesetz mehr Tempo.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Die Bundesregierung verspricht mit ihren Anpassungen im Telekommunikationsgesetz mehr Tempo.“"
+      },
+      {
+       "type": "quote",
+       "text": "Doch vereinfachte Verfahren müssen praxistauglich sein, und die Qualität des Ausbaus muss stimmen.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Doch vereinfachte Verfahren müssen praxistauglich sein, und die Qualität des Ausbaus muss stimmen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das verhindert echten Wettbewerb, geht auf Kosten der Kommunen und der Menschen in unserem Land.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Das verhindert echten Wettbewerb, geht auf Kosten der Kommunen und der Menschen in unserem Land.“"
+      },
+      {
+       "type": "quote",
+       "text": "30 Milliarden Euro Rekorddefizit in den Kommunen, das darf Sie nicht länger kaltlassen, da müssen Sie handeln!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „30 Milliarden Euro Rekorddefizit in den Kommunen, das darf Sie nicht länger kaltlassen, da müssen Sie handeln!“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Joachim Ebmeyer",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110001000",
+     "words_source": 524,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Glasfaser ist auch das Rückgrat des Mobilfunks; denn ein Mast funkt nur so gut wie die Glasfaser, an der er hängt.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Joachim Ebmeyer (CDU/CSU) begrüßte: „Die Glasfaser ist auch das Rückgrat des Mobilfunks; denn ein Mast funkt nur so gut wie die Glasfaser, an der er hängt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben bei der Novelle des Telekommunikationsgesetzes die herausfordernde Aufgabe, Regulierung und Ausbau im Gleichgewicht zu halten: auf der einen Seite sichere und resiliente Netze und auf der anderen Seite genügend Kapazität und wettbewerblicher Ausbau.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Wir haben bei der Novelle des Telekommunikationsgesetzes die herausfordernde Aufgabe, Regulierung und Ausbau im Gleichgewicht zu halten: auf der einen Seite sichere und resiliente Netze und auf der anderen Seite genügend Kapazität und wettbewerblicher Ausbau.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ruben Rupp",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110001100",
+     "words_source": 593,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Genehmigungen sollen schneller erteilt werden, der Glasfaserausbau in Gebäuden soll einfacher werden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Ruben Rupp (AfD) betonte: „Genehmigungen sollen schneller erteilt werden, der Glasfaserausbau in Gebäuden soll einfacher werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir fordern in unserem Antrag nicht, dass der Staat überall selbst ein Netz bauen soll; aber er sollte dafür sorgen, dass vorhandene Netze dort genutzt werden können, wo der Markt dauerhaft keine vernünftige Versorgung durch mehrere Anbieter hervorbringt.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Wir fordern in unserem Antrag nicht, dass der Staat überall selbst ein Netz bauen soll; aber er sollte dafür sorgen, dass vorhandene Netze dort genutzt werden können, wo der Markt dauerhaft keine vernünftige Versorgung durch mehrere Anbieter hervorbringt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Mit uns wird aus dem Telekommunikationsnetz endlich das, was in Deutschland im Jahr 2026 schon lange flächendeckend existieren müsste: –",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte er: „Mit uns wird aus dem Telekommunikationsnetz endlich das, was in Deutschland im Jahr 2026 schon lange flächendeckend existieren müsste: –“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Dirk Wiese",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110001200",
+     "words_source": 408,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Dirk Wiese (SPD) wandte sich an die Fraktion der AfD und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Dirk Wiese (SPD) wandte sich an die Fraktion der AfD und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Ruben Rupp",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110001300",
+     "words_source": 150,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Ruben Rupp (AfD) wandte sich an die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Ruben Rupp (AfD) wandte sich an die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Daniel Bettermann",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110001400",
+     "words_source": 362,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Glasfaserarbeiten müssen mit anderen Infrastrukturmaßnahmen besser abgestimmt werden.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Daniel Bettermann (SPD) forderte: „Glasfaserarbeiten müssen mit anderen Infrastrukturmaßnahmen besser abgestimmt werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Von der europäischen Ebene nun zurück dorthin, wo Politik konkret wird, in unsere Kommunen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Von der europäischen Ebene nun zurück dorthin, wo Politik konkret wird, in unsere Kommunen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Bislang endet das Glasfasernetz nämlich häufig am Übergabepunkt im Keller.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Bislang endet das Glasfasernetz nämlich häufig am Übergabepunkt im Keller.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Inge Gräßle",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110001500",
+     "words_source": 478,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ohne Glasfaser keine Robotik, ohne Glasfaser keine KI-Nutzung.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Inge Gräßle (CDU/CSU) erklärte: „Ohne Glasfaser keine Robotik, ohne Glasfaser keine KI-Nutzung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Dazu brauche ich aber erst Glasfaser.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Dazu brauche ich aber erst Glasfaser.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das ist ein wichtiges Gesetz, weil Glasfaser im Keller nichts nützt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Das ist ein wichtiges Gesetz, weil Glasfaser im Keller nichts nützt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und natürlich muss auch für diese wenigen Anbieter das Thema R-Gespräch im Verbraucherschutz geregelt werden.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Und natürlich muss auch für diese wenigen Anbieter das Thema R-Gespräch im Verbraucherschutz geregelt werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Denn natürlich brauchen wir bei Konflikten beim Ausbau eine Entscheidungshilfe für die Verwaltung.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte sie: „Denn natürlich brauchen wir bei Konflikten beim Ausbau eine Entscheidungshilfe für die Verwaltung.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der AfD und die Fraktion BÜNDNIS 90/DIE GRÜNEN.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der AfD und die Fraktion BÜNDNIS 90/DIE GRÜNEN."
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Digitales und Staatsmodernisierung (federführend)",
+    "Innenausschuss",
+    "Ausschuss für Recht und Verbraucherschutz",
+    "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+    "Haushaltsausschuss (mitberatend und gemäß § 96 GO-BT)"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "TOP 36",
+   "label": "Punkt 36 der Tagesordnung",
+   "title": "Beratung des Antrags der Abgeordneten Dr. Gottfried Curio, Dr. Bernd Baumann, Christopher Drößler, weiterer Abgeordneter und der Fraktion der AfD Maßnahmen für eine wirkliche Migrationswende",
+   "drucksachen": [
+    "21/8387"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 36",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages."
+   ],
+   "speeches": [
+    {
+     "speaker": "Dr. Gottfried Curio",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110001600",
+     "words_source": 1029,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich sage Ihnen: Helmut Kohl würde heute AfD wählen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Gottfried Curio (AfD) erklärte: „Ich sage Ihnen: Helmut Kohl würde heute AfD wählen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Turboeinbürgerung nach fünf Jahren geht fröhlich weiter – inklusive Doppelstaatigkeit mit über 330 000 Einbürgerungen im letzten Jahr;",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Curio: „Die Turboeinbürgerung nach fünf Jahren geht fröhlich weiter – inklusive Doppelstaatigkeit mit über 330 000 Einbürgerungen im letzten Jahr;“"
+      },
+      {
+       "type": "quote",
+       "text": "Abschiebungen: weniger als unter der Ampel; der syrische Bürgerkrieg ist ewig aus;",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Curio fügte hinzu: „Abschiebungen: weniger als unter der Ampel; der syrische Bürgerkrieg ist ewig aus;“"
+      },
+      {
+       "type": "quote",
+       "text": "„Migrationswende“, das hieße jedes Jahr 200 000 bis 300 000 Illegale raus.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Curio: „„Migrationswende“, das hieße jedes Jahr 200 000 bis 300 000 Illegale raus.“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber in Wahrheit gab es in 2025 wieder 100 000 neue Asylanten plus weitere 100 000 Neuzugänge über Familiennachzug.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Curio fügte hinzu: „Aber in Wahrheit gab es in 2025 wieder 100 000 neue Asylanten plus weitere 100 000 Neuzugänge über Familiennachzug.“"
+      },
+      {
+       "type": "quote",
+       "text": "Keine mehr für Personen, die über sichere Drittstaaten kommen, keine mehr für Personen, die ohne Pass illegal die Grenze überschreiten, für Asylanten kein Spurwechsel, kein Bürgergeld, natürlich keine Einbürgerung, sondern Rückführung.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Curio: „Keine mehr für Personen, die über sichere Drittstaaten kommen, keine mehr für Personen, die ohne Pass illegal die Grenze überschreiten, für Asylanten kein Spurwechsel, kein Bürgergeld, natürlich keine Einbürgerung, sondern Rückführung.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Curio die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Curio die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Detlef Seif",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110001700",
+     "words_source": 629,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben nicht nur eine Migrationswende versprochen, sondern wir liefern auch in der Asylpolitik – besonders wichtig für die Migration.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Detlef Seif (CDU/CSU) erklärte: „Wir haben nicht nur eine Migrationswende versprochen, sondern wir liefern auch in der Asylpolitik – besonders wichtig für die Migration.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und meine Damen und Herren, seit Regierungsbeginn haben wir 45 000 Personen an den Grenzen zurückgewiesen, und ganz viele Schlepper wurden festgenommen und andere Personen, die mit Haftbefehl gesucht werden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Und meine Damen und Herren, seit Regierungsbeginn haben wir 45 000 Personen an den Grenzen zurückgewiesen, und ganz viele Schlepper wurden festgenommen und andere Personen, die mit Haftbefehl gesucht werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Begrenzung der Migration wurde wieder ausdrücklich als Ziel ins Aufenthaltsgesetz aufgenommen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Die Begrenzung der Migration wurde wieder ausdrücklich als Ziel ins Aufenthaltsgesetz aufgenommen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der größte Pulleffekt des europäischen Asylsystems ist das Asylsystem selbst.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Der größte Pulleffekt des europäischen Asylsystems ist das Asylsystem selbst.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion Die Linke und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion Die Linke und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Sonja Lemke",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110001800",
+     "words_source": 173,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Stellen Sie das richtig und weisen Sie die Abwertung ganzer Menschengruppen durch die AfD zurück!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Sonja Lemke (Die Linke) forderte: „Stellen Sie das richtig und weisen Sie die Abwertung ganzer Menschengruppen durch die AfD zurück!“"
+      }
+     ]
+    },
+    {
+     "speaker": "Detlef Seif",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110001900",
+     "words_source": 320,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das, was die AfD in solchen Debatten vorbringt, ist natürlich menschenfeindlich und ist auch nicht hinzunehmen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Detlef Seif (CDU/CSU) erklärte: „Das, was die AfD in solchen Debatten vorbringt, ist natürlich menschenfeindlich und ist auch nicht hinzunehmen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Für mich ist das heutige Thema die Migrationswende.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Für mich ist das heutige Thema die Migrationswende.“"
+      },
+      {
+       "type": "quote",
+       "text": "überhaupt keinen Schutzanspruch haben und ihre Asylanträge abgelehnt werden?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „überhaupt keinen Schutzanspruch haben und ihre Asylanträge abgelehnt werden?“"
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb brauchen wir diese Migrationswende.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Deshalb brauchen wir diese Migrationswende.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Beatrix von Storch",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110002000",
+     "words_source": 198,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das heißt: Es gibt die Möglichkeit einer Migrationswende, wenn Sie und wir gemeinsam arbeiten,",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Beatrix von Storch (AfD) erklärte: „Das heißt: Es gibt die Möglichkeit einer Migrationswende, wenn Sie und wir gemeinsam arbeiten,“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Storch sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Storch sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Detlef Seif",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110002100",
+     "words_source": 141,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es kam nie auf die Stimmen der AfD an.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Detlef Seif (CDU/CSU) betonte: „Es kam nie auf die Stimmen der AfD an.“"
+      },
+      {
+       "type": "quote",
+       "text": "Auf Ihre Stimmen waren wir nicht angewiesen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Auf Ihre Stimmen waren wir nicht angewiesen.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Filiz Polat",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110002200",
+     "words_source": 566,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Denn wenn Migration nicht mehr als politische Herausforderung beschrieben wird, sondern unter dem Deckmantel eines angeblich gesteuerten Bevölkerungsaustauschs, ist die Grenze zur antisemitischen Verschwörungserzählung längst überschritten.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Filiz Polat (BÜNDNIS 90/DIE GRÜNEN) betonte: „Denn wenn Migration nicht mehr als politische Herausforderung beschrieben wird, sondern unter dem Deckmantel eines angeblich gesteuerten Bevölkerungsaustauschs, ist die Grenze zur antisemitischen Verschwörungserzählung längst überschritten.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das muss die Antwort auf Rechtsextreme in diesem Land sein.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Das muss die Antwort auf Rechtsextreme in diesem Land sein.“"
+      },
+      {
+       "type": "quote",
+       "text": "Kommen Sie zurück, und machen Sie gemeinsam mit uns unser Einwanderungsland zu einem erfolgreichen Einwanderungsland!",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte sie: „Kommen Sie zurück, und machen Sie gemeinsam mit uns unser Einwanderungsland zu einem erfolgreichen Einwanderungsland!“"
+      }
+     ]
+    },
+    {
+     "speaker": "Hakan Demir",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110002300",
+     "words_source": 682,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Keine Einbürgerung von Syrerinnen und Syrern, kein Bleiberecht für geduldete Menschen in Arbeit, mehr Abschiebungen, mehr Druck – all diese Forderungen haben eines gemeinsam:",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Hakan Demir (SPD) erklärte: „Keine Einbürgerung von Syrerinnen und Syrern, kein Bleiberecht für geduldete Menschen in Arbeit, mehr Abschiebungen, mehr Druck – all diese Forderungen haben eines gemeinsam:“"
+      },
+      {
+       "type": "quote",
+       "text": "Die AfD will Menschen das Leben schwerer machen, die ganz normal in diesem Land leben. Sie wollen Migration und eine vielfältige Gesellschaft generell zum Problem machen.",
+       "verb": "kritisierte",
+       "source": "rule",
+       "display": "Weiter kritisierte er: „Die AfD will Menschen das Leben schwerer machen, die ganz normal in diesem Land leben. Sie wollen Migration und eine vielfältige Gesellschaft generell zum Problem machen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen Ihre rechtsextremen Abschiebephantasien nicht.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Wir brauchen Ihre rechtsextremen Abschiebephantasien nicht.“"
+      },
+      {
+       "type": "quote",
+       "text": "Manche aus der AfD werden sich jetzt wieder rausreden",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Manche aus der AfD werden sich jetzt wieder rausreden“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber was meinen Sie eigentlich, wenn Sie von Remigration sprechen, von Remigrationsterror?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Aber was meinen Sie eigentlich, wenn Sie von Remigration sprechen, von Remigrationsterror?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Martin Hess",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110002400",
+     "words_source": 299,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Migrationspolitik der AfD ist sehr simpel.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Martin Hess (AfD) erklärte: „Die Migrationspolitik der AfD ist sehr simpel.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das ist das Gegenteil von rechtsextrem.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Das ist das Gegenteil von rechtsextrem.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Hakan Demir",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110002500",
+     "words_source": 178,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das ist ein rechtsextremer Satz, eine rechtsextreme Aussage.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Hakan Demir (SPD) erklärte: „Das ist ein rechtsextremer Satz, eine rechtsextreme Aussage.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Lea Reisner",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110002600",
+     "words_source": 516,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Stattdessen sprechen Sie über Syrer, Afghanen und Familiennachzug, Seite für Seite.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Lea Reisner (Die Linke) betonte: „Stattdessen sprechen Sie über Syrer, Afghanen und Familiennachzug, Seite für Seite.“"
+      },
+      {
+       "type": "quote",
+       "text": "1973 streikten bei Ford in Köln vor allem türkische Kollegen gegen Hetze und Entlassung.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „1973 streikten bei Ford in Köln vor allem türkische Kollegen gegen Hetze und Entlassung.“"
+      },
+      {
+       "type": "quote",
+       "text": "„Teile und herrsche!“ ist das älteste Rezept, und die AfD kocht es neu auf.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „„Teile und herrsche!“ ist das älteste Rezept, und die AfD kocht es neu auf.“"
+      },
+      {
+       "type": "quote",
+       "text": "Zurückweisung, ausgesetzter Familiennachzug: Jedes Mal machen Sie die Erzählung der AfD ein Stück normaler. Sie bekämpfen die AfD nicht, Sie liefern das Drehbuch.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Zurückweisung, ausgesetzter Familiennachzug: Jedes Mal machen Sie die Erzählung der AfD ein Stück normaler. Sie bekämpfen die AfD nicht, Sie liefern das Drehbuch.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Florian Oest",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110002700",
+     "words_source": 516,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "51 Prozent weniger irreguläre Migration gegenüber 2024: Die Migrationswende findet statt, und sie zeigt Wirkung.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Florian Oest (CDU/CSU) betonte: „51 Prozent weniger irreguläre Migration gegenüber 2024: Die Migrationswende findet statt, und sie zeigt Wirkung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ausweitung der stationären und mobilen Grenzkontrollen, konsequente Zurückweisungen an unseren Grenzen, Aussetzung des Familiennachzuges für subsidiär Schutzbedürftige, konsequente Abschiebungen, Erhöhung der freiwilligen Rückkehr in die Heimatländer, Abschaffung der Turboeinbürgerung. Wir reden nicht nur über die Migrationswende, wir setzen sie auch durch.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Ausweitung der stationären und mobilen Grenzkontrollen, konsequente Zurückweisungen an unseren Grenzen, Aussetzung des Familiennachzuges für subsidiär Schutzbedürftige, konsequente Abschiebungen, Erhöhung der freiwilligen Rückkehr in die Heimatländer, Abschaffung der Turboeinbürgerung. Wir reden nicht nur über die Migrationswende, wir setzen sie auch durch.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Christian Wirth",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110002800",
+     "words_source": 505,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Einbürgerungszahlen erreichen historische Rekordwerte.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Dr. Christian Wirth (AfD) betonte: „Die Einbürgerungszahlen erreichen historische Rekordwerte.“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie reden über Syrien und schieben dann im ganzen Jahr eine Handvoll Personen ab.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Sie reden über Syrien und schieben dann im ganzen Jahr eine Handvoll Personen ab.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir fordern wirksame Grenzkontrollen und die sofortige Zurückweisung aller Personen, die aus sicheren Drittstaaten einreisen wollen. Wir fordern das Ende von Abschiebehindernissen für Straftäter und echte Rückführungen in Herkunftsländer wie Syrien und Afghanistan.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Wir fordern wirksame Grenzkontrollen und die sofortige Zurückweisung aller Personen, die aus sicheren Drittstaaten einreisen wollen. Wir fordern das Ende von Abschiebehindernissen für Straftäter und echte Rückführungen in Herkunftsländer wie Syrien und Afghanistan.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und mit der AfD werden diese Taten geliefert.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Und mit der AfD werden diese Taten geliefert.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Rasha Nasr",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110002900",
+     "words_source": 977,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die AfD fordert heute eine sogenannte wirkliche Migrationswende.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Rasha Nasr (SPD) forderte: „Die AfD fordert heute eine sogenannte wirkliche Migrationswende.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ich habe Pegida in Dresden erlebt und habe beobachtet, wie sich die AfD seit ihrem Einzug in den Sächsischen Landtag weiter radikalisiert hat und wie Dinge plötzlich wieder sagbar wurden, die vorher nicht sagbar waren.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Ich habe Pegida in Dresden erlebt und habe beobachtet, wie sich die AfD seit ihrem Einzug in den Sächsischen Landtag weiter radikalisiert hat und wie Dinge plötzlich wieder sagbar wurden, die vorher nicht sagbar waren.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und es ist noch nicht lange her, als mir beim Einkaufen mit meiner zweijährigen Tochter – ich wiederhole: mit meiner zweijährigen Tochter! – „Scheiß Ausländer“ hinterhergerufen wurde.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Und es ist noch nicht lange her, als mir beim Einkaufen mit meiner zweijährigen Tochter – ich wiederhole: mit meiner zweijährigen Tochter! – „Scheiß Ausländer“ hinterhergerufen wurde.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ich denke dabei auch an meine zweijährige Tochter.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Ich denke dabei auch an meine zweijährige Tochter.“"
+      },
+      {
+       "type": "quote",
+       "text": "Vielleicht brauchen wir tatsächlich eine Wende in diesem Land.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Vielleicht brauchen wir tatsächlich eine Wende in diesem Land.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und ich überlasse Ihnen von der AfD weder dieses Land noch Schwarz-Rot-Gold.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Und ich überlasse Ihnen von der AfD weder dieses Land noch Schwarz-Rot-Gold.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Lamya Kaddor",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003000",
+     "words_source": 528,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber bei der Migration verweigern eindeutig Sie die Realität.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Lamya Kaddor (BÜNDNIS 90/DIE GRÜNEN) betonte: „Aber bei der Migration verweigern eindeutig Sie die Realität.“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie schreiben in Ihrem Antrag, Syrer und Afghanen seien „mehr als zehnmal so häufig“ tatverdächtig wie Deutsche.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Sie schreiben in Ihrem Antrag, Syrer und Afghanen seien „mehr als zehnmal so häufig“ tatverdächtig wie Deutsche.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Migrationswende hat sich für Sie politisch nicht ausgezahlt, gar nicht.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Die Migrationswende hat sich für Sie politisch nicht ausgezahlt, gar nicht.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die hat sich eigentlich nur für die AfD ausgezahlt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Die hat sich eigentlich nur für die AfD ausgezahlt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Dann hat die AfD wenigstens nichts davon, und Sie können sich ordentlich von denen abgrenzen.",
+       "verb": "kritisierte",
+       "source": "rule",
+       "display": "Weiter kritisierte sie: „Dann hat die AfD wenigstens nichts davon, und Sie können sich ordentlich von denen abgrenzen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Desiree Becker",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003100",
+     "words_source": 464,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Alle Jahre wieder: Die AfD macht Stimmung gegen Migration, und die CDU hätte beim Lesen den Antrag der AfD fast mit ihrem eigenen verwechselt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Desiree Becker (Die Linke) erklärte: „Alle Jahre wieder: Die AfD macht Stimmung gegen Migration, und die CDU hätte beim Lesen den Antrag der AfD fast mit ihrem eigenen verwechselt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Familie wird noch am gleichen Tag in die Türkei abgeschoben; die 19-jährige Tochter Ayşe bleibt allein zurück.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Die Familie wird noch am gleichen Tag in die Türkei abgeschoben; die 19-jährige Tochter Ayşe bleibt allein zurück.“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie haben den Familiennachzug ausgesetzt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Sie haben den Familiennachzug ausgesetzt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Diesen Antrag der AfD halten wir für populistischen Müll.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Diesen Antrag der AfD halten wir für populistischen Müll.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. David Preisendanz",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003200",
+     "words_source": 635,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die AfD erinnert mich immer ein bisschen an diesen äußerst unangenehmen, unsympathischen Onkel auf den Familienfeiern – Sie kennen ihn vielleicht –:",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. David Preisendanz (CDU/CSU) erklärte: „Die AfD erinnert mich immer ein bisschen an diesen äußerst unangenehmen, unsympathischen Onkel auf den Familienfeiern – Sie kennen ihn vielleicht –:“"
+      },
+      {
+       "type": "quote",
+       "text": "Wie hier: Schon im Titel dieses Tagesordnungspunktes wird von einer „simulierten Migrationswende“ gesprochen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Wie hier: Schon im Titel dieses Tagesordnungspunktes wird von einer „simulierten Migrationswende“ gesprochen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber wenn es um die langfristige, nachhaltige Kontrolle von Migration geht, wenn es insbesondere um das Thema „Rückführungen von Menschen ohne Bleibeperspektive“ geht, dann liegt der entscheidende Hebel in Europa.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Aber wenn es um die langfristige, nachhaltige Kontrolle von Migration geht, wenn es insbesondere um das Thema „Rückführungen von Menschen ohne Bleibeperspektive“ geht, dann liegt der entscheidende Hebel in Europa.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ein Staat muss sogar seine Grenzen schützen können.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Ein Staat muss sogar seine Grenzen schützen können.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Arne Raue",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003300",
+     "words_source": 443,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ein Jahr Regierung Merz, ein Jahr Migrationswende: Zeit für ein Zeugnis. Und wie es sich für ein ordentliches Zeugnis gehört, gehen wir heute mal Fach für Fach durch.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Arne Raue (AfD) erklärte: „Ein Jahr Regierung Merz, ein Jahr Migrationswende: Zeit für ein Zeugnis. Und wie es sich für ein ordentliches Zeugnis gehört, gehen wir heute mal Fach für Fach durch.“"
+      },
+      {
+       "type": "quote",
+       "text": "Note „mangelhaft“; wir merken uns das.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Note „mangelhaft“; wir merken uns das.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Note?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte er: „Die Note?“"
+      },
+      {
+       "type": "quote",
+       "text": "Note – vermutlich – „mangelhaft“.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Note – vermutlich – „mangelhaft“.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Thomas Silberhorn",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003400",
+     "words_source": 655,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Meine Damen und Herren, zur Migrationswende zählt auch, dass die Europäische Union ein neues Gemeinsames Europäisches Asylsystem geschaffen hat, das Mitte Juni 2026 vollständig in Kraft getreten ist. Künftig werden Personen, die irregulär",
+       "verb": "kündigte an",
+       "source": "rule",
+       "display": "Thomas Silberhorn (CDU/CSU) kündigte an: „Meine Damen und Herren, zur Migrationswende zählt auch, dass die Europäische Union ein neues Gemeinsames Europäisches Asylsystem geschaffen hat, das Mitte Juni 2026 vollständig in Kraft getreten ist. Künftig werden Personen, die irregulär“"
+      },
+      {
+       "type": "quote",
+       "text": "Die zentralen Rechtsakte dieses Gemeinsamen Europäischen Asylsystems wurden im Europäischen Parlament gegen die Stimmen der AfD und gegen die Stimmen der Grünen beschlossen, und die Umsetzungsgesetze in Deutschland wurden im Bundestag gegen die Stimmen der AfD und gegen die Stimmen der Grünen beschlossen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Die zentralen Rechtsakte dieses Gemeinsamen Europäischen Asylsystems wurden im Europäischen Parlament gegen die Stimmen der AfD und gegen die Stimmen der Grünen beschlossen, und die Umsetzungsgesetze in Deutschland wurden im Bundestag gegen die Stimmen der AfD und gegen die Stimmen der Grünen beschlossen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion Die Linke und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion Die Linke und die Bundesregierung."
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Innenausschuss (federführend)",
+    "Ausschuss für Arbeit und Soziales"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "TOP 37",
+   "label": "Punkt 37 der Tagesordnung",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz – SCQEG)",
+   "drucksachen": [
+    "21/8239"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 37",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages.",
+    "Gemeinsam beraten mit ZP 9."
+   ],
+   "speeches": [
+    {
+     "speaker": "Karin Prien",
+     "group": "Bundesministerin BMBFSFJ",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID2110003500",
+     "words_source": 868,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Bildungschancen sollten von den Talenten und Fähigkeiten des einzelnen Kindes bestimmt sein.",
+       "verb": "stellte den Gesetzentwurf vor",
+       "source": "rule",
+       "display": "Karin Prien, Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend, stellte den Gesetzentwurf vor: „Bildungschancen sollten von den Talenten und Fähigkeiten des einzelnen Kindes bestimmt sein.“"
+      },
+      {
+       "type": "quote",
+       "text": "Entwicklungsstände werden bereits in der Kita rechtzeitig erhoben und Kinder bei Bedarf gezielt gefördert.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Entwicklungsstände werden bereits in der Kita rechtzeitig erhoben und Kinder bei Bedarf gezielt gefördert.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir stärken Kitas in herausfordernden Lagen, also Einrichtungen, in denen besonders viele Kinder mit erhöhtem Unterstützungsbedarf betreut werden, zum Beispiel Kinder aus armutsgefährdeten Familien, Kinder aus Familien mit nichtdeutscher Familiensprache, Kinder mit Sprachförderbedarf, also Kinder, die in diesen Einrichtungen zusätzliche Ressourcen brauchen.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Wir stärken Kitas in herausfordernden Lagen, also Einrichtungen, in denen besonders viele Kinder mit erhöhtem Unterstützungsbedarf betreut werden, zum Beispiel Kinder aus armutsgefährdeten Familien, Kinder aus Familien mit nichtdeutscher Familiensprache, Kinder mit Sprachförderbedarf, also Kinder, die in diesen Einrichtungen zusätzliche Ressourcen brauchen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Mindestens 10 Prozent der Kitas in jedem Bundesland sollen genau davon profitieren.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Mindestens 10 Prozent der Kitas in jedem Bundesland sollen genau davon profitieren.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Bund setzt mit dem SCQEG seine Beteiligung an der Qualitätsentwicklung fort, aber dieses Mal langfristig und berechenbar.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Der Bund setzt mit dem SCQEG seine Beteiligung an der Qualitätsentwicklung fort, aber dieses Mal langfristig und berechenbar.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Angela Rudzka",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003600",
+     "words_source": 338,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Zusätzliche Stellen für bestimmte Kitas und mindestens 30 Minuten Förderung pro Kind und Woche sind ein Anfang, aber keine Antwort auf den Personalmangel und die fehlenden Betreuungsplätze.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Angela Rudzka (AfD) erklärte: „Zusätzliche Stellen für bestimmte Kitas und mindestens 30 Minuten Förderung pro Kind und Woche sind ein Anfang, aber keine Antwort auf den Personalmangel und die fehlenden Betreuungsplätze.“"
+      },
+      {
+       "type": "quote",
+       "text": "Denn unsere Kinder brauchen keine Brandmauer, sie brauchen eine Zukunft.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Denn unsere Kinder brauchen keine Brandmauer, sie brauchen eine Zukunft.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Michael Hose",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110003700",
+     "words_source": 278,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir haben viele wichtige Entscheidungen für die Kinder getroffen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Michael Hose (CDU/CSU) erklärte: „Wir haben viele wichtige Entscheidungen für die Kinder getroffen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir haben uns mit der psychischen Gesundheit von Kindern und Jugendlichen, mit Careleavern, mit Menschen in Pflegefamilien, beschäftigt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Wir haben uns mit der psychischen Gesundheit von Kindern und Jugendlichen, mit Careleavern, mit Menschen in Pflegefamilien, beschäftigt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Angela Rudzka",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003800",
+     "words_source": 97,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie haben ja gesagt, mein Arbeitsprogramm sei in der Kinderkommission diskussionswürdig.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Angela Rudzka (AfD) erklärte: „Sie haben ja gesagt, mein Arbeitsprogramm sei in der Kinderkommission diskussionswürdig.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Jasmina Hostert",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110003900",
+     "words_source": 428,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Jetzt beraten wir gerade für das Jahr 2027 das Startchancen- und Qualitätsentwicklungsgesetz.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Jasmina Hostert (SPD) betonte: „Jetzt beraten wir gerade für das Jahr 2027 das Startchancen- und Qualitätsentwicklungsgesetz.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Bund investiert seit Jahren in die frühkindliche Bildung, weil uns Kinder wichtig sind, weil uns die Chancengerechtigkeit bei Kindern wichtig ist.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Der Bund investiert seit Jahren in die frühkindliche Bildung, weil uns Kinder wichtig sind, weil uns die Chancengerechtigkeit bei Kindern wichtig ist.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir sprechen hier von kleinen Kindern im Alter von vier bis fünf Jahren.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Wir sprechen hier von kleinen Kindern im Alter von vier bis fünf Jahren.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Anja Reinalter",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004000",
+     "words_source": 571,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir sprechen über das SCQEG, das Startchancen- und Qualitätsentwicklungsgesetz.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Anja Reinalter (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Wir sprechen über das SCQEG, das Startchancen- und Qualitätsentwicklungsgesetz.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und PISA zeigt noch etwas:",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Und PISA zeigt noch etwas:“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber noch mal zum SCQEG: Verbindliche Sprachtests, Entwicklungsstandserhebungen, individuelle Förderung und zusätzliche Unterstützung für Kitas in herausfordernden Lagen, all das unterstützen wir ausdrücklich.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Aber noch mal zum SCQEG: Verbindliche Sprachtests, Entwicklungsstandserhebungen, individuelle Förderung und zusätzliche Unterstützung für Kitas in herausfordernden Lagen, all das unterstützen wir ausdrücklich.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ein Dollar, der in die frühkindliche Bildung oder in Kinder, die benachteiligt sind, investiert wird, zahlt sich für die Gesellschaft bis zu siebenfach aus.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Ein Dollar, der in die frühkindliche Bildung oder in Kinder, die benachteiligt sind, investiert wird, zahlt sich für die Gesellschaft bis zu siebenfach aus.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Heidi Reichinnek",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004100",
+     "words_source": 588,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Nur 14 Prozent aller Kitas haben die wissenschaftlich empfohlene volle Personalausstattung.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Heidi Reichinnek (Die Linke) erklärte: „Nur 14 Prozent aller Kitas haben die wissenschaftlich empfohlene volle Personalausstattung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Denn die Erzieher/-innen brauchen doch keine Tests, um zu wissen, welches Kind welche Bedarfe hat.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Denn die Erzieher/-innen brauchen doch keine Tests, um zu wissen, welches Kind welche Bedarfe hat.“"
+      },
+      {
+       "type": "quote",
+       "text": "Es geht um die Kinder, es geht um die Zukunft.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Es geht um die Kinder, es geht um die Zukunft.“"
+      },
+      {
+       "type": "quote",
+       "text": "Bei PISA Krokodilstränen zu weinen, wenn es heißt, der Erfolg der Kinder hänge in Deutschland so stark wie fast nirgends vom Geldbeutel der Eltern ab, und dann so ein Gesetz vorzulegen, das ist schon Heuchelei.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte sie: „Bei PISA Krokodilstränen zu weinen, wenn es heißt, der Erfolg der Kinder hänge in Deutschland so stark wie fast nirgends vom Geldbeutel der Eltern ab, und dann so ein Gesetz vorzulegen, das ist schon Heuchelei.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der CDU/CSU und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der CDU/CSU und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Ralph Edelhäußer",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004200",
+     "words_source": 424,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Genau hier setzt nun das Startchancen- und Qualitätsentwicklungsgesetz an.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Ralph Edelhäußer (CDU/CSU) erklärte: „Genau hier setzt nun das Startchancen- und Qualitätsentwicklungsgesetz an.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das wollen wir mit diesem Gesetz ändern – nicht indem der Bund künftig jede Kita nach demselben Schema F organisiert, sondern indem wir uns auf das verständigen, was für jedes Kind eigentlich selbstverständlich sein sollte.",
+       "verb": "kündigte an",
+       "source": "rule",
+       "display": "Weiter kündigte er an: „Das wollen wir mit diesem Gesetz ändern – nicht indem der Bund künftig jede Kita nach demselben Schema F organisiert, sondern indem wir uns auf das verständigen, was für jedes Kind eigentlich selbstverständlich sein sollte.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Christian Zaum",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004300",
+     "words_source": 450,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das Ministerium schlägt zurück mit dem Startchancen- und Qualitätsentwicklungsgesetz.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Christian Zaum (AfD) erklärte: „Das Ministerium schlägt zurück mit dem Startchancen- und Qualitätsentwicklungsgesetz.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Natalie Pawlik",
+     "group": "Staatsministerin BMAS",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID2110004400",
+     "words_source": 353,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Genau deshalb ist das Startchancen- und Qualitätsentwicklungsgesetz so wichtig.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Natalie Pawlik, Staatsministerin (BMAS), betonte: „Genau deshalb ist das Startchancen- und Qualitätsentwicklungsgesetz so wichtig.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir wollen den Sprach- und Entwicklungsstand aller Kinder spätestens im Alter von vier Jahren verbindlich erheben und dort gezielt fördern, wo es notwendig ist.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Wir wollen den Sprach- und Entwicklungsstand aller Kinder spätestens im Alter von vier Jahren verbindlich erheben und dort gezielt fördern, wo es notwendig ist.“"
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend (federführend)",
+    "Ausschuss für Arbeit und Soziales",
+    "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+    "Haushaltsausschuss (mitberatend und gemäß § 96 GO-BT)"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "ZP 9",
+   "label": "Zusatzpunkt 9",
+   "title": "Beratung des Antrags der Abgeordneten Dr. Anja Reinalter, Misbah Khan, Denise Loop, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN Datengestützte Bildungsentwicklung fördern – Qualität sichern, Chancen verbessern",
+   "drucksachen": [
+    "21/7854"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 37",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages.",
+    "Gemeinsam beraten mit TOP 37. Die Aussprache ist unter TOP 37 wiedergegeben."
+   ],
+   "speeches": [],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend (federführend)",
+    "Innenausschuss",
+    "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "Ausschuss für Digitales und Staatsmodernisierung",
+    "Haushaltsausschuss"
+   ],
+   "subitems": []
+  },
+  {
+   "id": "TOP 38",
+   "label": "Punkt 38 der Tagesordnung",
+   "title": "Beratung des Antrags der Abgeordneten Sarah Vollath, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke Keine weitere Erhöhung der Regelaltersgrenze",
+   "drucksachen": [
+    "21/8388",
+    "21/8389",
+    "21/8390"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 38",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages."
+   ],
+   "speeches": [
+    {
+     "speaker": "Luigi Pantisano",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004500",
+     "words_source": 410,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Rente für langjährige Versicherte muss bleiben!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Luigi Pantisano (Die Linke) forderte: „Die Rente für langjährige Versicherte muss bleiben!“"
+      },
+      {
+       "type": "quote",
+       "text": "Insbesondere Frauen machten zuletzt fast 45 Prozent der Eintritte in diese Rentenform aus, und fast die Hälfte dieser Frauen hatte einen Rentenzahlbetrag unter der Armutsgefährdungsschwelle von circa 1 450 Euro.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Insbesondere Frauen machten zuletzt fast 45 Prozent der Eintritte in diese Rentenform aus, und fast die Hälfte dieser Frauen hatte einen Rentenzahlbetrag unter der Armutsgefährdungsschwelle von circa 1 450 Euro.“"
+      },
+      {
+       "type": "quote",
+       "text": "„Ein weiterer zentraler Punkt ist die Altersteilzeit.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „„Ein weiterer zentraler Punkt ist die Altersteilzeit.“"
+      },
+      {
+       "type": "quote",
+       "text": "Deshalb: Das Blockmodell muss bleiben.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Deshalb: Das Blockmodell muss bleiben.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Pascal Reddig",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004600",
+     "words_source": 1191,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Linke stellt zwar richtigerweise fest, dass viele Renten in Deutschland nicht besonders hoch sind.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Pascal Reddig (CDU/CSU) erklärte: „Die Linke stellt zwar richtigerweise fest, dass viele Renten in Deutschland nicht besonders hoch sind.“"
+      },
+      {
+       "type": "quote",
+       "text": "Dort ist es durch die Kapitalrente gelungen, dass die Renten der Menschen gestiegen sind, da die jährliche Rendite der Kapitalrente im Durchschnitt bei 11 Prozent liegt.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte Reddig: „Dort ist es durch die Kapitalrente gelungen, dass die Renten der Menschen gestiegen sind, da die jährliche Rendite der Kapitalrente im Durchschnitt bei 11 Prozent liegt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Bei der Rente mit 63",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Reddig fügte hinzu: „Bei der Rente mit 63“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Rente mit 63 ist vor allem eine Rente für Männer in gut bezahlten Berufen.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte Reddig: „Die Rente mit 63 ist vor allem eine Rente für Männer in gut bezahlten Berufen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Damit adressieren wir endlich auch die Menschen, die körperlich und psychisch wirklich belastet sind und denen man einen Ausweg bieten muss, nicht mehr nach 45 Jahren in Rente zu gehen, sondern schon deutlich früher abschlagsfrei in Frührente zu gehen, weil festgestellt wird, dass es gesundheitlich einfach nicht mehr geht.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Reddig: „Damit adressieren wir endlich auch die Menschen, die körperlich und psychisch wirklich belastet sind und denen man einen Ausweg bieten muss, nicht mehr nach 45 Jahren in Rente zu gehen, sondern schon deutlich früher abschlagsfrei in Frührente zu gehen, weil festgestellt wird, dass es gesundheitlich einfach nicht mehr geht.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Reddig die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Reddig die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Sarah Vollath",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110004600",
+     "words_source": 94,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Jetzt verstehe ich, ehrlich gesagt, nicht, warum Ihre Lösung ist, diese Rentenart dann abzuschaffen, anstatt dafür zu sorgen, dass die Renten nach 45 Jahren in einer derartigen Höhe sind, dass die Menschen auch tatsächlich in Rente gehen können.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Sarah Vollath (Die Linke) fragte: „Jetzt verstehe ich, ehrlich gesagt, nicht, warum Ihre Lösung ist, diese Rentenart dann abzuschaffen, anstatt dafür zu sorgen, dass die Renten nach 45 Jahren in einer derartigen Höhe sind, dass die Menschen auch tatsächlich in Rente gehen können.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Thomas Stephan",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004700",
+     "words_source": 494,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Denn bereits vor einem Jahr haben wir mit unserem Antrag „Regelaltersgrenze von 67 Jahren sichern und abschlagsfreie Rente nach 45 Arbeitsjahren einführen“ die maßgebliche Vorlage für diese Diskussion eingebracht.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Thomas Stephan (AfD) erklärte: „Denn bereits vor einem Jahr haben wir mit unserem Antrag „Regelaltersgrenze von 67 Jahren sichern und abschlagsfreie Rente nach 45 Arbeitsjahren einführen“ die maßgebliche Vorlage für diese Diskussion eingebracht.“"
+      },
+      {
+       "type": "quote",
+       "text": "Diese Reform wird wieder einmal verschoben, aber an der Abschaffung der Rente nach 45 Jahren will der Kanzler aus dem Hause Geppetto festhalten.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Stephan: „Diese Reform wird wieder einmal verschoben, aber an der Abschaffung der Rente nach 45 Jahren will der Kanzler aus dem Hause Geppetto festhalten.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Stephan die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Stephan die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Bernd Rützel",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004800",
+     "words_source": 498,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die abschlagsfreie Rente für Leute, die 45 Jahre und länger an der Werkbank standen und dann 65 Jahre alt sind – die 63-Jährigen gibt es da gar nicht mehr; das wird immer nur erzählt –, kostet nicht 10 Milliarden Euro im Jahr.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Bernd Rützel (SPD) erklärte: „Die abschlagsfreie Rente für Leute, die 45 Jahre und länger an der Werkbank standen und dann 65 Jahre alt sind – die 63-Jährigen gibt es da gar nicht mehr; das wird immer nur erzählt –, kostet nicht 10 Milliarden Euro im Jahr.“"
+      },
+      {
+       "type": "quote",
+       "text": "Bei der Altersteilzeit drohen Fehler.",
+       "verb": "warnte",
+       "source": "rule",
+       "display": "Weiter warnte Rützel: „Bei der Altersteilzeit drohen Fehler.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ein Blockmodell als Übergang war notwendig und wichtig.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Rützel fügte hinzu: „Ein Blockmodell als Übergang war notwendig und wichtig.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Armin Grau",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110004900",
+     "words_source": 570,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wenn wir zwölf Monate länger leben, sollen wir acht Monate länger arbeiten und vier Monate länger Rente bekommen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Dr. Armin Grau (BÜNDNIS 90/DIE GRÜNEN) betonte: „Wenn wir zwölf Monate länger leben, sollen wir acht Monate länger arbeiten und vier Monate länger Rente bekommen.“"
+      },
+      {
+       "type": "quote",
+       "text": "In den letzten 20 Jahren ist das Renteneintrittsalter viel stärker gestiegen als die Lebenserwartung.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Grau fügte hinzu: „In den letzten 20 Jahren ist das Renteneintrittsalter viel stärker gestiegen als die Lebenserwartung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Bei der Rente für langjährig Versicherte nach mindestens 35 Versicherungsjahren nehmen die Menschen die Abschläge oft in Kauf, weil sie nicht länger arbeiten können.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Grau: „Bei der Rente für langjährig Versicherte nach mindestens 35 Versicherungsjahren nehmen die Menschen die Abschläge oft in Kauf, weil sie nicht länger arbeiten können.“"
+      },
+      {
+       "type": "quote",
+       "text": "Etwas anders ist es bei der abschlagsfreien Rente für besonders langjährig Versicherte.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Grau fügte hinzu: „Etwas anders ist es bei der abschlagsfreien Rente für besonders langjährig Versicherte.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Grau sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Grau sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Stefan Nacke",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005000",
+     "words_source": 361,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was soll die gesetzliche Rente eigentlich leisten?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Stefan Nacke (CDU/CSU) fragte: „Was soll die gesetzliche Rente eigentlich leisten?“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie haben sich ihre Rente durch ihre langjährigen Beiträge verdient.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Nacke fügte hinzu: „Sie haben sich ihre Rente durch ihre langjährigen Beiträge verdient.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die abschlagsfreie Rente nach 45 Beitragsjahren war bei ihrer Einführung gut gemeint.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte Nacke: „Die abschlagsfreie Rente nach 45 Beitragsjahren war bei ihrer Einführung gut gemeint.“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie beziehen eine um ein Drittel höhere Rente als die anderen langjährig Versicherten.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Nacke fügte hinzu: „Sie beziehen eine um ein Drittel höhere Rente als die anderen langjährig Versicherten.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Sarah Vollath",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110005000",
+     "words_source": 73,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "– Würden Sie diesen Menschen – jedem fünften Mann und der Hälfte aller Frauen unter der Armutsgefährdungsschwelle – sagen, dass sie hohe Renten beziehen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Sarah Vollath (Die Linke) fragte: „– Würden Sie diesen Menschen – jedem fünften Mann und der Hälfte aller Frauen unter der Armutsgefährdungsschwelle – sagen, dass sie hohe Renten beziehen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Peter Bohnhof",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005100",
+     "words_source": 388,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Denn Schwarz-Rot streitet sich erbittert über die sogenannte Rente mit 63.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Peter Bohnhof (AfD) erklärte: „Denn Schwarz-Rot streitet sich erbittert über die sogenannte Rente mit 63.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir werden die Regelaltersrente bei 67 Jahren festschreiben,",
+       "verb": "kündigte an",
+       "source": "rule",
+       "display": "Weiter kündigte Bohnhof an: „Wir werden die Regelaltersrente bei 67 Jahren festschreiben,“"
+      },
+      {
+       "type": "quote",
+       "text": "Und wer 45 Beitragsjahre nachweist, soll weiter abschlagsfrei in Rente gehen können.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Bohnhof fügte hinzu: „Und wer 45 Beitragsjahre nachweist, soll weiter abschlagsfrei in Rente gehen können.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und: 25 Prozent der Rente werden bei Bezug von Grundsicherung nicht angerechnet.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Bohnhof: „Und: 25 Prozent der Rente werden bei Bezug von Grundsicherung nicht angerechnet.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Bohnhof die Fraktion der CDU/CSU und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Bohnhof die Fraktion der CDU/CSU und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Jens Peick",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005200",
+     "words_source": 521,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das zeigt, dass die gesetzliche Rente ein Riesenthema ist.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Jens Peick (SPD) erklärte: „Das zeigt, dass die gesetzliche Rente ein Riesenthema ist.“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie hat einen klaren Weg gezeichnet, wie die Renten in Deutschland nicht nur stabil bleiben, sondern wieder steigen können, wie die Menschen mehr Rente haben.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Peick: „Sie hat einen klaren Weg gezeichnet, wie die Renten in Deutschland nicht nur stabil bleiben, sondern wieder steigen können, wie die Menschen mehr Rente haben.“"
+      },
+      {
+       "type": "quote",
+       "text": "Natürlich wird es niemanden überraschen, dass ich die Punkte wie zum Beispiel die abschlagsfreie Rente nach 45 Beitragsjahren so sehe wie mein Kollege aus der Fraktion, Bernd Rützel.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Peick fügte hinzu: „Natürlich wird es niemanden überraschen, dass ich die Punkte wie zum Beispiel die abschlagsfreie Rente nach 45 Beitragsjahren so sehe wie mein Kollege aus der Fraktion, Bernd Rützel.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Peick die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Peick die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Ausschuss für Arbeit und Soziales"
+   ],
+   "subitems": [
+    {
+     "letter": "a",
+     "title": "Beratung des Antrags der Abgeordneten Sarah Vollath, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke Keine weitere Erhöhung der Regelaltersgrenze",
+     "drucksachen": [
+      "21/8388"
+     ],
+     "referrals": [
+      "Ausschuss für Arbeit und Soziales"
+     ]
+    },
+    {
+     "letter": "b",
+     "title": "Beratung des Antrags der Abgeordneten Sarah Vollath, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke Abschlagsfreie Rente für besonders langjährig Versicherte erhalten",
+     "drucksachen": [
+      "21/8389"
+     ],
+     "referrals": [
+      "Ausschuss für Arbeit und Soziales"
+     ]
+    },
+    {
+     "letter": "c",
+     "title": "Beratung des Antrags der Abgeordneten Sarah Vollath, Anne Zerr, Janine Wissler, weiterer Abgeordneter und der Fraktion Die Linke Altersteilzeit weiterhin ab 55 Jahren und im Blockmodell ermöglichen",
+     "drucksachen": [
+      "21/8390"
+     ],
+     "referrals": [
+      "Ausschuss für Arbeit und Soziales"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "TOP 39",
+   "label": "Punkt 39 der Tagesordnung",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Bürokratierückbau im Verkehrsbereich",
+   "drucksachen": [],
+   "kind": "not_handled",
+   "section": "main",
+   "debate_owner": "TOP 39",
+   "notes": [
+    "Der Punkt wurde abgesetzt."
+   ],
+   "speeches": [],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "TO-TOP 33",
+   "label": "Punkt 33 der gedruckten Tagesordnung",
+   "title": "Beratung des Antrags der Abgeordneten Lorenz Gösta Beutin, Jörg Cezanne, Janine Wissler, weiterer Abgeordneter und der Fraktion Die Linke Energieversorgung bezahlbar sichern – Reprivatisierung von Uniper SE und SEFE GmbH stoppen",
+   "drucksachen": [
+    "21/8188"
+   ],
+   "kind": "not_handled",
+   "section": "main",
+   "debate_owner": "TO-TOP 33",
+   "notes": [
+    "Der Punkt wurde in dieser Sitzung nicht aufgerufen."
+   ],
+   "speeches": [],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "TOP 41",
+   "label": "Punkt 41 der Tagesordnung",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität",
+   "drucksachen": [
+    "21/8282",
+    "21/8391"
+   ],
+   "kind": "debate",
+   "section": "main",
+   "debate_owner": "TOP 41",
+   "notes": [],
+   "speeches": [
+    {
+     "speaker": "Michael Schrodi",
+     "group": "Parl. Staatssekretär BMF",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID2110005300",
+     "words_source": 387,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ein zentraler Bestandteil des Zollfinanzgerechtigkeitsgesetzes ist die deutliche Stärkung der Fähigkeiten des Zolls zur Bekämpfung von Organisierter Kriminalität, zur Bekämpfung von Geldwäsche sowie zur Sanktionsdurchsetzung.",
+       "verb": "stellte den Gesetzentwurf vor",
+       "source": "rule",
+       "display": "Michael Schrodi, Parlamentarischer Staatssekretär (BMF), stellte den Gesetzentwurf vor: „Ein zentraler Bestandteil des Zollfinanzgerechtigkeitsgesetzes ist die deutliche Stärkung der Fähigkeiten des Zolls zur Bekämpfung von Organisierter Kriminalität, zur Bekämpfung von Geldwäsche sowie zur Sanktionsdurchsetzung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Staat geht konsequent gegen Finanzkriminalität vor und stellt Gerechtigkeit her; und das machen wir mit diesem Gesetz.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Der Staat geht konsequent gegen Finanzkriminalität vor und stellt Gerechtigkeit her; und das machen wir mit diesem Gesetz.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Kay Gottschalk",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005400",
+     "words_source": 590,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Analyse, FIU-Arbeit, Geldwäscheermittlung, Sanktionsdurchsetzung und Datenaustausch – Sie haben es eben gesagt, Kollege Schrodi – sollen weiterhin auf Bundesebene stärker zusammengeführt werden. Neu ist allerdings, dass dies innerhalb einer erheblich ausgebauten Zollverwaltung stattfinden soll.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Kay Gottschalk (AfD) betonte: „Analyse, FIU-Arbeit, Geldwäscheermittlung, Sanktionsdurchsetzung und Datenaustausch – Sie haben es eben gesagt, Kollege Schrodi – sollen weiterhin auf Bundesebene stärker zusammengeführt werden. Neu ist allerdings, dass dies innerhalb einer erheblich ausgebauten Zollverwaltung stattfinden soll.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Zoll soll künftig nämlich Vermögenswerte bereits dann beschlagnahmen können, wenn bloße begründete Zweifel an deren rechtmäßiger Herkunft bestehen.",
+       "verb": "kündigte an",
+       "source": "rule",
+       "display": "Weiter kündigte Gottschalk an: „Der Zoll soll künftig nämlich Vermögenswerte bereits dann beschlagnahmen können, wenn bloße begründete Zweifel an deren rechtmäßiger Herkunft bestehen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wer schweigt, riskiert die Entziehung seines Vermögens.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Gottschalk fügte hinzu: „Wer schweigt, riskiert die Entziehung seines Vermögens.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und es ist wohlbekannt, was die Linken da wollen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Gottschalk: „Und es ist wohlbekannt, was die Linken da wollen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Gottschalk die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Gottschalk die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Anja Karliczek",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005500",
+     "words_source": 548,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der Zoll muss schneller, effizienter und schlagkräftiger werden; denn Organisierte Kriminalität – und darum geht es im Kern –, Geldwäsche, Schmuggel und Terrorfinanzierung sind in unserer globalisierten Welt leider in jedem Land zu finden – auch hier bei uns.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Anja Karliczek (CDU/CSU) forderte: „Der Zoll muss schneller, effizienter und schlagkräftiger werden; denn Organisierte Kriminalität – und darum geht es im Kern –, Geldwäsche, Schmuggel und Terrorfinanzierung sind in unserer globalisierten Welt leider in jedem Land zu finden – auch hier bei uns.“"
+      },
+      {
+       "type": "quote",
+       "text": "Auf nationaler Ebene straffen wir die Aufgaben und Befugnisse der Zollverwaltung bei der Bekämpfung von Geldwäsche.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Karliczek fügte hinzu: „Auf nationaler Ebene straffen wir die Aufgaben und Befugnisse der Zollverwaltung bei der Bekämpfung von Geldwäsche.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Beweislastumkehr darf nur im Rahmen der Organisierten Kriminalität gelten.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Karliczek: „Die Beweislastumkehr darf nur im Rahmen der Organisierten Kriminalität gelten.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Katharina Beck",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005600",
+     "words_source": 690,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Sie hat einen Antrag eingebracht, nach dem sie sich eigentlich umbenennen müsste in „Alternative für Drahtzieher der Finanzkriminalität“; denn Sie möchten die ganzen Finanzkriminellen leider eher schützen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Katharina Beck (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Sie hat einen Antrag eingebracht, nach dem sie sich eigentlich umbenennen müsste in „Alternative für Drahtzieher der Finanzkriminalität“; denn Sie möchten die ganzen Finanzkriminellen leider eher schützen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Begriff „Finanzkriminalität“ ist manchmal ein bisschen sperrig.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Beck: „Der Begriff „Finanzkriminalität“ ist manchmal ein bisschen sperrig.“"
+      },
+      {
+       "type": "quote",
+       "text": "Eigentlich stand in diesem sehr guten Aktionsplan, dass es nicht nur darum gehen soll, beim Zoll die Maßnahmen gegen Geldwäsche auf Bundesebene zu bündeln, sondern eben auch darum, dort die Finanz- und Steuerkriminalität zu verankern.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Beck fügte hinzu: „Eigentlich stand in diesem sehr guten Aktionsplan, dass es nicht nur darum gehen soll, beim Zoll die Maßnahmen gegen Geldwäsche auf Bundesebene zu bündeln, sondern eben auch darum, dort die Finanz- und Steuerkriminalität zu verankern.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und: Danke an den Zoll und seine Mitarbeiter/-innen für die tolle Arbeit!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Beck: „Und: Danke an den Zoll und seine Mitarbeiter/-innen für die tolle Arbeit!“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Beck die Fraktion der AfD und die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Beck die Fraktion der AfD und die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Isabelle Vandre",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005700",
+     "words_source": 418,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wussten Sie, dass Vergesellschaftung nicht nur gut für Mieter/-innen ist, sondern auch der Bekämpfung der Organisierten Kriminalität dient?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Isabelle Vandre (Die Linke) fragte: „Wussten Sie, dass Vergesellschaftung nicht nur gut für Mieter/-innen ist, sondern auch der Bekämpfung der Organisierten Kriminalität dient?“"
+      },
+      {
+       "type": "quote",
+       "text": "Aus kriminellen Geschäften angeeignete Vermögenswerte müssen sozialisiert und der Gesellschaft zurückgegeben werden.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Vandre: „Aus kriminellen Geschäften angeeignete Vermögenswerte müssen sozialisiert und der Gesellschaft zurückgegeben werden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Doch um zurückzugeben, was der Gesellschaft genommen wurde, müssen wir erst einmal an die Vermögenswerte herankommen und kriminelle Tätigkeiten identifizieren.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte Vandre: „Doch um zurückzugeben, was der Gesellschaft genommen wurde, müssen wir erst einmal an die Vermögenswerte herankommen und kriminelle Tätigkeiten identifizieren.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Ingo Vogel",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005800",
+     "words_source": 255,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Genau deshalb ist dieses Zollfinanzgerechtigkeitsgesetz richtig und wichtig.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Ingo Vogel (SPD) begrüßte: „Genau deshalb ist dieses Zollfinanzgerechtigkeitsgesetz richtig und wichtig.“"
+      },
+      {
+       "type": "quote",
+       "text": "Über eine behördeninterne Strukturreform des Zolls hinaus stärken wir den Zoll grundsätzlich.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Vogel fügte hinzu: „Über eine behördeninterne Strukturreform des Zolls hinaus stärken wir den Zoll grundsätzlich.“"
+      },
+      {
+       "type": "quote",
+       "text": "Illegal erworbenes Vermögen genießt keinen verfassungsrechtlichen Eigentumsschutz.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Vogel: „Illegal erworbenes Vermögen genießt keinen verfassungsrechtlichen Eigentumsschutz.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Vogel sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Vogel sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Hauke Finger",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110005900",
+     "words_source": 360,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Regierung kapituliert vor der Organisierten Kriminalität, die Bürger aber knöpft sie sich vor.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Hauke Finger (AfD) erklärte: „Die Regierung kapituliert vor der Organisierten Kriminalität, die Bürger aber knöpft sie sich vor.“"
+      },
+      {
+       "type": "quote",
+       "text": "Dafür braucht es eine moderne Ermittlungsarbeit und einen Zoll – das wurde gerade schon gesagt –, der Partner unserer Wirtschaft ist und nicht staatliches Inkassobüro.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Finger: „Dafür braucht es eine moderne Ermittlungsarbeit und einen Zoll – das wurde gerade schon gesagt –, der Partner unserer Wirtschaft ist und nicht staatliches Inkassobüro.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Finger sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Finger sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Philip M. A. Hoffmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006000",
+     "words_source": 322,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Mit dem Gesetz schaffen wir den Weg, um Organisierte Kriminalität, Geldwäsche, Drogenhandel, Banden und Clanstrukturen mit allen Kräften effektiver zu bekämpfen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Philip M. A. Hoffmann (CDU/CSU) erklärte: „Mit dem Gesetz schaffen wir den Weg, um Organisierte Kriminalität, Geldwäsche, Drogenhandel, Banden und Clanstrukturen mit allen Kräften effektiver zu bekämpfen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Eine wichtige Rolle spielt dabei der Zoll sowie seine Financial Intelligence Unit.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Hoffmann: „Eine wichtige Rolle spielt dabei der Zoll sowie seine Financial Intelligence Unit.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Hoffmann sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Hoffmann sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Mechthilde Wittmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006100",
+     "words_source": 481,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir hatten im Jahr 2025 nachgewiesene Schäden durch die Organisierte Kriminalität in Höhe von 2,7 Milliarden Euro, konnten aber über konfiszierte Vermögensgegenstände nur 106 Millionen Euro einziehen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Mechthilde Wittmann (CDU/CSU) erklärte: „Wir hatten im Jahr 2025 nachgewiesene Schäden durch die Organisierte Kriminalität in Höhe von 2,7 Milliarden Euro, konnten aber über konfiszierte Vermögensgegenstände nur 106 Millionen Euro einziehen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Unser Zoll ist, was die reine Schlagkraft seines Personals angeht, gut aufgestellt.",
+       "verb": "begrüßte",
+       "source": "rule",
+       "display": "Weiter begrüßte Wittmann: „Unser Zoll ist, was die reine Schlagkraft seines Personals angeht, gut aufgestellt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wenn es konkrete Anhaltspunkte gibt, dass Vermögenswerte nicht rechtmäßiger Herkunft sind, dann werden sie vorläufig beschlagnahmt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Wittmann fügte hinzu: „Wenn es konkrete Anhaltspunkte gibt, dass Vermögenswerte nicht rechtmäßiger Herkunft sind, dann werden sie vorläufig beschlagnahmt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Wittmann sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Wittmann sich an die Fraktion der AfD."
+      }
+     ]
+    }
+   ],
+   "votes": [],
+   "referrals": [
+    "Finanzausschuss (federführend)",
+    "Innenausschuss",
+    "Ausschuss für Recht und Verbraucherschutz",
+    "Ausschuss für Arbeit und Soziales",
+    "Haushaltsausschuss (mitberatend und gemäß § 96 GO-BT)"
+   ],
+   "subitems": [
+    {
+     "letter": "a",
+     "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität",
+     "drucksachen": [
+      "21/8282"
+     ],
+     "referrals": [
+      "Finanzausschuss (federführend)",
+      "Innenausschuss",
+      "Ausschuss für Recht und Verbraucherschutz",
+      "Ausschuss für Arbeit und Soziales",
+      "Haushaltsausschuss (mitberatend und gemäß § 96 GO-BT)"
+     ]
+    },
+    {
+     "letter": "b",
+     "title": "Beratung des Antrags der Abgeordneten Isabelle Vandre, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke Zollreform erweitern – Organisierte Steuerkriminalität wirksam verfolgen und eingezogenes Vermögen der Gesellschaft zurückgeben",
+     "drucksachen": [
+      "21/8391"
+     ],
+     "referrals": [
+      "Finanzausschuss (federführend)",
+      "Innenausschuss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "TOP 40",
+   "label": "Punkt 40 der Tagesordnung",
+   "title": "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN Brücken bauen, Menschenrechte stärken – Für eine starke Partnerschaft zwischen Deutschland und der Türkei",
+   "drucksachen": [],
+   "kind": "not_handled",
+   "section": "main",
+   "debate_owner": "TOP 40",
+   "notes": [
+    "Der Punkt wurde abgesetzt."
+   ],
+   "speeches": [],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "TO-TOP 36",
+   "label": "Punkt 36 der gedruckten Tagesordnung",
+   "title": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Partnerschaftsabkommen vom 17. Januar 2026 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und dem Gemeinsamen Markt des Südens, der Argentinischen Republik, der Föderativen Republik Brasilien, der Republik Paraguay und der Republik Östlich des Uruguays andererseits",
+   "drucksachen": [],
+   "kind": "not_handled",
+   "section": "main",
+   "debate_owner": "TO-TOP 36",
+   "notes": [
+    "Der Punkt wurde in dieser Sitzung nicht aufgerufen."
+   ],
+   "speeches": [],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "ZP 10",
+   "label": "Zusatzpunkt 10",
+   "title": "Beratung des Antrags der Abgeordneten Robin Wagener, Agnieszka Brugger, Deborah Düring, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN 85 Jahre Massaker von Babyn Jar – Deutschlands historische Verantwortung für die Ukraine",
+   "drucksachen": [
+    "21/8152"
+   ],
+   "kind": "debate",
+   "section": "rest",
+   "debate_owner": "ZP 10",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages.",
+    "Gemeinsam beraten mit ZP 11."
+   ],
+   "speeches": [
+    {
+     "speaker": "Robin Wagener",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006200",
+     "words_source": 452,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Am 29. und 30. September 1941 wurden 33 771 jüdische Menschen aus Kyjiw in der Schlucht von Babyn Jar erschossen – 33 771 Menschen innerhalb von 48 Stunden –, weil sie jüdisch waren.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Robin Wagener (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Am 29. und 30. September 1941 wurden 33 771 jüdische Menschen aus Kyjiw in der Schlucht von Babyn Jar erschossen – 33 771 Menschen innerhalb von 48 Stunden –, weil sie jüdisch waren.“"
+      },
+      {
+       "type": "quote",
+       "text": "33 771 Jüdinnen und Juden, Menschen, Bürger der Ukraine, Teil der ukrainischen Kultur.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Wagener: „33 771 Jüdinnen und Juden, Menschen, Bürger der Ukraine, Teil der ukrainischen Kultur.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Karin Prien",
+     "group": "Bundesministerin BMBFSFJ",
+     "role": "government",
+     "kind": "Rede",
+     "rede": "ID2110006300",
+     "words_source": 518,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Mit eiskalter Bürokratie haben die deutschen Täter Buch geführt und die Erschießung von 33 771 jüdischen Männern, Frauen und Kindern in der Schlucht von Babyn Jar vermerkt; sie wurden innerhalb von zwei Tagen hingerichtet.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Karin Prien, Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend, erklärte: „Mit eiskalter Bürokratie haben die deutschen Täter Buch geführt und die Erschießung von 33 771 jüdischen Männern, Frauen und Kindern in der Schlucht von Babyn Jar vermerkt; sie wurden innerhalb von zwei Tagen hingerichtet.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Besuch in der Ukraine hat mir eines erneut gezeigt:",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Der Besuch in der Ukraine hat mir eines erneut gezeigt:“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Ukraine verlor im Zweiten Weltkrieg rund ein Viertel ihrer Bevölkerung, darunter 1,5 Millionen Juden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Die Ukraine verlor im Zweiten Weltkrieg rund ein Viertel ihrer Bevölkerung, darunter 1,5 Millionen Juden.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Rainer Rothfuß",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006400",
+     "words_source": 765,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir gedenken heute eines der schlimmsten Massaker der Geschichte auf europäischem Boden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Dr. Rainer Rothfuß (AfD) betonte: „Wir gedenken heute eines der schlimmsten Massaker der Geschichte auf europäischem Boden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir müssen Gedenken, das 85 Jahre zurückreicht, in die heutige Zeit übersetzen und uns fragen: Was können wir heute besser machen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte Rothfuß: „Wir müssen Gedenken, das 85 Jahre zurückreicht, in die heutige Zeit übersetzen und uns fragen: Was können wir heute besser machen?“"
+      },
+      {
+       "type": "quote",
+       "text": "Unser Anliegen muss sein, einen Friedensplan für die Ukraine und für Europa als Auftrag aus diesen Lehren zu entwerfen.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Rothfuß: „Unser Anliegen muss sein, einen Friedensplan für die Ukraine und für Europa als Auftrag aus diesen Lehren zu entwerfen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Es muss unser Anliegen sein, aus der historischen Verantwortung heraus aufzuzeigen:",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte Rothfuß: „Es muss unser Anliegen sein, aus der historischen Verantwortung heraus aufzuzeigen:“"
+      },
+      {
+       "type": "quote",
+       "text": "Wir brauchen auch eine neue, zukünftige Friedensordnung, die das Sterben in der Ukraine nicht nur beendet, sondern auch einen tragfähigen Friedensschluss danach ermöglicht.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Rothfuß: „Wir brauchen auch eine neue, zukünftige Friedensordnung, die das Sterben in der Ukraine nicht nur beendet, sondern auch einen tragfähigen Friedensschluss danach ermöglicht.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Schraps",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006500",
+     "words_source": 887,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Am 29. und 30. September dann wurden innerhalb von nur zwei Tagen in der Schlucht von Babyn Jar mehr als 33 000 jüdische Männer, Frauen und Kinder erschossen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Johannes Schraps (SPD) erklärte: „Am 29. und 30. September dann wurden innerhalb von nur zwei Tagen in der Schlucht von Babyn Jar mehr als 33 000 jüdische Männer, Frauen und Kinder erschossen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Dieser 85. Jahrestag ist aber mehr als ein Anlass zum Gedenken; er ist eben auch eine Verpflichtung zur Erinnerung an die rund 1,5 Millionen ermordeten Jüdinnen und Juden in der Ukraine, an die rund 2,2 Millionen Menschen, die zur Zwangsarbeit aus der Ukraine verschleppt wurden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Schraps: „Dieser 85. Jahrestag ist aber mehr als ein Anlass zum Gedenken; er ist eben auch eine Verpflichtung zur Erinnerung an die rund 1,5 Millionen ermordeten Jüdinnen und Juden in der Ukraine, an die rund 2,2 Millionen Menschen, die zur Zwangsarbeit aus der Ukraine verschleppt wurden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Gerade junge Menschen müssen erfahren, was in Babyn Jar geschehen ist, wer die Opfer waren und wer die Täter.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Schraps: „Gerade junge Menschen müssen erfahren, was in Babyn Jar geschehen ist, wer die Opfer waren und wer die Täter.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und aus unserer historischen Verantwortung gegenüber der Ukraine erwächst Verpflichtung für die Gegenwart.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Schraps fügte hinzu: „Und aus unserer historischen Verantwortung gegenüber der Ukraine erwächst Verpflichtung für die Gegenwart.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Schraps sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Schraps sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Maren Kaminski",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006600",
+     "words_source": 388,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Vor 85 Jahren erschossen Einsatzgruppen der deutschen Sicherheitspolizei in Babyn Jar",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Maren Kaminski (Die Linke) betonte: „Vor 85 Jahren erschossen Einsatzgruppen der deutschen Sicherheitspolizei in Babyn Jar“"
+      },
+      {
+       "type": "quote",
+       "text": "Vor dem Überfall auf die Sowjetunion lebten 220 000 Jüdinnen und Juden in Kyjiw, einem Zentrum jüdischen Lebens.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Kaminski fügte hinzu: „Vor dem Überfall auf die Sowjetunion lebten 220 000 Jüdinnen und Juden in Kyjiw, einem Zentrum jüdischen Lebens.“"
+      },
+      {
+       "type": "quote",
+       "text": "36 Stunden lang kamen Juden und starben.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Kaminski: „36 Stunden lang kamen Juden und starben.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Kaminski sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Kaminski sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Anna Rathert",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110006700",
+     "words_source": 49,
+     "parts": []
+    },
+    {
+     "speaker": "Maren Kaminski",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006800",
+     "words_source": 82,
+     "parts": []
+    },
+    {
+     "speaker": "Johannes Volkmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110006900",
+     "words_source": 343,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Zehntausende ukrainische Juden, Zehntausende jüdische Ukrainer wurden in zwei Tagen Ende September 1941 unter deutschem Befehl in Babyn Jar erschossen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Johannes Volkmann (CDU/CSU) erklärte: „Zehntausende ukrainische Juden, Zehntausende jüdische Ukrainer wurden in zwei Tagen Ende September 1941 unter deutschem Befehl in Babyn Jar erschossen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Man kann der Vergangenheit nicht gedenken und die Gegenwart einfach ausblenden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Volkmann: „Man kann der Vergangenheit nicht gedenken und die Gegenwart einfach ausblenden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das gilt gleichermaßen für jüdisches Leben wie für die Ukraine.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Volkmann fügte hinzu: „Das gilt gleichermaßen für jüdisches Leben wie für die Ukraine.“"
+      },
+      {
+       "type": "formula",
+       "text": "und bat um Zustimmung",
+       "verb": null,
+       "source": "rule",
+       "display": "und bat um Zustimmung"
+      }
+     ]
+    },
+    {
+     "speaker": "Mechthilde Wittmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007000",
+     "words_source": 381,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wir schauen auf der Landkarte nach Kyjiw, nach Babyn Jar.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Mechthilde Wittmann (CDU/CSU) betonte: „Wir schauen auf der Landkarte nach Kyjiw, nach Babyn Jar.“"
+      },
+      {
+       "type": "quote",
+       "text": "Am 1. März 2022 schlug eine russische Rakete in der Nähe des Fernsehturms von Kyjiw ein; das ist unmittelbar beim Gelände von Babyn Jar.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Wittmann fügte hinzu: „Am 1. März 2022 schlug eine russische Rakete in der Nähe des Fernsehturms von Kyjiw ein; das ist unmittelbar beim Gelände von Babyn Jar.“"
+      },
+      {
+       "type": "quote",
+       "text": "85 Jahre nach Babyn Jar ist die wichtigste Frage deswegen nicht:",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Wittmann: „85 Jahre nach Babyn Jar ist die wichtigste Frage deswegen nicht:“"
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss mit Mehrheit (BÜNDNIS 90/DIE GRÜNEN, Die Linke) bei Stimmenthaltungen (CDU/CSU, SPD, AfD):",
+     "decision": "Annahme des Antrags auf Drucksache 21/8152",
+     "sub": null
+    }
+   ],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "ZP 11",
+   "label": "Zusatzpunkt 11",
+   "title": "Beratung des Antrags der Fraktionen der CDU/CSU und SPD 85. Jahrestag des Massakers von Babyn Jar – Erinnerung bewahren, historische Verantwortung stärken und die Ukraine auf ihrem Weg in Freiheit und Sicherheit unterstützen",
+   "drucksachen": [
+    "21/8365"
+   ],
+   "kind": "debate",
+   "section": "rest",
+   "debate_owner": "ZP 10",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages.",
+    "Gemeinsam beraten mit ZP 10. Die Aussprache ist unter ZP 10 wiedergegeben."
+   ],
+   "speeches": [],
+   "votes": [
+    {
+     "result_sentence": "Der Bundestag beschloss mit Mehrheit (CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN) bei Stimmenthaltungen (AfD, Die Linke):",
+     "decision": "Annahme des Antrags auf Drucksache 21/8365",
+     "sub": null
+    }
+   ],
+   "referrals": [],
+   "subitems": []
+  },
+  {
+   "id": "ZP 12",
+   "label": "Zusatzpunkt 12",
+   "title": "Aktuelle Stunde auf Verlangen der Fraktion Die Linke gemäß Anlage 3 Nummer 1 Buchstabe c GO-BT Zäsur in Sachsen-Anhalt – Nicht zur Tagesordnung übergehen - Keine Zusammenarbeit mit Rechtsextremen",
+   "drucksachen": [
+    "21/6808"
+   ],
+   "kind": "debate",
+   "section": "rest",
+   "debate_owner": "ZP 12",
+   "notes": [
+    "Dieser Punkt stand nicht in der gedruckten Tagesordnung dieses Sitzungstages."
+   ],
+   "speeches": [
+    {
+     "speaker": "Heidi Reichinnek",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007100",
+     "words_source": 1036,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Am Dienstag wurde in Sachsen-Anhalt der erste rechtsextreme Parlamentspräsident seit Hermann Göring gewählt. Was in Sachsen-Anhalt passiert ist, ist keine Kleinigkeit.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Heidi Reichinnek (Die Linke) erklärte: „Am Dienstag wurde in Sachsen-Anhalt der erste rechtsextreme Parlamentspräsident seit Hermann Göring gewählt. Was in Sachsen-Anhalt passiert ist, ist keine Kleinigkeit.“"
+      },
+      {
+       "type": "quote",
+       "text": "Als es darum ging, einen Rechtsextremen ins höchste Amt des Landes Sachsen-Anhalt zu heben, haben sich 9 von 15 Abgeordneten der Union bewusst dafür entschieden, ihm diesen Weg zu ebnen – durch Zustimmung oder Enthaltung.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Reichinnek: „Als es darum ging, einen Rechtsextremen ins höchste Amt des Landes Sachsen-Anhalt zu heben, haben sich 9 von 15 Abgeordneten der Union bewusst dafür entschieden, ihm diesen Weg zu ebnen – durch Zustimmung oder Enthaltung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und nicht nur in Sachsen-Anhalt fordern Vertreter Ihrer Partei schon lange eine Öffnung zur rechtsextremen AfD.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte Reichinnek: „Und nicht nur in Sachsen-Anhalt fordern Vertreter Ihrer Partei schon lange eine Öffnung zur rechtsextremen AfD.“"
+      },
+      {
+       "type": "quote",
+       "text": "Nach der Wahl in Sachsen-Anhalt haben wir als Linke allen demokratischen Parteien, auch Ihnen von der Union, trotz aller Kritik die Hand gereicht, um gemeinsam zu verhindern, dass diese Rechtsextremen an die Macht kommen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Reichinnek fügte hinzu: „Nach der Wahl in Sachsen-Anhalt haben wir als Linke allen demokratischen Parteien, auch Ihnen von der Union, trotz aller Kritik die Hand gereicht, um gemeinsam zu verhindern, dass diese Rechtsextremen an die Macht kommen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte Reichinnek sich an die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte Reichinnek sich an die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Reza Asghari",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007100",
+     "words_source": 93,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Wie kommt es, dass Sie Hamasunterstützer bei Ihren Veranstaltungen nicht nur zulassen, sondern auch wiederholt reden lassen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Reza Asghari (CDU/CSU) fragte: „Wie kommt es, dass Sie Hamasunterstützer bei Ihren Veranstaltungen nicht nur zulassen, sondern auch wiederholt reden lassen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ottilie Klein",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007200",
+     "words_source": 668,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Der 6. September 2026 ist eine Zäsur für Sachsen-Anhalt und für unser gesamtes Land.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Ottilie Klein (CDU/CSU) erklärte: „Der 6. September 2026 ist eine Zäsur für Sachsen-Anhalt und für unser gesamtes Land.“"
+      },
+      {
+       "type": "quote",
+       "text": "Für uns als CDU ist die Frage einer Zusammenarbeit mit politischen Extremen sowieso klar.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte Klein: „Für uns als CDU ist die Frage einer Zusammenarbeit mit politischen Extremen sowieso klar.“"
+      },
+      {
+       "type": "quote",
+       "text": "Wissen Sie, was mich an dieser Debatte wirklich ärgert – das ist gestern schon zum Ausdruck gekommen, als wir über Berlin gesprochen haben –: dass man, wenn es nach der Linkspartei geht, offenbar wegen Sachsen-Anhalt jetzt nicht mehr über Berlin sprechen soll.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Klein fügte hinzu: „Wissen Sie, was mich an dieser Debatte wirklich ärgert – das ist gestern schon zum Ausdruck gekommen, als wir über Berlin gesprochen haben –: dass man, wenn es nach der Linkspartei geht, offenbar wegen Sachsen-Anhalt jetzt nicht mehr über Berlin sprechen soll.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte Klein die Fraktion der AfD und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte Klein die Fraktion der AfD und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Martin Reichardt",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007300",
+     "words_source": 738,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "In Sachsen-Anhalt wurden mit demokratischen Mitteln ein Landtagspräsident und zwei Landtagsvizepräsidenten gewählt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Martin Reichardt (AfD) betonte: „In Sachsen-Anhalt wurden mit demokratischen Mitteln ein Landtagspräsident und zwei Landtagsvizepräsidenten gewählt.“"
+      },
+      {
+       "type": "quote",
+       "text": "durch freie Wahlen, in denen unsere AfD, getragen von einer gigantischen Wahlbeteiligung von 77,8 Prozent und einem epochalen Ergebnis von 43,8 Prozent, nach vorne getragen wurde.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „durch freie Wahlen, in denen unsere AfD, getragen von einer gigantischen Wahlbeteiligung von 77,8 Prozent und einem epochalen Ergebnis von 43,8 Prozent, nach vorne getragen wurde.“"
+      },
+      {
+       "type": "quote",
+       "text": "Meine Damen und Herren von Linken, Grünen und SPD, auch wenn es Ihnen nicht gefällt:",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Meine Damen und Herren von Linken, Grünen und SPD, auch wenn es Ihnen nicht gefällt:“"
+      },
+      {
+       "type": "quote",
+       "text": "Meine Damen und Herren von der CDU, ich habe Sie in meiner Kritik bewusst ausgelassen; denn ich habe in Sachsen-Anhalt Hoffnung erlebt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Meine Damen und Herren von der CDU, ich habe Sie in meiner Kritik bewusst ausgelassen; denn ich habe in Sachsen-Anhalt Hoffnung erlebt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Bei uns in Sachsen-Anhalt gibt es erkennbar mutige Mitglieder Ihrer Partei,",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Bei uns in Sachsen-Anhalt gibt es erkennbar mutige Mitglieder Ihrer Partei,“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die SPD-Fraktion und die Fraktion BÜNDNIS 90/DIE GRÜNEN.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die SPD-Fraktion und die Fraktion BÜNDNIS 90/DIE GRÜNEN."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ralf Stegner",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007300",
+     "words_source": 110,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Aber ich will dem Vorsitzenden des Landesverbands der AfD Sachsen-Anhalt sagen: Wenn Mitglieder Ihrer Partei aus Sachsen-Anhalt sagen: Wir müssen eine neue SA gründen",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Dr. Ralf Stegner (SPD) fragte: „Aber ich will dem Vorsitzenden des Landesverbands der AfD Sachsen-Anhalt sagen: Wenn Mitglieder Ihrer Partei aus Sachsen-Anhalt sagen: Wir müssen eine neue SA gründen“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ralf Stegner",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007300",
+     "words_source": 6,
+     "parts": []
+    },
+    {
+     "speaker": "Dr. Ralf Stegner",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007300",
+     "words_source": 16,
+     "parts": []
+    },
+    {
+     "speaker": "Dr. Ralf Stegner",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007300",
+     "words_source": 25,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Herr Tillschneider, von dem Sie gerade gesprochen haben, der zum Vizepräsidenten des Landtags von Sachsen-Anhalt gewählt worden ist, –",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Dr. Ralf Stegner (SPD) wollte wissen: „Herr Tillschneider, von dem Sie gerade gesprochen haben, der zum Vizepräsidenten des Landtags von Sachsen-Anhalt gewählt worden ist, –“"
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Ralf Stegner",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007300",
+     "words_source": 70,
+     "parts": []
+    },
+    {
+     "speaker": "Dr. Franziska Kersten",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007400",
+     "words_source": 647,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Was wir an diesem Dienstag erlebt haben, war eine Zäsur:",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Dr. Franziska Kersten (SPD) erklärte: „Was wir an diesem Dienstag erlebt haben, war eine Zäsur:“"
+      },
+      {
+       "type": "quote",
+       "text": "Die SPD Sachsen-Anhalt hat am Mittwoch verkündet, alle weiteren Versuche für Koalitionsgespräche abzubrechen. Die CDU Sachsen-Anhalt hat mit dieser Wahl eindrücklich gezeigt, dass sie kein verlässlicher Partner für uns sein kann.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Die SPD Sachsen-Anhalt hat am Mittwoch verkündet, alle weiteren Versuche für Koalitionsgespräche abzubrechen. Die CDU Sachsen-Anhalt hat mit dieser Wahl eindrücklich gezeigt, dass sie kein verlässlicher Partner für uns sein kann.“"
+      },
+      {
+       "type": "quote",
+       "text": "Für die SPD war und ist für immer klar: Keine Zusammenarbeit mit Rechtsextremisten!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Für die SPD war und ist für immer klar: Keine Zusammenarbeit mit Rechtsextremisten!“"
+      },
+      {
+       "type": "quote",
+       "text": "Was ist jetzt erst mal wichtig für Sachsen-Anhalt?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte sie: „Was ist jetzt erst mal wichtig für Sachsen-Anhalt?“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Landtagspräsident mag gewählt sein, der Ministerpräsident ist noch nicht gewählt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Der Landtagspräsident mag gewählt sein, der Ministerpräsident ist noch nicht gewählt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Martin Reichardt",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110007500",
+     "words_source": 58,
+     "parts": [
+      {
+       "type": "reported",
+       "text": "Martin Reichardt (AfD) wandte sich an die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Martin Reichardt (AfD) wandte sich an die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Dr. Franziska Kersten",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110007600",
+     "words_source": 56,
+     "parts": []
+    },
+    {
+     "speaker": "Steffi Lemke",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007700",
+     "words_source": 672,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Am 6. September wurde in Sachsen-Anhalt ein Landesparlament gewählt, und bei dieser Wahl gaben der rechtsextremen AfD 576 000 Menschen ihre Zweitstimme. Das hat mir als Bürgerin von Sachsen-Anhalt den Atem verschlagen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN) betonte: „Am 6. September wurde in Sachsen-Anhalt ein Landesparlament gewählt, und bei dieser Wahl gaben der rechtsextremen AfD 576 000 Menschen ihre Zweitstimme. Das hat mir als Bürgerin von Sachsen-Anhalt den Atem verschlagen.“"
+      },
+      {
+       "type": "quote",
+       "text": "und wenn ich sehe, dass der hessische Ministerpräsident, Boris Rhein, zwei Tage vor dieser historischen Zäsur in Sachsen-Anhalt dazu auffordert, der AfD Posten in Parlamenten zu geben und die Kooperation zu verstärken, dann frage ich mich: Wo ist die CDU, die dem etwas entgegensetzt?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Weiter fragte sie: „und wenn ich sehe, dass der hessische Ministerpräsident, Boris Rhein, zwei Tage vor dieser historischen Zäsur in Sachsen-Anhalt dazu auffordert, der AfD Posten in Parlamenten zu geben und die Kooperation zu verstärken, dann frage ich mich: Wo ist die CDU, die dem etwas entgegensetzt?“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Klaus-Peter Willsch",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110007800",
+     "words_source": 878,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ausgerechnet Die Linke – ausgerechnet Die Linke! – beantragt eine Aktuelle Stunde, weil in Sachsen-Anhalt in einer geheimen und parlamentarisch legitimen Wahl",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Klaus-Peter Willsch (CDU/CSU) erklärte: „Ausgerechnet Die Linke – ausgerechnet Die Linke! – beantragt eine Aktuelle Stunde, weil in Sachsen-Anhalt in einer geheimen und parlamentarisch legitimen Wahl“"
+      },
+      {
+       "type": "quote",
+       "text": "ein Landtagspräsident aus den Reihen der stärksten Fraktion gewählt wurde.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „ein Landtagspräsident aus den Reihen der stärksten Fraktion gewählt wurde.“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber das war eine geheime Wahl, und bei einer geheimen Wahl lässt sich eine False-Flag-Aktion natürlich nicht ausschließen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Aber das war eine geheime Wahl, und bei einer geheimen Wahl lässt sich eine False-Flag-Aktion natürlich nicht ausschließen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Drei Jahre nach dem barbarischen Massaker der Hamas vom 7. Oktober 2023 –",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Drei Jahre nach dem barbarischen Massaker der Hamas vom 7. Oktober 2023 –“"
+      },
+      {
+       "type": "quote",
+       "text": "bei dem 1 200 unschuldige Menschen ermordet und 251 Kinder, Frauen und Männer verschleppt wurden, darunter auch deutsche Staatsbürger, an einem solchen Tag sondieren SPD und Grüne umstandslos mit den Linken, bei denen die antisemitischen Vorfälle ja massiv sind und unwiderlegt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „bei dem 1 200 unschuldige Menschen ermordet und 251 Kinder, Frauen und Männer verschleppt wurden, darunter auch deutsche Staatsbürger, an einem solchen Tag sondieren SPD und Grüne umstandslos mit den Linken, bei denen die antisemitischen Vorfälle ja massiv sind und unwiderlegt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Lorenz Gösta Beutin",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007800",
+     "words_source": 224,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Offensichtlich nicht, sondern Sie finden es sogar richtig, dass ein Parlamentspräsident einer rechtsradikalen Partei gewählt worden ist.",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Lorenz Gösta Beutin (Die Linke) fragte: „Offensichtlich nicht, sondern Sie finden es sogar richtig, dass ein Parlamentspräsident einer rechtsradikalen Partei gewählt worden ist.“"
+      },
+      {
+       "type": "quote",
+       "text": "Und die Geschichte der Union ist auch die Geschichte der Blockpartei CDU, die ihre Vergangenheit nicht aufgearbeitet hat – im Gegensatz zur Linken, die Konsequenzen gezogen hat und ihre Geschichte aufgearbeitet hat.",
+       "verb": "wollte wissen",
+       "source": "rule",
+       "display": "Weiter wollte er wissen: „Und die Geschichte der Union ist auch die Geschichte der Blockpartei CDU, die ihre Vergangenheit nicht aufgearbeitet hat – im Gegensatz zur Linken, die Konsequenzen gezogen hat und ihre Geschichte aufgearbeitet hat.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Jan Feser",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Zwischenfrage",
+     "rede": "ID2110007800",
+     "words_source": 102,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Soll diese Unterstützung fortan wieder fallen gelassen werden? Soll sie um der Brandmauer willen verleugnet werden? Oder ist man angesichts der Mehrheiten jetzt bereit, auch mal zur Unterstützung der AfD zu stehen?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Jan Feser (AfD) fragte: „Soll diese Unterstützung fortan wieder fallen gelassen werden? Soll sie um der Brandmauer willen verleugnet werden? Oder ist man angesichts der Mehrheiten jetzt bereit, auch mal zur Unterstützung der AfD zu stehen?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Sepp Müller",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110007900",
+     "words_source": 266,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Das heißt für uns auch, dass wir keinen Ministerpräsidentenkandidaten der AfD wählen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sepp Müller (CDU/CSU) erklärte: „Das heißt für uns auch, dass wir keinen Ministerpräsidentenkandidaten der AfD wählen.“"
+      },
+      {
+       "type": "quote",
+       "text": "wenn Sie sich bereits auf den Weg machen, mit den Linken in Berlin eine Koalition einzugehen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „wenn Sie sich bereits auf den Weg machen, mit den Linken in Berlin eine Koalition einzugehen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion BÜNDNIS 90/DIE GRÜNEN."
+      }
+     ]
+    },
+    {
+     "speaker": "Steffi Lemke",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110008000",
+     "words_source": 405,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es ist eine geheime Wahl gewesen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Es ist eine geheime Wahl gewesen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber wir kommen alle nicht umhin – leider –, jeden einzelnen Tag in den Nachrichten verfolgen zu müssen, wie die CDU in Sachsen-Anhalt darüber diskutiert, wer aus ihren eigenen Reihen es gewesen ist.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte sie: „Aber wir kommen alle nicht umhin – leider –, jeden einzelnen Tag in den Nachrichten verfolgen zu müssen, wie die CDU in Sachsen-Anhalt darüber diskutiert, wer aus ihren eigenen Reihen es gewesen ist.“"
+      },
+      {
+       "type": "quote",
+       "text": "Es ging um Sachsen-Anhalt und um die Menschen in Sachsen-Anhalt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Es ging um Sachsen-Anhalt und um die Menschen in Sachsen-Anhalt.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte sie sich an die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte sie sich an die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Thomas Korell",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008100",
+     "words_source": 605,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Ich komme aus Sachsen-Anhalt und war selbst Abgeordneter im Landtag.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Thomas Korell (AfD) betonte: „Ich komme aus Sachsen-Anhalt und war selbst Abgeordneter im Landtag.“"
+      },
+      {
+       "type": "quote",
+       "text": "In Magdeburg ist ein AfD-Abgeordneter zum Landtagspräsidenten gewählt worden, und plötzlich heißt es: Zäsur!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „In Magdeburg ist ein AfD-Abgeordneter zum Landtagspräsidenten gewählt worden, und plötzlich heißt es: Zäsur!“"
+      },
+      {
+       "type": "quote",
+       "text": "Gleichzeitig fiel der SPD-Kandidat für das Amt des Vizepräsidenten durch: 33 Jastimmen, 48 Neinstimmen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Gleichzeitig fiel der SPD-Kandidat für das Amt des Vizepräsidenten durch: 33 Jastimmen, 48 Neinstimmen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Jetzt sagt Issa Rammo selbst: „Natürlich kennt er mich“, und gewählt habe er Die Linke.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Jetzt sagt Issa Rammo selbst: „Natürlich kennt er mich“, und gewählt habe er Die Linke.“"
+      },
+      {
+       "type": "quote",
+       "text": "Gleichzeitig sondieren SPD, Grüne und Linke in Berlin über eine gemeinsame Regierung.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Gleichzeitig sondieren SPD, Grüne und Linke in Berlin über eine gemeinsame Regierung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die Bürger in Sachsen-Anhalt haben das längst verstanden.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Die Bürger in Sachsen-Anhalt haben das längst verstanden.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Tim Klüssendorf",
+     "group": "SPD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008200",
+     "words_source": 722,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Eine Partei, die nicht auf dem Boden der Demokratie steht, wird dadurch aber keine demokratische Partei, Herr Reichardt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Tim Klüssendorf (SPD) erklärte: „Eine Partei, die nicht auf dem Boden der Demokratie steht, wird dadurch aber keine demokratische Partei, Herr Reichardt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Felix Zietmann ist Landtagsabgeordneter der AfD in Sachsen-Anhalt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Felix Zietmann ist Landtagsabgeordneter der AfD in Sachsen-Anhalt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das sagt aus, dass Sie das infrage stellen wollen, was demokratische Parteien hier über Jahrzehnte aufgebaut haben.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Das sagt aus, dass Sie das infrage stellen wollen, was demokratische Parteien hier über Jahrzehnte aufgebaut haben.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ich habe ein weiteres Zitat, von Oliver Kirchner, Landtagsabgeordneter, auch aus Sachsen-Anhalt:",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Ich habe ein weiteres Zitat, von Oliver Kirchner, Landtagsabgeordneter, auch aus Sachsen-Anhalt:“"
+      },
+      {
+       "type": "quote",
+       "text": "Jeder Bürger, jede Bürgerin da draußen muss wissen, was diese Partei plant.",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Jeder Bürger, jede Bürgerin da draußen muss wissen, was diese Partei plant.“"
+      },
+      {
+       "type": "quote",
+       "text": "Deswegen muss es das Ziel sein, im Dezember die Wahl Ihres Ministerpräsidenten zu verhindern.",
+       "verb": "verlangte",
+       "source": "rule",
+       "display": "Weiter verlangte er: „Deswegen muss es das Ziel sein, im Dezember die Wahl Ihres Ministerpräsidenten zu verhindern.“"
+      }
+     ]
+    },
+    {
+     "speaker": "Felix Banaszak",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008300",
+     "words_source": 671,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Es ist genau sieben Jahre her, dass sich um 11:50 Uhr Stephan Balliet, ein gewaltbereiter Rechtsextremist, ein fanatischer Antisemit auf den Weg machte, um in Halle an der Saale in Sachsen-Anhalt Jüdinnen und Juden zu ermorden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Felix Banaszak (BÜNDNIS 90/DIE GRÜNEN) erklärte: „Es ist genau sieben Jahre her, dass sich um 11:50 Uhr Stephan Balliet, ein gewaltbereiter Rechtsextremist, ein fanatischer Antisemit auf den Weg machte, um in Halle an der Saale in Sachsen-Anhalt Jüdinnen und Juden zu ermorden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Aber wenn Sie eine mögliche Regierungsbildung mit der Linken in Berlin zum Anlass nehmen wollen, die Brandmauer zur AfD endgültig zu schleifen und Rechtsextremen an die Macht zu verhelfen, dann stehen Sie auf der falschen Seite der Geschichte.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Aber wenn Sie eine mögliche Regierungsbildung mit der Linken in Berlin zum Anlass nehmen wollen, die Brandmauer zur AfD endgültig zu schleifen und Rechtsextremen an die Macht zu verhelfen, dann stehen Sie auf der falschen Seite der Geschichte.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Bundesregierung.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Bundesregierung."
+      }
+     ]
+    },
+    {
+     "speaker": "Janina Böttger",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008400",
+     "words_source": 625,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Jetzt sehen wir: Die Lage in Sachsen-Anhalt ist weit dramatischer.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Janina Böttger (Die Linke) erklärte: „Jetzt sehen wir: Die Lage in Sachsen-Anhalt ist weit dramatischer.“"
+      },
+      {
+       "type": "quote",
+       "text": "Vor unseren Augen zerfällt eine Regierungspartei, in Magdeburg und auch in Berlin. Und plötzlich ist ein rechtsextremer Ministerpräsident möglich – mithilfe der CDU; das wissen hier alle.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Vor unseren Augen zerfällt eine Regierungspartei, in Magdeburg und auch in Berlin. Und plötzlich ist ein rechtsextremer Ministerpräsident möglich – mithilfe der CDU; das wissen hier alle.“"
+      },
+      {
+       "type": "quote",
+       "text": "Die SPD spaltete sich darüber, die WASG entstand, Die Linke gewann an Bedeutung.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Sie fügte hinzu: „Die SPD spaltete sich darüber, die WASG entstand, Die Linke gewann an Bedeutung.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der neugewählte Vizepräsident des Landtages der AfD, Tillschneider, versuchte heute Mittag, zum Gedenken in die Synagoge zu kommen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte sie: „Der neugewählte Vizepräsident des Landtages der AfD, Tillschneider, versuchte heute Mittag, zum Gedenken in die Synagoge zu kommen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte sie die Fraktion der AfD und die Fraktion der CDU/CSU.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte sie die Fraktion der AfD und die Fraktion der CDU/CSU."
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wiegelmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008500",
+     "words_source": 854,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Die Linke hat diese Aktuelle Stunde beantragt, um über die CDU in Sachsen-Anhalt zu reden.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Johannes Wiegelmann (CDU/CSU) erklärte: „Die Linke hat diese Aktuelle Stunde beantragt, um über die CDU in Sachsen-Anhalt zu reden.“"
+      },
+      {
+       "type": "quote",
+       "text": "Gewählt wurden ein Landtagspräsident und ein Vizepräsident der AfD, der eine ehemals federführend zuständig für die Organisation der Vetternwirtschaft, der andere hat nur noch eine Tasse im Schrank, und zwar die der russischen Armee.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Gewählt wurden ein Landtagspräsident und ein Vizepräsident der AfD, der eine ehemals federführend zuständig für die Organisation der Vetternwirtschaft, der andere hat nur noch eine Tasse im Schrank, und zwar die der russischen Armee.“"
+      },
+      {
+       "type": "quote",
+       "text": "Beide wurden gewählt mit mehr Stimmen, als sie Unterstützer im Landtag haben, und hinterher wollte es niemand gewesen sein.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Beide wurden gewählt mit mehr Stimmen, als sie Unterstützer im Landtag haben, und hinterher wollte es niemand gewesen sein.“"
+      },
+      {
+       "type": "quote",
+       "text": "Der Präsident des Zentralrats der Juden nennt die Beteuerung der Linken Lippenbekenntnisse.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Der Präsident des Zentralrats der Juden nennt die Beteuerung der Linken Lippenbekenntnisse.“"
+      },
+      {
+       "type": "quote",
+       "text": "Ihre Partei hat in Berlin mit den Linken ein Vorgespräch geführt über den Kampf gegen Antisemitismus und den Schutz jüdischen Lebens.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Ihre Partei hat in Berlin mit den Linken ein Vorgespräch geführt über den Kampf gegen Antisemitismus und den Schutz jüdischen Lebens.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die SPD-Fraktion und die Koalition.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die SPD-Fraktion und die Koalition."
+      }
+     ]
+    },
+    {
+     "speaker": "Felix Banaszak",
+     "group": "BÜNDNIS 90/DIE GRÜNEN",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110008600",
+     "words_source": 205,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Welches Signal senden Sie diesen Menschen, wenn Sie in einer Debatte über Sachsen-Anhalt heute die ganze Zeit über Berlin reden?",
+       "verb": "fragte",
+       "source": "rule",
+       "display": "Felix Banaszak (BÜNDNIS 90/DIE GRÜNEN) fragte: „Welches Signal senden Sie diesen Menschen, wenn Sie in einer Debatte über Sachsen-Anhalt heute die ganze Zeit über Berlin reden?“"
+      }
+     ]
+    },
+    {
+     "speaker": "Johannes Wiegelmann",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110008700",
+     "words_source": 181,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Und ich würde mir von Ihnen wünschen – deswegen habe ich heute ganz bewusst den Blick auf Berlin gewählt –",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Johannes Wiegelmann (CDU/CSU) erklärte: „Und ich würde mir von Ihnen wünschen – deswegen habe ich heute ganz bewusst den Blick auf Berlin gewählt –“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion Die Linke.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion Die Linke."
+      }
+     ]
+    },
+    {
+     "speaker": "Jörn König",
+     "group": "AfD",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008800",
+     "words_source": 576,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "44 Prozent, das ist die Zäsur, über die Die Linke heute reden will – 44 Prozent für die AfD in Sachsen-Anhalt bei 78 Prozent Wahlbeteiligung, der höchsten seit 1990.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Jörn König (AfD) betonte: „44 Prozent, das ist die Zäsur, über die Die Linke heute reden will – 44 Prozent für die AfD in Sachsen-Anhalt bei 78 Prozent Wahlbeteiligung, der höchsten seit 1990.“"
+      },
+      {
+       "type": "quote",
+       "text": "Sie wollen nicht zur Tagesordnung übergehen.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Sie wollen nicht zur Tagesordnung übergehen.“"
+      },
+      {
+       "type": "quote",
+       "text": "Schon am Dienstag hat der Landtag in Magdeburg Tobias Rausch von der AfD mit 48 Stimmen zum Präsidenten gewählt, 9 Stimmen – ich wiederhole: 9 Stimmen – davon aus anderen Fraktionen.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „Schon am Dienstag hat der Landtag in Magdeburg Tobias Rausch von der AfD mit 48 Stimmen zum Präsidenten gewählt, 9 Stimmen – ich wiederhole: 9 Stimmen – davon aus anderen Fraktionen.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem kritisierte er die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem kritisierte er die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Heiko Hain",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Rede",
+     "rede": "ID2110008900",
+     "words_source": 612,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Am 6. September hat die AfD in Sachsen-Anhalt 43,8 Prozent erreicht. Am 6. Oktober wurde im Magdeburger Landtag zum ersten Mal in der Geschichte der Bundesrepublik ein AfD-Politiker zum Landtagspräsidenten gewählt.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Heiko Hain (CDU/CSU) erklärte: „Am 6. September hat die AfD in Sachsen-Anhalt 43,8 Prozent erreicht. Am 6. Oktober wurde im Magdeburger Landtag zum ersten Mal in der Geschichte der Bundesrepublik ein AfD-Politiker zum Landtagspräsidenten gewählt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Keine Koalition und keine Zusammenarbeit mit der AfD!",
+       "verb": "forderte",
+       "source": "rule",
+       "display": "Weiter forderte er: „Keine Koalition und keine Zusammenarbeit mit der AfD!“"
+      },
+      {
+       "type": "quote",
+       "text": "Nicht jeder, der die AfD wählt, ist rechtsextrem.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Nicht jeder, der die AfD wählt, ist rechtsextrem.“"
+      },
+      {
+       "type": "quote",
+       "text": "2020 hat im Thüringer Landtag unser bis vorhin noch vorsitzender Vizepräsident selbst einen AfD-Kandidaten zum Landtagsvizepräsidenten gewählt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Weiter betonte er: „2020 hat im Thüringer Landtag unser bis vorhin noch vorsitzender Vizepräsident selbst einen AfD-Kandidaten zum Landtagsvizepräsidenten gewählt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das gilt für jede Partei.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Das gilt für jede Partei.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD und die SPD-Fraktion.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD und die SPD-Fraktion."
+      }
+     ]
+    },
+    {
+     "speaker": "Bodo Ramelow",
+     "group": "Die Linke",
+     "role": "member",
+     "kind": "Kurzintervention",
+     "rede": "ID2110009000",
+     "words_source": 361,
+     "parts": [
+      {
+       "type": "quote",
+       "text": "Im Jahr 2020 habe ich als Abgeordneter des Thüringer Landtags Professor Kaufmann zum Vizepräsidenten des Thüringer Landtags mitgewählt und das auch öffentlich gemacht, damit es keine Spekulationen gibt.",
+       "verb": "betonte",
+       "source": "rule",
+       "display": "Bodo Ramelow (Die Linke) betonte: „Im Jahr 2020 habe ich als Abgeordneter des Thüringer Landtags Professor Kaufmann zum Vizepräsidenten des Thüringer Landtags mitgewählt und das auch öffentlich gemacht, damit es keine Spekulationen gibt.“"
+      },
+      {
+       "type": "quote",
+       "text": "Das war der Vorschlag der AfD für das Amt der Präsidentin des Thüringer Landtags.",
+       "verb": "erklärte",
+       "source": "rule",
+       "display": "Er fügte hinzu: „Das war der Vorschlag der AfD für das Amt der Präsidentin des Thüringer Landtags.“"
+      },
+      {
+       "type": "reported",
+       "text": "Zudem wandte er sich an die Fraktion der AfD.",
+       "verb": null,
+       "source": "rule",
+       "display": "Zudem wandte er sich an die Fraktion der AfD."
+      }
+     ]
+    },
+    {
+     "speaker": "Heiko Hain",
+     "group": "CDU/CSU",
+     "role": "member",
+     "kind": "Erwiderung",
+     "rede": "ID2110009100",
+     "words_source": 49,
+     "parts": []
+    }
+   ],
+   "votes": [],
+   "referrals": [],
+   "subitems": []
+  }
+ ],
+ "compute": {
+  "rule_seconds": 9.67,
+  "wall_seconds": 10.2,
+  "llm_calls": 0,
+  "llm_calls_cached": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0,
+  "llm_seconds": 0
+ },
+ "reported_checks": []
+}

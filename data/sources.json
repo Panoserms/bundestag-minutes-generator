@@ -1,0 +1,43 @@
+{
+ "21030": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1113758/21030.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1113446/amtpr21030.pdf"
+ },
+ "21032": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1115000/21032.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1113450/amtpr21032.pdf"
+ },
+ "21055": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1140144/21055.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1137564/amtpr21055.pdf"
+ },
+ "21085": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1192472/21085.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1191442/amtpr21085.pdf"
+ },
+ "21098": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1223326/21098.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1223440/amtpr21098.pdf"
+ },
+ "21099": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1223646/21099.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1223442/amtpr21099.pdf"
+ },
+ "21100": {
+  "plenarprotokoll_xml": "https://www.bundestag.de/resource/blob/1224034/21100.xml",
+  "amtliches_protokoll_pdf": "https://www.bundestag.de/resource/blob/1223444/amtpr21100.pdf"
+ },
+ "_tagesordnung": {
+  "note": "Weekly 'Tagesordnung' PDFs as printed before the sitting week (bundestag.de/parlament/plenum/tagesordnungen), recovered from Wayback Machine snapshots; the file name is the snapshot timestamp (web.archive.org/web/<timestamp>/...).",
+  "files": [
+   "to_20250926124152.pdf",
+   "to_20250926124152.txt",
+   "to_20260124140451.pdf",
+   "to_20260124140451.txt",
+   "to_20260625070729.pdf",
+   "to_20260625070729.txt",
+   "to_20261002072232.pdf",
+   "to_20261002072232.txt"
+  ]
+ }
+}

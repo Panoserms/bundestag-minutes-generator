@@ -1,0 +1,43 @@
+{
+ "C": {
+  "items": 7,
+  "speeches": 198,
+  "quote_segments": 280,
+  "quotes_exact": 277,
+  "quotes_misattributed": 3,
+  "quotes_near": 0,
+  "quotes_not_found": 0,
+  "exact_rate": 0.989,
+  "fragment_quotes": 4,
+  "quote_placement_ok": "277/277",
+  "printed_items_in_output": 7,
+  "order_discordant_pairs": 0,
+  "debate_words": 7476,
+  "speech_words": 42906,
+  "length_ratio": 0.174,
+  "quoted_share": 0.781,
+  "top_intro": "fragte",
+  "top_intro_share": 0.376,
+  "distinct_intros": 11,
+  "intros": {
+   "fragte": 62,
+   "antwortete": 40,
+   "wollte": 26,
+   "erklärte": 16,
+   "betonte": 11,
+   "forderte": 5,
+   "stellte": 1,
+   "sagte": 1
+  },
+  "compute": {
+   "rule_seconds": 9.29,
+   "wall_seconds": 9.8,
+   "llm_calls": 0,
+   "llm_calls_cached": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0,
+   "llm_seconds": 0
+  }
+ }
+}

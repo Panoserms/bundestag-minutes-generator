@@ -1,0 +1,99 @@
+{
+ "B": {
+  "items": 12,
+  "speeches": 81,
+  "quote_segments": 291,
+  "quotes_exact": 291,
+  "quotes_misattributed": 0,
+  "quotes_near": 0,
+  "quotes_not_found": 0,
+  "exact_rate": 1.0,
+  "fragment_quotes": 10,
+  "quote_placement_ok": "291/291",
+  "printed_items_in_output": 6,
+  "order_discordant_pairs": 0,
+  "debate_words": 7580,
+  "speech_words": 44690,
+  "length_ratio": 0.17,
+  "quoted_share": 0.681,
+  "top_intro": "erklärte",
+  "top_intro_share": 0.519,
+  "distinct_intros": 10,
+  "intros": {
+   "erklärte": 42,
+   "betonte": 19,
+   "forderte": 8,
+   "stellte": 3,
+   "fragte": 3,
+   "begrüßte": 2,
+   "verlangte": 1,
+   "kündigte": 1
+  },
+  "compute": {
+   "rule_seconds": 10.67,
+   "wall_seconds": 84.5,
+   "llm_calls": 8,
+   "llm_calls_cached": 0,
+   "input_tokens": 40128,
+   "output_tokens": 8742,
+   "cost_usd": 0.2479,
+   "llm_seconds": 73.4
+  }
+ },
+ "C": {
+  "items": 12,
+  "speeches": 81,
+  "quote_segments": 291,
+  "quotes_exact": 291,
+  "quotes_misattributed": 0,
+  "quotes_near": 0,
+  "quotes_not_found": 0,
+  "exact_rate": 1.0,
+  "fragment_quotes": 10,
+  "quote_placement_ok": "291/291",
+  "printed_items_in_output": 6,
+  "order_discordant_pairs": 0,
+  "debate_words": 6210,
+  "speech_words": 44690,
+  "length_ratio": 0.139,
+  "quoted_share": 0.832,
+  "top_intro": "erklärte",
+  "top_intro_share": 0.519,
+  "distinct_intros": 10,
+  "intros": {
+   "erklärte": 42,
+   "betonte": 19,
+   "forderte": 8,
+   "stellte": 3,
+   "fragte": 3,
+   "begrüßte": 2,
+   "verlangte": 1,
+   "kündigte": 1
+  },
+  "compute": {
+   "rule_seconds": 9.31,
+   "wall_seconds": 9.8,
+   "llm_calls": 0,
+   "llm_calls_cached": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0,
+   "llm_seconds": 0
+  }
+ },
+ "v1_before": {
+  "speeches": 83,
+  "top_intro": "führte",
+  "top_intro_share": 0.554,
+  "distinct_intros": 5,
+  "intros": {
+   "führte": 46,
+   "erklärte": 27,
+   "forderte": 7,
+   "fragte": 2,
+   "erwiderte": 1
+  },
+  "debate_words": 3017,
+  "quoted_share": 0.011
+ }
+}

@@ -1,0 +1,92 @@
+# Verbs typical of each section type in 59 Münster Niederschriften 2024-26 (Rat + 3 committees).
+# Derived statistics only (no text). LL = Dunning log-likelihood vs all other sections; log_ratio = Hardie 2014.
+section	verb	freq_in	freq_out	per_1000_verbs	LL	log_ratio
+Anfragen/Mitteilungen	antworten	33	3	12.0	130.8	6.6
+Anfragen/Mitteilungen	informieren	59	53	21.5	126.1	3.3
+Anfragen/Mitteilungen	mitteilen	38	26	13.8	92.8	3.69
+Anfragen/Mitteilungen	überschreiten	12	3	4.4	40.5	5.14
+Anfragen/Mitteilungen	berechtigen	12	4	4.4	37.7	4.73
+Anfragen/Mitteilungen	stellen	37	86	13.5	37.1	1.93
+Anfragen/Mitteilungen	stattfinden	22	31	8.0	35.3	2.65
+Anfragen/Mitteilungen	gehen	18	20	6.6	34.0	2.99
+Anfragen/Mitteilungen	einreichen	19	27	6.9	30.3	2.64
+Anfragen/Mitteilungen	erreichen	21	34	7.6	30.1	2.45
+Anfragen/Mitteilungen	zusagen	14	13	5.1	29.4	3.25
+Anfragen/Mitteilungen	eingehen	16	21	5.8	27.0	2.75
+Anfragen/Mitteilungen	Stellung nehmen	9	4	3.3	26.0	4.31
+Anfragen/Mitteilungen	geben	56	217	20.4	25.5	1.19
+Anfragen/Mitteilungen	bitten	35	104	12.7	25.4	1.57
+Verfahren	vorliegen	389	64	225.8	1780.5	6.48
+Verfahren	zur Abstimmung stellen	271	1	157.3	1478.5	11.96
+Verfahren	verweisen	172	76	99.8	651.1	5.05
+Verfahren	zum Antrag erheben	66	2	38.3	345.5	8.92
+Verfahren	absetzen	51	13	29.6	217.8	5.85
+Verfahren	beantragen	74	147	42.9	144.9	2.89
+Verfahren	abstimmen	50	79	29.0	113.4	3.22
+Verfahren	schieben	35	67	20.3	70.3	2.94
+Verfahren	nachsprechen	12	1	7.0	59.1	7.46
+Verfahren	verpflichten	21	24	12.2	56.6	3.68
+Verfahren	bitten	29	110	16.8	31.7	1.95
+Verfahren	beifügen	14	23	8.1	31.0	3.16
+Verfahren	wünschen	11	14	6.4	28.1	3.53
+Verfahren	zurückziehen	8	5	4.6	27.4	4.55
+Verfahren	Antrag stellen	14	36	8.1	22.5	2.51
+Verlauf/Diskussion	begründen	84	12	16.7	214.7	4.93
+Verlauf/Diskussion	einbringen	97	27	19.3	207.0	3.97
+Verlauf/Diskussion	zu Protokoll geben	47	13	9.3	100.5	3.98
+Verlauf/Diskussion	vorstellen	57	41	11.3	75.1	2.6
+Verlauf/Diskussion	stellen	61	62	12.1	60.0	2.1
+Verlauf/Diskussion	erläutern	41	33	8.1	49.6	2.44
+Verlauf/Diskussion	beantworten	41	36	8.1	46.1	2.31
+Verlauf/Diskussion	erklären	40	38	7.9	42.0	2.2
+Verlauf/Diskussion	handeln	33	26	6.6	40.6	2.47
+Verlauf/Diskussion	Antrag stellen	29	21	5.8	38.0	2.59
+Verlauf/Diskussion	beantragen	74	147	14.7	27.4	1.13
+Verlauf/Diskussion	lassen	29	31	5.8	27.1	2.03
+Verlauf/Diskussion	bitten	51	88	10.1	24.9	1.34
+Verlauf/Diskussion	abstimmen	48	81	9.5	24.4	1.37
+Verlauf/Diskussion	hinweisen	33	44	6.6	23.8	1.71
+Abstimmungsergebnis	beschließen	855	791	448.3	2369.0	3.83
+Abstimmungsergebnis	ablehnen	191	39	100.2	808.9	6.01
+Abstimmungsergebnis	empfehlen	173	34	90.7	737.2	6.07
+Abstimmungsergebnis	annehmen	112	10	58.7	526.0	7.2
+Abstimmungsergebnis	schieben	55	47	28.8	157.7	3.95
+Abstimmungsergebnis	zustimmen	107	290	56.1	147.0	2.28
+Abstimmungsergebnis	zur Kenntnis nehmen	169	1153	88.6	54.1	0.95
+Abstimmungsergebnis	stimmen	19	27	10.0	42.3	3.21
+Abstimmungsergebnis	priorisieren	12	18	6.3	25.9	3.13
+Abstimmungsergebnis	fassen	21	108	11.0	12.5	1.36
+Abstimmungsergebnis	vertagen	5	7	2.6	11.2	3.23
+Abstimmungsergebnis	anschloss	5	7	2.6	11.2	3.23
+Abstimmungsergebnis	absetzen	9	55	4.7	3.8	1.11
+Abstimmungsergebnis	behandeln	6	41	3.1	1.9	0.95
+Beschluss	zur Kenntnis nehmen	1006	316	94.7	738.9	2.3
+Beschluss	anregen	414	64	39.0	460.1	3.32
+Beschluss	veranschlagen	329	66	31.0	323.4	2.94
+Beschluss	entstehen	243	70	22.9	190.7	2.42
+Beschluss	finanzieren	194	58	18.3	148.1	2.37
+Beschluss	ermächtigen	74	3	7.0	115.7	5.25
+Beschluss	bereitstellen	184	72	17.3	111.1	1.98
+Beschluss	folgen	247	133	23.2	101.8	1.52
+Beschluss	richten	78	10	7.3	93.2	3.59
+Beschluss	anfallen	82	12	7.7	93.2	3.4
+Beschluss	zustimmen	229	168	21.6	54.3	1.07
+Beschluss	übertragen	38	6	3.6	41.8	3.29
+Beschluss	stehen	141	93	13.3	41.6	1.23
+Beschluss	bestellen	28	2	2.6	39.5	4.43
+Beschluss	fassen	86	43	8.1	39.2	1.62
+Antragstext	beauftragen	287	490	57.8	147.5	1.38
+Antragstext	vorlegen	146	172	29.4	125.6	1.91
+Antragstext	prüfen	168	230	33.8	120.3	1.7
+Antragstext	entwickeln	53	55	10.7	52.1	2.1
+Antragstext	erarbeiten	44	59	8.9	32.4	1.73
+Antragstext	vermeiden	26	21	5.2	31.9	2.46
+Antragstext	stärken	28	30	5.6	26.7	2.05
+Antragstext	unterstützen	30	35	6.0	26.1	1.93
+Antragstext	ermöglichen	43	67	8.7	25.6	1.51
+Antragstext	nutzen	41	66	8.3	23.2	1.46
+Antragstext	ändern	47	84	9.5	22.3	1.31
+Antragstext	darlegen	17	13	3.4	21.8	2.54
+Antragstext	überprüfen	23	26	4.6	20.7	1.97
+Antragstext	umsetzen	111	292	22.3	20.2	0.75
+Antragstext	bekräftigen	17	16	3.4	18.3	2.24
