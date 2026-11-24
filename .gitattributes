@@ -1,0 +1,5 @@
+# Generated minutes and recorded runs: results, not source code.
+outputs/** linguist-generated
+results/** linguist-generated
+work/** linguist-generated
+konstanz_agenda_study/results/** linguist-generated

@@ -48,7 +48,7 @@ The start of one contribution, as the hybrid wrote it (item 35 of sitting 21032)
 > […] Wir als Linke sagen: Familien brauchen Verlässlichkeit, gerade wenn ein Kind auf die Welt kommt.
 
 Full files: [one sitting](outputs/21032_B.pdf) · [the record and the minutes side
-by side](outputs/21032_B_vergleich.html) · [a whole week, rules only](outputs/21098-21100_C.pdf).
+by side](outputs/21032_B_vergleich.pdf) · [a whole week, rules only](outputs/21098-21100_C.pdf).
 
 ![Screenshot: a Bundestag speech on the left with the kept passages in yellow, the generated minutes with the one-sentence summary on the right](docs/img/side-by-side.png)
 
