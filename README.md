@@ -113,7 +113,7 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
 | `outputs/` | generated minutes; `v2_frozen/` is the scored test run |
 | `konstanz_agenda_study/` | the side study |
 
-## Data
+## Data and licence
 
 All inputs are public documents of the Deutscher Bundestag (bundestag.de open data; official works under § 5 UrhG).
 The printed Tagesordnung PDFs were recovered from Wayback Machine snapshots. The background statistics come from 58
@@ -121,3 +121,5 @@ other public Plenarprotokolle (`data/background_sittings.txt`). The Münster res
 from the public Niederschriften of the Stadt Münster (OParl), without any text from them. The side study uses the
 public agendas and decision records of the Kreistag Konstanz; only statistics are committed, and `fetch.py`
 downloads the documents.
+
+The code is under the MIT licence. The documents in `data/raw/` are official works and are not covered by it.
