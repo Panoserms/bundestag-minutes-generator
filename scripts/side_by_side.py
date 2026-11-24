@@ -67,45 +67,10 @@ def esc(t):
     return html.escape(t or "", quote=False)
 
 
-def kept_spans(text, nds_speech):
-    """Character spans of `text` (the speech's paragraphs joined by spaces) that the Niederschrift keeps."""
-    spans, at = [], 0
-    for p in nds_speech.get("parts", []):
-        if p.get("type") != "quote":
-            continue
-        for seg in re.split(r"\s*\[…\]\s*", p["text"]):
-            seg = seg.strip().replace("\n", " ")
-            if not seg:
-                continue
-            k = text.find(seg, at)
-            if k == -1:
-                k = text.find(seg)
-            if k == -1:
-                continue
-            spans.append((k, k + len(seg)))
-            at = k + len(seg)
-    return sorted(spans)
-
-
-def marked(text, start, spans):
-    """HTML of one paragraph (text at offset `start` of the joined speech) with the kept spans marked."""
-    out, pos = [], 0
-    end = start + len(text)
-    for a, b in spans:
-        a, b = max(a, start) - start, min(b, end) - start
-        if a >= b:
-            continue
-        out.append(esc(text[pos:a]))
-        out.append(f"<mark>{esc(text[a:b])}</mark>")
-        pos = b
-    out.append(esc(text[pos:]))
-    return "".join(out)
-
-
 def source_speech(sp, by_i):
     units = [by_i[i] for i in sp["units"] if i in by_i]
     text = " ".join(u["text"] for u in units)
-    spans = kept_spans(text, sp)
+    spans = render.kept_spans(text, sp)
     kept = sum(len(text[a:b].split()) for a, b in spans)
     total = len(text.split())
     h = [f'<p class="who">{esc(render.speaker_name(sp))}'
@@ -114,7 +79,7 @@ def source_speech(sp, by_i):
          f'</span></p>']
     off = 0
     for u in units:
-        h.append(f"<p>{marked(u['text'], off, spans)}</p>")
+        h.append(f"<p>{render.marked(u['text'], off, spans)}</p>")
         for r in u.get("reactions") or []:
             h.append(f'<p class="react">{esc(r)}</p>')
         off += len(u["text"]) + 1

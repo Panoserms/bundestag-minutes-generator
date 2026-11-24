@@ -89,7 +89,7 @@ Every quote must be an exact substring of the speech's own text (whitespace-norm
 
 ### NDS-JSON (output of every system)
 
-`outputs/<sid>_<system>.json`:
+`outputs/<sid>_<system>.json` (the runs behind the results are in `results/nds/`):
 ```python
 {"sid", "system": "A"|"B"|"C",
  "items": [ {"id", "title", "notes": [str],

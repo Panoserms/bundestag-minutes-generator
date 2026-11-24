@@ -28,7 +28,8 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from niederschrift.sources import load_sitting  # noqa: E402
 
-OUT = ROOT / "outputs"
+OUT = ROOT / "outputs"              # new runs
+SCORED = ROOT / "results" / "nds"   # the runs behind docs/RESULTS.md
 
 
 def norm(t):
@@ -138,8 +139,8 @@ def main():
         sitting = load_sitting(sid)
         res = {}
         for system in "ABC":
-            f = OUT / f"{sid}_{system}.json"
-            if f.exists():
+            f = next((d / f"{sid}_{system}.json" for d in (OUT, SCORED) if (d / f"{sid}_{system}.json").exists()), None)
+            if f:
                 res[system] = score(json.loads(f.read_text()), sitting)
         (ROOT / "results").mkdir(exist_ok=True)
         (ROOT / "results" / f"eval_{sid}.json").write_text(json.dumps(res, ensure_ascii=False, indent=1))

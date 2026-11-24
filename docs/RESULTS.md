@@ -81,6 +81,8 @@ on 21099.
 
 ## Version 3: how much of each speech is kept
 
+![Screenshot: a Bundestag speech on the left with the kept passages in yellow, the generated minutes on the right](img/side-by-side.png)
+
 The rules (excerpt, order, votes) are the same in B and C. Only the Kurzfassung differs: the LLM writes it in B,
 and a rule writes it in C.
 
@@ -155,8 +157,9 @@ in [`RULES.md`](RULES.md)). On the development week (sittings 98 to 100, 7 to 9 
 | Votes and decisions | 44 / 44 |
 | Time (rules only, CPU) | about 45 s |
 
-The week of sittings 30 to 32 was used as a second check, for order and completeness only: 41 of 41 planned items in
-order, every handled item once. Sitting 31 is part of the background statistics, so its output is not included here.
+The example week in `outputs/` (sittings 30 to 32, 8 to 10 October 2025) was only checked for order and completeness: 41 of 41
+planned items in order, 2 of them moved to another day, 2 withdrawn, 1 without a call, 13 items that were not printed, and 520 of
+520 speeches once. Sitting 31 is part of the background statistics, so its excerpts are not a clean test.
 
 ## Limits
 - A was run on one test sitting only, so the A–B comparison rests on one sitting, and with the v2

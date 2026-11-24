@@ -93,3 +93,22 @@ def test_every_speech_of_the_week_stands_in_the_file_once(plan):
         for i, it in plan["structures"][s]["items"].items():
             if it["units"] and any(plan["sittings"][s]["units"][u]["rede"] for u in it["units"]):
                 assert (s, it["debate_owner"]) in shown, (s, i)
+
+
+def test_modes_of_a_speech_come_from_its_own_text():
+    units = [{"text": "Guten Tag. Der Preis steigt um 3 Euro."}, {"text": "Danke."}]
+    sp = {"units": [0, 1], "parts": [{"type": "summary", "text": "warnt, dass der Preis steigt."},
+                                     {"type": "quote", "text": "Der Preis steigt um 3 Euro."}]}
+    m = week.modes_of(sp, units, "kritisiert den Preis.")
+    assert list(m) == ["kurz", "kurzllm", "auszug", "wortlaut"]
+    assert m["wortlaut"]["html"] == ["Guten Tag. <mark>Der Preis steigt um 3 Euro.</mark>", "Danke."]
+    assert m["wortlaut"]["words"] == 9 and m["auszug"]["words"] == 6
+    assert list(week.modes_of({"units": [1], "parts": []}, units)) == ["wortlaut"]     # nothing chosen: full text only
+
+
+def test_the_example_week_runs_from_top_1_to_top_41():
+    p = week.build_plan(["21030", "21031", "21032"])
+    assert [e["printed"]["id"] for e in p["entries"] if e["printed"]] == [f"TOP {n}" for n in range(1, 42)]
+    shown = [e["key"] for e in p["entries"] if e["key"] and not e["merged_into"]]
+    expected = {(s, i) for s in p["sids"] for i, it in p["structures"][s]["items"].items() if week.has_content(it)}
+    assert len(shown) == len(set(shown)) and expected <= set(shown)

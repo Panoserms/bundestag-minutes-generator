@@ -30,27 +30,22 @@ hybrid and by rules alone:
 The current version (3.1) keeps 37–47% of the words. All tables, the later versions and what went wrong:
 **[docs/RESULTS.md](docs/RESULTS.md)**.
 
-## Example
+## Example: one week, several modes
 
-The start of one contribution, as the hybrid wrote it (item 35 of sitting 21032):
+The example output is one whole sitting week (sittings 30 to 32, 8 to 10 October 2025) in one file. Every speech can be read in
+several modes, one by one or for the whole file:
 
-> **Mandy Eißing (Die Linke)**
-> *Kurzfassung: fordert, den Elterngeld-Mindestbetrag auf 440 Euro beim Basiselterngeld und 220 Euro beim Elterngeld
-> Plus anzuheben, weil er seit 2007 unverändert ist.*
->
-> Und trotzdem: Seit der Einführung des Elterngeldes im Jahr 2007 ist der Mindestbetrag nicht angehoben worden –
-> null, nada –, obwohl die Preise in dieser Zeit um fast die Hälfte gestiegen sind.
->
-> Das heißt: Familien, die eh schon jeden Cent umdrehen müssen, verlieren jedes Jahr Kaufkraft. Und nicht nur sie,
-> auch Eltern mit normalem Einkommen spüren das längst. Windeln, Miete, Strom, Kinderkleidung – alles teurer, und das
-> trifft alle Familien.
->
-> […] Wir als Linke sagen: Familien brauchen Verlässlichkeit, gerade wenn ein Kind auf die Welt kommt.
+| Mode | What it is | Speeches |
+|---|---|--:|
+| Kurzfassung (Regel) | one sentence, formed by rules | 204 |
+| Kurzfassung (Sprachmodell) | one sentence, written by the LLM and checked by rules (sitting 32) | 75 |
+| Eigene Worte (Auszug) | the chosen paragraphs in the speaker's words | 507 |
+| Wortlaut | the full speech, the excerpt highlighted | 520 |
 
-Full files: [one sitting](outputs/21032_B.pdf) · [the record and the minutes side
-by side](outputs/21032_B_vergleich.pdf) · [a whole week, rules only](outputs/21098-21100_C.pdf).
+![Screenshot of one speech in the example file: the one-sentence summary by rule and by language model, the excerpt in the speaker's own words, and the full text closed](docs/img/modes.png)
 
-![Screenshot: a Bundestag speech on the left with the kept passages in yellow, the generated minutes with the one-sentence summary on the right](docs/img/side-by-side.png)
+**Open it:** [as PDF](outputs/21030-21032.pdf) (the excerpt mode), or download
+[the interactive file](https://github.com/Panoserms/bundestag-minutes-generator/raw/main/outputs/21030-21032.html) and open it in a browser.
 
 ## How it works
 
@@ -72,7 +67,7 @@ Every rule with its linguistic basis is in the **[rulebook](docs/RULES.md)**.
 A sitting week usually has three sittings and one printed agenda, and items move between days. The week mode looks for every
 planned item in all sittings of the week and puts it back in its printed place:
 
-![The 38 planned items of the week of sittings 98 to 100 in printed order, coloured by what happened to them: handled on the planned day, moved to another day, handled together with another item, withdrawn, or no call found](docs/img/week.png)
+![The 41 planned items of the week of sittings 30 to 32 in printed order, coloured by what happened to them: handled on the planned day, moved to another day, withdrawn, or no call found](docs/img/week.png)
 
 ### Side study
 
@@ -84,7 +79,8 @@ rules carry over to local government: [findings](konstanz_agenda_study/FINDINGS.
 - The comparison with the model alone rests on **one sitting**, in version 2. Version 3.1 has no clean held-out number yet.
 - Nobody has judged content or readability by hand, and the metrics come from the author of the systems.
 - The minutes are drafts: some items carry a *Prüfhinweis* where the chair's result and the official record do not match.
-- The week mode was built on one week and only checked for order and completeness on a second one.
+- The week mode was built on the week of sittings 98 to 100. The example week was only checked for order and completeness, and
+  its sitting 31 is part of the background statistics.
 - In question time, questions the chair read out appear in the chair's words.
 
 ## Run it
@@ -94,7 +90,7 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/pip install https://github.com/explosion/spacy-models/releases/download/de_core_news_md-3.8.0/de_core_news_md-3.8.0-py3-none-any.whl
 .venv/bin/python -m niederschrift.compose 21032 --system C                # one sitting, rules only, about 10 s
 .venv/bin/python -m niederschrift.compose 21032 --system B                # hybrid, from the saved LLM replies
-.venv/bin/python -m niederschrift.week 21098 21099 21100 --system C       # a whole week in one file, about 1 min
+.venv/bin/python -m niederschrift.week 21030 21031 21032 --llm            # the example week, about 1 min
 .venv/bin/python scripts/evaluate.py 21032                                # the metrics
 .venv/bin/python -m pytest -q                                             # tests
 ```
@@ -110,7 +106,8 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
 | `scripts/` | evaluation, side-by-side view, background statistics |
 | `docs/` | [results](docs/RESULTS.md), [rulebook](docs/RULES.md), [architecture](docs/ARCHITECTURE.md), style guides (current, and the one used in the scored test) |
 | `data/` | the public input documents, their URLs, word statistics |
-| `outputs/` | generated minutes; `v2_frozen/` is the scored test run |
+| `outputs/` | the example week (HTML, PDF, JSON); new runs are written here |
+| `results/` | scores, and the runs behind them (`nds/`, `v2_frozen/` is the scored test) |
 | `konstanz_agenda_study/` | the side study |
 
 ## Data and licence

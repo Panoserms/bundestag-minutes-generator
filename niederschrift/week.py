@@ -1,8 +1,12 @@
 """One Niederschrift for a whole sitting week: all sittings of the week joined into one file that follows the weekly
 Tagesordnung as printed before the week, from the first planned item to the last.
 
-    .venv/bin/python -m niederschrift.week 21098 21099 21100 --system C [--pdf]
-    -> outputs/21098-21100_<system>.json, .html (.pdf)
+    .venv/bin/python -m niederschrift.week 21030 21031 21032 [--llm] [--pdf]
+    -> outputs/21030-21032.json, .html (.pdf)
+
+Every speech can be read in several modes (render.MODES): a one-sentence summary written by a rule, the same written by
+the LLM (--llm; from the saved replies, or by new calls if NIEDERSCHRIFT_LLM_CMD is set), the speaker's own words as an
+excerpt, and the full text with the excerpt highlighted.
 
 The single-sitting pipeline does the work inside each sitting (segmentation, votes, the speakers' own words). This
 module only decides where each item stands (rules W1-W6, docs/RULES.md):
@@ -173,13 +177,52 @@ def build_plan(sids):
     return {"sids": sids, "entries": entries, "sittings": sit, "structures": st, "days": days}
 
 
-def compose_week(sids, system):
+def modes_of(sp, units, llm_summary=None):
+    """{mode: {"html": [paragraphs], "words": n}} of one composed speech (see render.MODES)."""
+    parts = {p["type"]: p for p in sp["parts"]}
+    paragraphs = [units[i]["text"] for i in sp["units"]]
+    full = " ".join(paragraphs)
+    spans = render.kept_spans(full, sp)
+    out, at, marked = {}, 0, []
+    for par in paragraphs:
+        marked.append(render.marked(par, at, spans))
+        at += len(par) + 1
+    if "summary" in parts:
+        out["kurz"] = {"html": [render.esc(parts["summary"]["text"])], "words": len(parts["summary"]["text"].split())}
+    if llm_summary:
+        out["kurzllm"] = {"html": [render.esc(llm_summary)], "words": len(llm_summary.split())}
+    if "quote" in parts:
+        text = parts["quote"]["text"]
+        out["auszug"] = {"html": [render.esc(p) for p in text.split("\n")], "words": len(text.replace("[…]", "").split())}
+    out["wortlaut"] = {"html": marked, "words": len(full.split())}
+    return out
+
+
+def llm_summaries(sid):
+    """{(item id, position): summary} written by the LLM and accepted by the rules; {} if a reply is missing and no
+    LLM command is set."""
+    try:
+        nds, _, _ = compose.compose(sid, "B")
+    except RuntimeError:
+        return {}
+    return {(it["id"], k): p["text"] for it in nds["items"] for k, sp in enumerate(it["speeches"])
+            for p in sp["parts"] if p["type"] == "summary" and p["source"] == "llm"}
+
+
+def compose_week(sids, llm=False):
     """The plan filled with what the single-sitting pipeline wrote for every item -> one NDS dict for the week."""
     plan = build_plan(sids)
-    done, compute = {}, {}
+    done, compute, llm_sittings = {}, {}, []
     for s in plan["sids"]:
-        nds, _, _ = compose.compose(s, system)
-        done.update({(s, it["id"]): it for it in nds["items"]})
+        nds, _, _ = compose.compose(s, "C")
+        extra = llm_summaries(s) if llm else {}
+        if extra:
+            llm_sittings.append(s)
+        units = plan["sittings"][s]["units"]
+        for it in nds["items"]:
+            for k, sp in enumerate(it["speeches"]):
+                sp["modes"] = modes_of(sp, units, extra.get((it["id"], k)))
+            done[(s, it["id"])] = it
         for name, v in nds["compute"].items():
             compute[name] = round(compute.get(name, 0) + v, 4)
     items = []
@@ -189,36 +232,36 @@ def compose_week(sids, system):
         iid = pr["id"] if pr else k[1]
         day, long_day = plan["days"][k[0]] if k else (None, None)
         items.append({
-            "id": iid if pr else own_number(k),
-            "label": structure.label(iid) if pr or iid.startswith("ZP") else f"Aufgerufen als TOP {order.num(iid)[1]} ({number(k[0])}. Sitzung)", "title": pr["title"] if pr else clean_title(src["title"]),
+            "id": iid if pr else own_number(k), "title": pr["title"] if pr else clean_title(src["title"]),
             "drucksachen": src.get("drucksachen") or (pr or {}).get("drucksachen", []), "kind": src.get("kind"),
             "section": e["section"], "notes": e["notes"], "speeches": src.get("speeches", []), "votes": src.get("votes", []),
-            "referrals": src.get("referrals", []), "subitems": src.get("subitems", []),
-            "planned_day": pr["day"] if pr else None, "merged_into": e["merged_into"],
+            "referrals": src.get("referrals", []), "planned_day": pr["day"] if pr else None, "merged_into": e["merged_into"],
             "handled": {"sid": k[0], "sitting": number(k[0]), "day": day, "date": long_day, "as": k[1],
                         "position": plan["structures"][k[0]]["items"][k[1]]["handled_pos"]} if k else None})
     metas = [plan["sittings"][s]["meta"] for s in plan["sids"]]
-    return {"sids": plan["sids"], "system": system, "style": "v3 wortnah + Kurzfassung", "items": items,
-            "compute": compute, "metas": metas}
+    return {"sids": plan["sids"], "llm_sittings": llm_sittings, "items": items, "compute": compute, "metas": metas}
 
 
 def main():
     a = argparse.ArgumentParser(description="One Niederschrift for all sittings of a week, in the printed agenda's order")
     a.add_argument("sids", nargs="+")
-    a.add_argument("--system", choices=["B", "C"], required=True)
+    a.add_argument("--llm", action="store_true", help="add the LLM's one-sentence summaries where they are available")
     a.add_argument("--pdf", action="store_true")
     x = a.parse_args()
-    wk = compose_week(x.sids, x.system)
+    wk = compose_week(x.sids, x.llm)
     compose.OUT.mkdir(parents=True, exist_ok=True)
-    stem = compose.OUT / f"{wk['sids'][0]}-{wk['sids'][-1]}_{x.system}"
-    stem.with_suffix(".json").write_text(json.dumps(wk, ensure_ascii=False, indent=1), encoding="utf-8")
+    stem = compose.OUT / f"{wk['sids'][0]}-{wk['sids'][-1]}"
     stem.with_suffix(".html").write_text(render.render_week(wk), encoding="utf-8")
     if x.pdf:
         render.to_pdf(stem.with_suffix(".html"), stem.with_suffix(".pdf"))
+    for it in wk["items"]:                                  # the modes are for reading; the data keeps the parts
+        for sp in it["speeches"]:
+            sp["summary_llm"] = (sp.pop("modes").get("kurzllm") or {"html": [None]})["html"][0]
+    stem.with_suffix(".json").write_text(json.dumps(wk, ensure_ascii=False, indent=1), encoding="utf-8")
     planned = sum(it["planned_day"] is not None for it in wk["items"])
     print(f"{stem.name}: {planned} planned items + {len(wk['items']) - planned} others, "
           f"{sum(len(it['speeches']) for it in wk['items'])} speeches, rules {wk['compute']['rule_seconds']} s CPU, "
-          f"LLM {wk['compute']['llm_calls']} calls -> {stem}.html")
+          f"LLM summaries for {len(wk['llm_sittings'])} sitting(s) -> {stem}.html")
 
 
 if __name__ == "__main__":
