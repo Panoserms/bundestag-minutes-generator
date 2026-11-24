@@ -39,10 +39,12 @@ several modes, one by one or for the whole file:
 |---|---|--:|
 | Kurzfassung (Regel) | one sentence, formed by rules | 204 |
 | Kurzfassung (Sprachmodell) | one sentence, written by the LLM and checked by rules (sitting 32) | 75 |
+| Zusammenfassung | two or three core sentences, in indirect speech where that is safe, else word for word | 327 |
 | Eigene Worte (Auszug) | the chosen paragraphs in the speaker's words | 507 |
+| Indirekte Rede | the excerpt in Konjunktiv I; sentences that cannot be moved safely are left out ([…]) | 279 |
 | Wortlaut | the full speech, the excerpt highlighted | 520 |
 
-![Screenshot of one speech in the example file: the one-sentence summary by rule and by language model, the excerpt in the speaker's own words, and the full text closed](docs/img/modes.png)
+![Screenshot of one speech in the example file: the one-sentence summary by rule and by language model, the summary and the indirect speech open, the excerpt and the full text closed](docs/img/modes.png)
 
 **Open it:** [as PDF](outputs/21030-21032.pdf) (the excerpt mode), or download
 [the interactive file](https://github.com/Panoserms/bundestag-minutes-generator/raw/main/outputs/21030-21032.html) and open it in a browser.
@@ -81,6 +83,7 @@ rules carry over to local government: [findings](konstanz_agenda_study/FINDINGS.
 - The minutes are drafts: some items carry a *Prüfhinweis* where the chair's result and the official record do not match.
 - The week mode was built on the week of sittings 98 to 100. The example week was only checked for order and completeness, and
   its sitting 31 is part of the background statistics.
+- *Zusammenfassung* and *Indirekte Rede* are new and not evaluated on hand labels.
 - In question time, questions the chair read out appear in the chair's words.
 
 ## Run it
@@ -101,7 +104,7 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 | Path | What |
 |---|---|
-| `niederschrift/` | the pipeline: segmentation, order, votes, topic, excerpts, summary, week, rendering |
+| `niederschrift/` | the pipeline: segmentation, order, votes, topic, excerpts, summary, indirect speech, week, rendering |
 | `baseline/` | the model-only system and its parser |
 | `scripts/` | evaluation, side-by-side view, background statistics |
 | `docs/` | [results](docs/RESULTS.md), [rulebook](docs/RULES.md), [architecture](docs/ARCHITECTURE.md), style guides (current, and the one used in the scored test) |

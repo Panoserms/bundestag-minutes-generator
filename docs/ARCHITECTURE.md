@@ -13,6 +13,8 @@ sources.load_sitting(sid)                 the three public sources, agenda marku
    │
    ├── compose.py                          joins both, adds the Kurzfassung (B: reported_llm.py, C: kurz.py)
    ├── render.render_html(nds) / to_pdf    Münster layout, HTML → PDF
+   ├── week.py                             all sittings of a week in one file (rules W1–W6)
+   ├── indirect.py                         two more reading modes: indirect speech, summary (rules I1–I7)
    │
    └── baseline/ and scripts/evaluate.py   system A, and the metrics for A, B and C
 ```

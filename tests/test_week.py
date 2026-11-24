@@ -112,3 +112,13 @@ def test_the_example_week_runs_from_top_1_to_top_41():
     shown = [e["key"] for e in p["entries"] if e["key"] and not e["merged_into"]]
     expected = {(s, i) for s in p["sids"] for i, it in p["structures"][s]["items"].items() if week.has_content(it)}
     assert len(shown) == len(set(shown)) and expected <= set(shown)
+
+
+def test_all_modes_of_a_speech():
+    units = [{"text": "Guten Tag. Der Antrag hat viele Schwächen. " + "Das sind Füllwörter. " * 60 + "Die Reform ist ein wichtiger Schritt."}]
+    core = [{"k": 1, "text": "Der Antrag hat viele Schwächen.", "score": 1}, {"k": 62, "text": "Die Reform ist ein wichtiger Schritt.", "score": 1}]
+    sp = {"speaker": "Eva Muster", "units": [0], "core": core, "parts": [
+        {"type": "quote", "text": "Der Antrag hat viele Schwächen. […] Die Reform ist ein wichtiger Schritt."}]}
+    m = week.modes_of(sp, units)
+    assert list(m) == ["zusammen", "auszug", "indirekt", "wortlaut"]
+    assert m["indirekt"]["html"] == ["Eva Muster erklärt, der Antrag habe viele Schwächen. […] Die Reform sei ein wichtiger Schritt."]

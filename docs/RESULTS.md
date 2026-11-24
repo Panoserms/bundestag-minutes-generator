@@ -161,6 +161,10 @@ The example week in `outputs/` (sittings 30 to 32, 8 to 10 October 2025) was onl
 planned items in order, 2 of them moved to another day, 2 withdrawn, 1 without a call, 13 items that were not printed, and 520 of
 520 speeches once. Sitting 31 is part of the background statistics, so its excerpts are not a clean test.
 
+**Modes added in November 2026.** *Indirekte Rede* exists for 279 of the 520 speeches and *Zusammenfassung* for 327: about one sentence in
+nine can be moved safely by the rules, and the others are left out or quoted. The rules were corrected on the development sittings by reading
+their output; they are not evaluated on hand labels.
+
 ## Limits
 - A was run on one test sitting only, so the A–B comparison rests on one sitting, and with the v2
   style. A v3 comparison needs A re-run with the v3 rules on a fresh sitting.

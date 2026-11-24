@@ -100,7 +100,19 @@ council's decision records: 91 of 91 keep agenda numbering, and at least 25 note
 | K3 | **Model version (system B):** one call per agenda item; the model sees only the best-scored excerpt sentences (≤ 180 words) and ≤ 4 off-topic sentences per speech. |
 | K4 | **Every model sentence is checked by rule**: one sentence, ≤ 30 words, starts with a lower-case verb, no quotation marks, no digit and no proper name that is not in the source. A sentence that fails is replaced by K2 or left out. |
 
-## 6. Checks on the output (`scripts/evaluate.py`)
+## 6. Indirect speech and summary (`indirect.py`)
+
+| ID | Rule | Linguistic idea |
+|---|---|---|
+| I1 | Finite verbs move to **Konjunktiv I** (*muss → müsse*, *stellt bereit → stelle bereit*). | Indirect speech (Duden grammar) |
+| I2 | Where Konjunktiv I equals the indicative (most plurals), **Konjunktiv II** (*haben → hätten*) or ***würde* + infinitive** (*brauchen → würden … brauchen*). | Distinctness of the subjunctive form |
+| I3 | Past tense becomes the perfect: *hatte geändert → habe geändert*, *wurde beschlossen → sei beschlossen worden*. | One past in the Konjunktiv |
+| I4 | A sentence is **refused** when it needs its speaker or its context: first or second person, *Sie*, pronoun subjects, *deshalb*, *dafür*, forms of address, questions, quotations, insertions between dashes. | Deixis and anaphora cannot be moved |
+| I5 | A sentence is refused when a finite verb is in a form the rules do not know for certain, or when a clause has no finite verb (one was missed). | Closed word lists and regular forms only |
+| I6 | The speaker is named once (*X erklärt, …*); sentences left out are marked […]. | — |
+| I7 | **Summary:** the two or three best-scored sentences (at most about 80 words, no repetition), in spoken order, for speeches of 120 words or more; in indirect speech where I1–I5 allow it, else word for word. | Sentence extraction without redundancy |
+
+## 7. Checks on the output (`scripts/evaluate.py`)
 
 | ID | Check |
 |---|---|

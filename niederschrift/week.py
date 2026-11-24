@@ -5,8 +5,8 @@ Tagesordnung as printed before the week, from the first planned item to the last
     -> outputs/21030-21032.json, .html (.pdf)
 
 Every speech can be read in several modes (render.MODES): a one-sentence summary written by a rule, the same written by
-the LLM (--llm; from the saved replies, or by new calls if NIEDERSCHRIFT_LLM_CMD is set), the speaker's own words as an
-excerpt, and the full text with the excerpt highlighted.
+the LLM (--llm; from the saved replies, or by new calls if NIEDERSCHRIFT_LLM_CMD is set), a short summary, the speaker's
+own words as an excerpt, the excerpt in indirect speech, and the full text with the excerpt highlighted.
 
 The single-sitting pipeline does the work inside each sitting (segmentation, votes, the speakers' own words). This
 module only decides where each item stands (rules W1-W6, docs/RULES.md):
@@ -26,7 +26,7 @@ import argparse
 import json
 import re
 
-from . import compose, order, render, sources, structure, votes
+from . import compose, indirect, order, render, sources, structure, topic, votes
 
 MOVED = re.compile(r"^(?:Dieser Tagesordnungspunkt wurde nach|Dieser Punkt stand nicht|An dieser Stelle|Mit diesem Punkt|"
                    r"Gemeinsam beraten|Der Punkt wurde in dieser Sitzung nicht aufgerufen)")
@@ -191,9 +191,18 @@ def modes_of(sp, units, llm_summary=None):
         out["kurz"] = {"html": [render.esc(parts["summary"]["text"])], "words": len(parts["summary"]["text"].split())}
     if llm_summary:
         out["kurzllm"] = {"html": [render.esc(llm_summary)], "words": len(llm_summary.split())}
+    nlp = topic.nlp() if sp.get("core") else None
+    if nlp:
+        s = indirect.summary_mode(sp["speaker"], sp["core"], nlp, len(full.split()))
+        if s:
+            out["zusammen"] = {"html": [render.esc(s)], "words": len(s.split())}
     if "quote" in parts:
         text = parts["quote"]["text"]
         out["auszug"] = {"html": [render.esc(p) for p in text.split("\n")], "words": len(text.replace("[…]", "").split())}
+    if nlp:
+        s = indirect.indirect_mode(sp["speaker"], sp["core"], nlp)
+        if s:
+            out["indirekt"] = {"html": [render.esc(s)], "words": len(s.split())}
     out["wortlaut"] = {"html": marked, "words": len(full.split())}
     return out
 
@@ -214,7 +223,7 @@ def compose_week(sids, llm=False):
     plan = build_plan(sids)
     done, compute, llm_sittings = {}, {}, []
     for s in plan["sids"]:
-        nds, _, _ = compose.compose(s, "C")
+        nds, _, _ = compose.compose(s, "C", keep_core=True)
         extra = llm_summaries(s) if llm else {}
         if extra:
             llm_sittings.append(s)
@@ -256,7 +265,10 @@ def main():
         render.to_pdf(stem.with_suffix(".html"), stem.with_suffix(".pdf"))
     for it in wk["items"]:                                  # the modes are for reading; the data keeps the parts
         for sp in it["speeches"]:
-            sp["summary_llm"] = (sp.pop("modes").get("kurzllm") or {"html": [None]})["html"][0]
+            modes = sp.pop("modes")
+            sp.pop("core", None)
+            for key, name in (("kurzllm", "summary_llm"), ("zusammen", "core_summary"), ("indirekt", "indirect")):
+                sp[name] = modes[key]["html"][0] if key in modes else None
     stem.with_suffix(".json").write_text(json.dumps(wk, ensure_ascii=False, indent=1), encoding="utf-8")
     planned = sum(it["planned_day"] is not None for it in wk["items"])
     print(f"{stem.name}: {planned} planned items + {len(wk['items']) - planned} others, "

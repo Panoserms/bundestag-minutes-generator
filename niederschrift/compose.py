@@ -75,7 +75,15 @@ def nds_speech(d, s, kf):
             "words_source": d.get("words_source"), "parts": parts}
 
 
-def compose(sid, system, tag_prefix=None):
+def core_of(d, s):
+    """The excerpt's sentences with their score (topic + information), in spoken order: input for indirect.py."""
+    text = {x["k"]: x["text"] for x in s["sentences"]}
+    score = {x["k"]: x["topic"] + x["info"] for x in d.get("scores", [])}
+    ks = sorted({k for p in d["parts"] if p["type"] == "quote" for k in p["sent"]})
+    return [{"k": k, "text": text[k], "score": score.get(k, 0)} for k in ks if k in text]
+
+
+def compose(sid, system, tag_prefix=None, keep_core=False):
     t_wall = time.time()
     t_cpu = time.process_time()
     sitting = load_sitting(sid)
@@ -115,6 +123,9 @@ def compose(sid, system, tag_prefix=None):
                 if t:
                     kurz_of[k] = {"text": t, "source": "rule" if system == "C" else "rule-fallback"}
         item["speeches"] = [nds_speech(d, s, kurz_of.get(k)) for k, (d, s) in enumerate(zip(digests, speeches))]
+        if keep_core:
+            for sp, d, s in zip(item["speeches"], digests, speeches):
+                sp["core"] = core_of(d, s)
     fresh = [r for r in llm_recs if not r.get("cached")]
     nds["compute"] = {
         "rule_seconds": round(time.process_time() - t_cpu, 2),

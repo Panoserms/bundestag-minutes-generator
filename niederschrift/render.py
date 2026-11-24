@@ -254,7 +254,9 @@ def marked(text, start, spans):
 MODES = [   # key, name, what it is
     ("kurz", "Kurzfassung (Regel)", "ein Satz, nach Regeln aus der Rede gebildet"),
     ("kurzllm", "Kurzfassung (Sprachmodell)", "ein Satz, vom Sprachmodell geschrieben und von Regeln geprüft"),
+    ("zusammen", "Zusammenfassung", "zwei bis drei Kernsätze; in indirekter Rede, wo die Umformung sicher ist, sonst wörtlich"),
     ("auszug", "Eigene Worte (Auszug)", "die ausgewählten Absätze im Wortlaut, Auslassungen mit […]"),
+    ("indirekt", "Indirekte Rede", "die Sätze des Auszugs im Konjunktiv I; nicht sicher umformbare Sätze fehlen ([…])"),
     ("wortlaut", "Wortlaut", "die ganze Rede; gelb = im Auszug verwendet"),
 ]
 DEFAULT_MODE = "auszug"
@@ -295,7 +297,7 @@ p{margin:0 0 2.2mm}
  table.to a{color:#2f5d8a;text-decoration:none} table.to a:hover{text-decoration:underline}
 }
 .toolbar{position:fixed;top:0;left:0;right:0;z-index:10;display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;justify-content:center;
- padding:.55rem 1rem;background:#ffffffee;border-bottom:1px solid #d5d9df;font:600 13px "Helvetica Neue",Arial,sans-serif;backdrop-filter:blur(4px)}
+ padding:.55rem 1rem;background:#ffffffee;border-bottom:1px solid #d5d9df;font:600 12.5px "Helvetica Neue",Arial,sans-serif;backdrop-filter:blur(4px)}
 .toolbar b{margin-right:.6rem} .toolbar button,.toolbar a{font:inherit;border:1px solid #c5ccd5;background:#fff;color:#1b1f24;padding:.3rem .7rem;
  border-radius:5px;cursor:pointer;text-decoration:none} .toolbar button:hover,.toolbar a:hover{border-color:#2f5d8a}
 .toolbar .leg{font-weight:400;color:#5b6470} .toolbar mark{padding:0 .3rem}
